@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits
+AsArraySerializerBase,1,16
+BeanPropertyWriter,1,16
+DeserializationFeature,1,16
+MapDeserializer,1,16
+ObjectIdInfo,1,16
+POJOPropertyBuilder,1,16
+TestJsonNode,1,16
+TestObjectIdDeserialization,1,16
+TestPropertyConflicts,1,16
+TestTypedDeserializationWithDefault,1,16
+TestWithGenerics,1,16
+TextNode,1,16
+TypeBindings,1,16
+TypeDeserializerBase,1,16

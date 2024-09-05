@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits
+SubTypeValidator,2,15
+ByteBufferSerializer,1,15
+EnumAsIndexMapKey1877Test,1,15
+HugeIntegerCoerceTest,1,15
+JDKScalarsTest,1,15
+JDKTypeSerializationTest,1,15
+JsonNode,1,15
+NioPathDeserializer,1,15
+TypeFactory,1,15

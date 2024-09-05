@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits
+MapDeserializer,1,3
+MapperFeature,1,3
+StdDeserializer,1,3
+TestValueInstantiator,1,3

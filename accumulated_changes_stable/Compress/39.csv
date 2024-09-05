@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits
+FramedSnappyCompressorInputStream,2,7
+BZip2CompressorOutputStream,1,7
+DetectArchiverTestCase,1,7
+ExtraFieldUtils,1,7
+FramedSnappyCompressorInputStreamTest,1,7
+FramedSnappyDialect,1,7
+Lister,1,7
+LongPathTest,1,7
+LongSymLinkTest,1,7
+TarArchiveEntry,1,7
+TarArchiveInputStream,1,7
+ZipArchiveEntry,1,7
+ZipArchiveOutputStream,1,7
+ZipExtraField,1,7

@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+GeneratorBase,1,18,53,12
+JsonGenerator,1,18,7,7
+JsonWriteContext,1,18,3,1
+UTF8StreamJsonParser,2,18,7,22
+BytesToNameCanonicalizer,1,18,4,4
+CharsToNameCanonicalizer,1,18,3,3
+TextBuffer,1,18,0,0
+TestNumericValues,2,18,53,3
+TestTextBuffer,1,18,1,1

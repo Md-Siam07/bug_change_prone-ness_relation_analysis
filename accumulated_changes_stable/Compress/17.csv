@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits
+ArchiveStreamFactory,3,9
+TarArchiveOutputStreamTest,2,9
+ZipArchiveEntryTest,2,9
+ZipMethod,2,9
+AbstractTestCase,1,9
+ArArchiveOutputStreamTest,1,9
+MemoryArchiveTestCase,1,9
+TarArchiveInputStreamTest,1,9
+UnsupportedZipFeatureException,1,9
+ZipArchiveInputStream,1,9
+ZipUtil,1,9

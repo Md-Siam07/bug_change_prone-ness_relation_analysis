@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits
+PolymorphicWithObjectId1551Test,2,6
+TestSubtypes,2,6
+AbstractDeserializer,1,6
+JsonIgnoreProperties1595Test,1,6

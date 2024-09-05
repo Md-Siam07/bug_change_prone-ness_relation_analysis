@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits
+TypeCheckTest,4,15
+TypeInference,3,15
+TypedScopeCreator,3,15
+FunctionTypeBuilder,2,15
+NodeUtil,2,15
+Scope,2,15
+ChainableReverseAbstractInterpreter,1,15
+CompilerOptions,1,15
+DefaultPassConfig,1,15
+FlowSensitiveInlineVariablesTest,1,15
+MaybeReachingVariableUse,1,15
+MaybeReachingVariableUseTest,1,15
+Node,1,15
+PassConfig,1,15
+PhaseOptimizer,1,15
+TypeInferenceTest,1,15

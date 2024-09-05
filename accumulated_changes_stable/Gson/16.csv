@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits
+PostConstructAdapterFactoryTest,2,6
+FieldAttributes,1,6
+JsonArray,1,6
+JsonElement,1,6
+JsonNull,1,6
+JsonObject,1,6
+JsonPrimitive,1,6
+PostConstructAdapterFactory,1,6
+UtcDateTypeAdapter,1,6
+UtcDateTypeAdapterTest,1,6

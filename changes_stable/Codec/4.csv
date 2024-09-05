@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Base64,2,0,8,0
+Hex,6,0,149,77
+StringUtils,1,0,13,13
+DigestUtils,4,0,65,38
+Base64Codec13Test,3,0,550,0
+Base64Test,1,0,5,5
+HexTest,4,0,211,41
+StringUtilsTest,2,0,15,23
+DigestUtilsTest,1,0,22,16
+AllTests,1,33,0,41
+CaverphoneTest,1,33,0,7
+DoubleMetaphone2Test,2,0,2,9
+DoubleMetaphoneTest,1,0,0,7
+MetaphoneTest,1,0,0,7
+RefinedSoundexTest,1,0,0,7
+SoundexTest,1,0,0,7

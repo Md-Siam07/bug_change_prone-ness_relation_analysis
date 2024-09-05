@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits
+ConnectTest,7,10
+SlowRider,3,7
+HttpConnection,4,13
+UrlConnectTest,4,13
+TestServer,3,10
+EchoServlet,2,8
+ConstrainableInputStream,3,13
+BaseServlet,2,10
+Connection,2,13
+HelloServlet,1,10
+ConstrainableInputStreamTest,1,12
+DataUtil,1,13
+Entities,1,13
+StringUtil,1,13
+Tokeniser,1,13

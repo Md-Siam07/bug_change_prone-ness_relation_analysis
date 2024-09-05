@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DataUtil,1,21,4,5
+HttpConnection,1,21,5,1
+Attributes,2,21,5,1
+Document,1,21,1,3
+Element,2,21,36,14
+Entities,1,21,55,32
+CharacterReader,1,21,34,9
+UrlConnectTest,1,21,30,1
+AttributesTest,2,21,46,0
+ElementTest,1,21,55,0

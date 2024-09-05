@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits
+ShapeList,1,2
+BoxAndWhiskerToolTipGeneratorTests,1,2
+IntervalCategoryLabelGeneratorTests,1,2
+StandardCategoryItemLabelGeneratorTests,1,2
+StandardCategoryToolTipGeneratorTests,1,2
+StandardPieSectionLabelGeneratorTests,1,2
+StandardPieToolTipGeneratorTests,1,2
+AbstractRendererTests,1,2
+PaintListTests,1,2
+DefaultOHLCDatasetTests,1,2

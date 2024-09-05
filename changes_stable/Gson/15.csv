@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DefaultDateTypeAdapter,1,3,43,29
+GsonBuilder,1,3,12,5
+DefaultDateTypeAdapterTest,1,3,34,30

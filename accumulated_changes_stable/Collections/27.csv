@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits
+AbstractMultiValuedMapTest,1,8
+CloneTransformer,1,8
+FactoryUtilsTest,1,8
+ForClosure,1,8
+InstantiateFactory,1,8
+InstantiateTransformer,1,8
+InvokerTransformer,1,8
+PatriciaTrieTest,1,8
+PrototypeFactory,1,8
+TransformerUtilsTest,1,8
+WhileClosure,1,8
+package-info,1,8

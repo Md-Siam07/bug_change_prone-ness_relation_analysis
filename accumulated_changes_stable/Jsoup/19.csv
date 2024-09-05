@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits
+ParserTest,1,0
+HttpConnection,2,12
+UrlConnectTest,2,12
+AttributeParseTest,1,12
+CleanerTest,1,12
+Connection,1,12
+DataUtil,1,12
+Parser,1,12
+Tokeniser,1,12
+TokeniserState,1,12
+Whitelist,1,12

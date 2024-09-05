@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializerBuilder,1,19,6,3
+OptionalHandlerFactory,1,19,4,4
+AnnotatedClass,1,19,36,37
+EnumMapSerializer,1,19,27,17
+EnumSerializer,3,19,37,24
+EnumValues,3,19,15,3
+TestBuilderSimple,1,19,136,17
+TestSOAP,1,19,20,0
+MixinsWithBundlesTest,1,19,43,0
+TestEnumSerialization,2,19,7,2
+TestJDKSerialization,2,19,32,1
+EnumMap749Test,1,19,51,0

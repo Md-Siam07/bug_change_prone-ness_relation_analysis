@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits
+SymbolsViaParserTest,2,7
+ByteQuadsCanonicalizer,1,7
+JsonGenerator,1,7
+JsonParser,1,7
+JsonStreamContext,1,7
+SymbolTableMergingTest,1,7
+TestHashCollisionChars,1,7
+TestSymbolTables,1,7

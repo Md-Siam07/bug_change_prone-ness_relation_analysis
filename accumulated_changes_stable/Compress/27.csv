@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits
+ArjArchiveInputStream,2,9
+IOUtils,2,9
+AbstractUnicodeExtraField,1,9
+ArjArchiveEntry,1,9
+BZip2CompressorInputStreamTest,1,9
+ChangeSet,1,9
+CpioArchiveEntry,1,9
+DumpArchiveInputStream,1,9
+ExtraFieldUtils,1,9
+SevenZFile,1,9
+SevenZOutputFile,1,9
+TarArchiveInputStream,1,9
+TarArchiveOutputStream,1,9
+UnrecognizedExtraField,1,9
+ZipArchiveOutputStream,1,9

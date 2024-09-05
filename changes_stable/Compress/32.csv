@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TarArchiveEntry,2,9,55,10
+TarArchiveOutputStream,1,9,4,4
+ZipEncodingHelper,1,9,1,1
+CompressorStreamFactory,1,9,6,0
+LZMACompressorInputStream,1,9,32,0
+LZMAUtils,1,9,161,0
+ArchiveReadTest,1,9,4,4
+LongPathTest,1,9,4,4
+LongSymLinkTest,1,9,4,4
+LZMAUtilsTestCase,1,9,108,0
+LZMATestCase,1,9,30,10

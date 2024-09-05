@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits
+Tag,2,2
+Attribute,1,2
+CleanerTest,1,2
+Document,1,2
+DocumentTest,1,2
+DocumentType,1,2
+Element,1,2
+ElementTest,1,2
+Entities,1,2
+EntitiesTest,1,2
+HtmlParserTest,1,2
+TextNode,1,2
+XmlTreeBuilder,1,2
+XmlTreeBuilderTest,1,2

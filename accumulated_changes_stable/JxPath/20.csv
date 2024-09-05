@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits
+LazyDynaBeanTest,2,3
+StrictLazyDynaBeanPointerFactory,2,3
+XMLUpperCaseElementsTest,2,22
+FunctionLibrary,2,29
+NodePointer,2,29
+ExceptionHandler,1,25
+ExceptionHandlerTest,1,25
+AliasedNamespaceIterationTest,1,29
+DynamicPointer,1,29
+JXPathContext,1,29
+JXPathContextReferenceImpl,1,29
+MethodLookupUtils,1,29
+NamespaceResolver,1,29
+PropertyIterator,1,29

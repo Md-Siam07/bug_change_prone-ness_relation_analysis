@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CommandLineImpl,1,6,2,2
+DefaultingCommandLine,1,6,13,4
+CommandLine,1,6,21,3
+PreferencesCommandLine,1,6,11,2
+PropertiesCommandLine,1,6,11,2
+WriteableCommandLineImpl,1,6,33,4
+PropertyOption,1,6,1,1
+WriteableCommandLine,1,6,10,0
+BugCLI126Test,2,0,49,0
+BugCLI12Test,1,0,3,3
+DefaultingCommandLineTest,1,6,2,1
+CommandLineTestCase,1,6,13,13
+PropertyOptionTest,1,6,8,8
+WriteableCommandLineTestCase,1,6,5,4

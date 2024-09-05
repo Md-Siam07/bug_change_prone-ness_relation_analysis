@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BasicDeserializerFactory,0,10,150,168
+AnnotatedClass,1,10,73,83
+SingleArgCreatorTest,0,10,0,0
+TestNullHandling,1,10,196,0

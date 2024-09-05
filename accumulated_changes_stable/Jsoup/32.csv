@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits
+Connection,3,10
+Node,3,10
+DataUtil,2,10
+Element,2,10
+ElementTest,2,10
+Elements,2,10
+HtmlParserTest,2,10
+NodeTest,2,10
+UrlConnectTest,2,10
+CleanerTest,1,10
+HtmlTreeBuilderState,1,10
+HttpConnection,1,10
+NodeTraversor,1,10
+Selector,1,10
+TokeniserState,1,10
+Whitelist,1,10

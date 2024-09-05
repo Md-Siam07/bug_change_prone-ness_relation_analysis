@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ConstrainableInputStream,1,5,2,2
+CharacterReader,1,5,1,1
+TokeniserState,4,5,22,21
+ConnectTest,1,5,11,0
+TokeniserTest,3,4,157,0
+TokenisetStateTest,1,0,25,0

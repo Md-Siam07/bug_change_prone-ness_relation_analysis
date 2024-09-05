@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits
+ExceptionFromCustomEnumKeyDeserializerTest,2,18
+ArrayNode,1,18
+DateSerializationTest,1,18
+DateTimeSerializerBase,1,18
+ObjectNode,1,18
+StdDateFormat,1,18
+TestJsonNode,1,18
+UnresolvedForwardReference,1,18

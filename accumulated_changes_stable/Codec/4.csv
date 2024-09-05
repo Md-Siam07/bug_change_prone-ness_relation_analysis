@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits
+Base64,2,0
+Base64Codec13Test,3,0
+Base64Test,1,0
+DigestUtils,4,0
+DigestUtilsTest,1,0
+DoubleMetaphone2Test,2,0
+DoubleMetaphoneTest,1,0
+Hex,6,0
+HexTest,4,0
+MetaphoneTest,1,0
+RefinedSoundexTest,1,0
+SoundexTest,1,0
+StringUtils,1,0
+StringUtilsTest,2,0
+AllTests,1,33
+CaverphoneTest,1,33

@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits
+ExternalTypeId999Test,3,9
+DeprecatedTypeHandlingTest,2,9
+BeanPropertyWriter,1,9
+CollectionLikeType,1,9
+CollectionType,1,9
+DeprecatedTypeHandling1102Test,1,9
+MapLikeType,1,9
+MapType,1,9
+Objecid1083Test,1,9
+SimpleType,1,9
+StdSerializer,1,9
+TypeBase,1,9
+TypeFactory,1,9

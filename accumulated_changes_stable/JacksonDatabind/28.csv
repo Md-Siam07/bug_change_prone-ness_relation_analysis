@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits
+RecursiveType938Test,2,10
+EnumCreatorTest929,1,10
+ISO8601Utils,1,10
+JacksonAnnotationIntrospector,1,10
+ReadWriteOnlyProp935Test,1,10
+TestBasicAnnotations,1,10
+TestDateDeserialization,1,10
+TypeFactory,1,10

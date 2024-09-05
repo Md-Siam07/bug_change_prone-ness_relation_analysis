@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits
+ElementTest,3,10
+TokeniserState,3,10
+AttributeParseTest,2,10
+Element,2,10
+HtmlParserTest,2,10
+HttpConnection,2,10
+UrlConnectTest,2,10
+Attribute,1,10
+Attributes,1,10
+BooleanAttribute,1,10
+Connection,1,10
+HtmlTreeBuilder,1,10
+Token,1,10
+XmlTreeBuilderTest,1,10

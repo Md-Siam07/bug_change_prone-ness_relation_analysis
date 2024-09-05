@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits
+BeanDeserializer,2,10
+MapSerializer,2,10
+TestMapSerialization,2,10
+AnnotatedClass,1,10
+CreatorWithObjectIdTest,1,10
+EnumDefaultReadTest,1,10
+EnumDeserializationTest,1,10
+EnumDeserializer,1,10
+ObjectIdWithCreator1367Test,1,10

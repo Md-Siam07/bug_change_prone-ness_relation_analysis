@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits
+JXPathContext,4,14
+NamespaceResolver,4,14
+JXPathContextReferenceImpl,3,14
+XMLDocumentContainer,2,14
+XMLPreserveSpaceTest,1,12
+AncestorContext,1,14
+AttributeContext,1,14
+ClassFunctions,1,14
+Compiler,1,14
+DOMNodePointer,1,14
+DocumentContainer,1,14
+JDOMNodePointer,1,14
+Path,1,14
+ReverseComparator,1,14
+SimplePathInterpreter,1,14
+XMLModelTestCase,1,14

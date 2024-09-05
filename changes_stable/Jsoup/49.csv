@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,4,18,34,1
+HttpConnection,6,18,40,16
+Jsoup,0,18,0,0
+Element,1,18,2,0
+CharacterReader,2,18,4,3
+TokeniserState,1,18,5,3
+Token,1,18,15,2
+Evaluator,1,18,2,1
+UrlConnectTest,2,18,55,2
+ElementTest,1,18,12,0
+HtmlParserTest,1,18,7,0
+ElementsTest,1,18,7,0

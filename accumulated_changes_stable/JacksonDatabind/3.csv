@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits
+TestPropertyConflicts,3,13
+ObjectMapper,2,13
+POJOPropertyBuilder,2,13
+StdJdkSerializers,2,13
+TestNameConflicts,1,10
+TestPropertyRename,1,10
+AnnotatedMethod,1,13
+BeanUtil,1,13
+ClassUtil,1,13
+POJOPropertiesCollector,1,13

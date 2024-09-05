@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits
+ToXmlGenerator,5,48
+FromXmlParser,3,48
+XmlParserTest,2,48
+XmlTextTest,2,48
+XmlTypeResolverBuilder,2,48
+SupportDTDDefaultsTest,1,42
+EmptyListDeser124Test,1,46
+JacksonXmlModule,1,48
+TestUnwrappedDeserIssue86,1,48
+UnwrappingWithXMLTest,1,48
+UnwrappingXmlBeanSerializer,1,48
+XmlBeanSerializer,1,48
+XmlBeanSerializerBase,1,48
+XmlFactory,1,48
+XmlMapper,1,48
+XmlTokenStream,1,48

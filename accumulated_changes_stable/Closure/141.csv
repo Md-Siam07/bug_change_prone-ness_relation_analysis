@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits
+CodingConvention,1,4
+CommandLineRunner,1,4
+CommandLineRunnerTest,1,4
+IRFactory,1,4
+JSModule,1,4
+JSModuleTest,1,4
+NodeTypeNormalizerTest,1,4
+NodeUtil,1,4
+Normalize,1,4
+NormalizeTest,1,4
+PrepareAst,1,4

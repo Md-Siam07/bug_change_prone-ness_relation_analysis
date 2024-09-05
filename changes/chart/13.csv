@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits
+BorderArrangement,1,2
+LogAxisTests,1,2
+AbstractRendererTests,1,2
+CandlestickRendererTests,1,2
+HighLowRendererTests,1,2
+PaintListTests,1,2
+WeekTests,1,2
+DefaultOHLCDatasetTests,1,2

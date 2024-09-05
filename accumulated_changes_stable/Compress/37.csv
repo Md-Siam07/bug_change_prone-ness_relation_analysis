@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits
+PureJavaCrc32C,3,9
+ArchiveUtils,1,9
+BZip2CompressorInputStream,1,9
+ZipArchiveInputStream,1,9
+ZipArchiveInputStreamTest,1,9

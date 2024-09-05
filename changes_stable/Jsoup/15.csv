@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DescendableLinkedList,2,5,82,0
+DocumentType,1,16,7,2
+Node,1,16,24,0
+ParseError,1,16,9,7
+TokeniserState,1,16,1,0
+Token,1,16,1,1
+TokenQueue,1,16,4,4
+TreeBuilder,2,16,10,6
+TreeBuilderState,2,16,4,4
+Elements,3,16,25,2
+Selector,1,16,1,0
+NodeTest,1,16,21,0
+ParserTest,2,0,12,0
+ElementsTest,1,16,7,0

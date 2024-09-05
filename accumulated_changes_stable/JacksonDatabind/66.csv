@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits
+MapSerializer,2,10
+PropertyValueBuffer,2,10
+SequenceWriterTest,2,10
+ISO8601Utils,1,10
+ReferenceTypeDeserializer,1,10
+TestCustomValueInstDefaults,1,10

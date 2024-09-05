@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+MappingJsonFactory,1,8,9,1
+ObjectMapper,3,8,37,8
+TypeFactory,1,8,15,14
+TypeParser,1,8,7,0
+TestExternalId,2,8,47,1
+ObjectMapperTest,1,8,7,0

@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits
+TestExceptionHandlingWithJsonCreatorDeserialization,3,9
+ConfigFeature,1,9
+DeserializationFeature,1,9
+JsonNodeDeserializer,1,9
+MapperFeature,1,9
+POJONode,1,9
+RawValue,1,9
+RawValueTest,1,9
+SerializationFeature,1,9
+TokenBuffer,1,9

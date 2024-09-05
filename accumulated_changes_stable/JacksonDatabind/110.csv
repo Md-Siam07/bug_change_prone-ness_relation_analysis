@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits
+WritableObjectId,2,6
+BasicDeserializerFactory,1,6
+CollectionDeserTest,1,6
+DelegatingCreatorWithAbstractProp2252Test,1,6
+MapDeserializationTest,1,6
+TestNamingStrategyStd,1,6

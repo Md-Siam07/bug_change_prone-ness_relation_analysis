@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits
+HtmlTreeBuilderState,2,18
+Node,2,18
+CombiningEvaluator,1,18
+Document,1,18
+DocumentTest,1,18
+Elements,1,18
+FormElement,1,18
+HtmlParserTest,1,18
+HtmlTreeBuilder,1,18
+HttpConnection,1,18
+NodeTraversor,1,18
+QueryParser,1,18
+TokenQueue,1,18
+UrlConnectTest,1,18
+Whitelist,1,18

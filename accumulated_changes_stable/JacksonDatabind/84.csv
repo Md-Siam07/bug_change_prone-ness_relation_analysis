@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits
+FactoryBasedEnumDeserializer,1,5
+OptionalHandlerFactory,1,5
+TestTypeFactoryWithRecursiveTypes,1,5

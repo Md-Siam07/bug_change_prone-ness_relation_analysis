@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CompileTask,1,5,33,3
+CodeGenerator,2,5,15,7
+CrossModuleCodeMotion,1,5,0,0
+ExternExportsPass,1,5,2,7
+PeepholeFoldConstants,1,5,7,1
+SourceInformationAnnotator,1,5,0,0
+RecordTypeBuilder,1,5,0,0
+RecordType,1,5,0,0
+CrossModuleCodeMotionTest,1,5,0,0
+ExternExportsPassTest,1,5,0,0
+FoldConstantsTest,1,5,5,0
+TypeCheckTest,1,5,21,0

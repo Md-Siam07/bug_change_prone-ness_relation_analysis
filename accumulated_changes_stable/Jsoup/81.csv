@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits
+Connection,4,11
+HttpConnection,2,11
+Tokeniser,2,11
+Document,1,11
+Element,1,11
+ElementTest,1,11
+HtmlParserTest,1,11
+HtmlTreeBuilder,1,11
+Node,1,11
+ParseSettings,1,11
+Parser,1,11
+TokeniserTest,1,11
+TreeBuilder,1,11
+UrlConnectTest,1,11
+XmlTreeBuilder,1,11
+XmlTreeBuilderTest,1,11

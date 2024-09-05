@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits
+TypeSerializer,2,6
+EnumCreatorTest,1,6
+FactoryBasedEnumDeserializer,1,6
+TestDefaultForObject,1,6
+TestJsonValue,1,6

@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits
+AsArraySerializerBase,1,12
+DateSerializationTest,1,12
+MapEntrySerializer,1,12
+MapSerializer,1,12
+ObjectArraySerializer,1,12
+ReferenceTypeSerializer,1,12

@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits
+BeanDeserializerFactory,1,3
+ClassUtil,1,3
+ReadValuesTest,1,3
+TestExceptionDeserialization,1,3
+ThrowableDeserializer,1,3

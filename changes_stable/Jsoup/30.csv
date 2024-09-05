@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,1,6,12,0
+HttpConnection,1,6,53,44
+HttpStatusException,1,4,30,0
+Jsoup,1,6,5,2
+Element,1,6,4,4
+UnsupportedMimeTypeException,1,4,30,0
+UrlConnectTest,2,6,31,5
+CleanerTest,1,6,4,1

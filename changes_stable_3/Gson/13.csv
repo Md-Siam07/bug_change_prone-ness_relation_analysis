@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DefaultDateTypeAdapter,1,19,5,3
+FieldNamingPolicy,2,19,3,6
+GsonBuilder,1,19,4,4
+Gson,1,19,1,1
+$Gson$Types,1,19,8,9
+ArrayTypeAdapter,1,19,4,2
+JsonTreeReader,1,19,6,2
+MapTypeAdapterFactory,1,19,2,2
+ReflectiveTypeAdapterFactory,1,19,1,1
+TypeAdapters,1,19,9,27
+JsonArray,1,19,11,4
+JsonReader,4,19,18,4
+JsonTreeReaderTest,1,18,50,0
+ProtoTypeAdapter,1,19,1,1

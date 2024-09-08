@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CreatorProperty,1,1,3,1
+FieldProperty,1,1,3,1
+MethodProperty,1,1,3,1
+ObjectIdReferenceProperty,1,1,3,1
+ObjectIdValueProperty,1,1,3,1
+SetterlessProperty,1,1,3,1
+AtomicReferenceDeserializer,1,1,3,2
+ReferenceTypeDeserializer,1,1,2,2
+JDKAtomicTypesDeserTest,1,0,301,0

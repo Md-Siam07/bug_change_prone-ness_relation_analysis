@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CoalesceVariableNames,1,2,14,7
+CompilerInput,1,2,5,1
+Compiler,1,2,73,33
+JSModuleGraph,1,2,10,2
+LiveVariablesAnalysis,1,2,1,1
+JsDocInfoParser,1,2,27,19
+SyntacticScopeCreator,1,2,11,0
+Token,1,2,1,1
+CoalesceVariableNamesTest,1,2,9,2
+JsDocInfoParserTest,1,2,26,22
+SyntacticScopeCreatorTest,1,2,27,2

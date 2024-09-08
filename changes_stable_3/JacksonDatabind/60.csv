@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+FactoryBasedEnumDeserializer,1,7,1,3
+JavaType,1,7,20,0
+TypeSerializer,2,7,3,3
+CollectionLikeType,1,7,13,0
+MapLikeType,1,7,23,0
+TypeFactory,1,7,3,2
+EnumCreatorTest,1,7,15,0
+TestDefaultForObject,1,7,0,8
+TestJsonValue,1,7,2,2

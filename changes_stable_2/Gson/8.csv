@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+GsonBuilder,1,15,1,0
+Gson,3,15,4,20
+TreeTypeAdapter,1,9,165,0

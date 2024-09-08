@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HttpConnection,1,2,1,1
+StringUtil,1,2,43,0
+Entities,1,2,1,1
+Node,1,2,1,18
+StringUtilTest,1,2,23,5
+UrlConnectTest,1,2,10,0
+DocumentTest,1,2,25,0
+NodeTest,1,2,6,0

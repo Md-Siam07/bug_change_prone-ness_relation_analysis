@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+MapDeserializer,1,4,12,6
+StdDeserializer,1,4,11,7
+MapperFeature,1,4,12,0
+FloatNode,1,4,0,1
+AnyGetterWriter,1,4,43,20
+BeanSerializerFactory,1,4,9,5
+BeanSerializerBase,1,4,1,0
+TestValueInstantiator,1,4,51,4
+TestAnyGetter,1,4,50,2

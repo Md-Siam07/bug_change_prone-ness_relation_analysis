@@ -1,0 +1,3 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+source/org/jfree/data/xy/XYSeries.java,1,2,1,5
+tests/org/jfree/chart/plot/junit/MarkerTests.java,1,2,22,20

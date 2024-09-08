@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PeepholeOptimizationsPass,1,4,4,1
+TypeCheck,1,4,2,1
+TypeInference,1,4,1,5
+JSType,1,4,1,1
+PrototypeObjectType,1,4,24,13
+ProxyObjectType,1,4,1,1
+UnionType,1,4,2,2
+IntegrationTestCase,1,4,0,4
+IntegrationTest,1,4,57,8
+TypeCheckTest,1,4,11,0
+TypeInferenceTest,1,4,18,0

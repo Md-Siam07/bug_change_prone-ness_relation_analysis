@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,1,35,77,77
+DataUtil,1,35,1,2
+Attribute,1,35,1,3
+Document,15,35,149,9
+Element,3,35,21,5
+Entities,1,35,46,7
+FormElement,3,35,6,10
+XmlDeclaration,2,35,23,3
+Parser,1,35,1,2
+Tag,1,35,1,3
+Token,1,35,1,1
+TokenQueue,1,35,2,4
+NodeVisitor,1,35,2,2
+Selector,1,35,1,0
+DocumentTest,13,35,243,6
+FormElementTest,1,35,13,2

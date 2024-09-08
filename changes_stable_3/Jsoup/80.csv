@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DataUtil,1,7,8,8
+LeafNode,1,7,4,1
+HtmlTreeBuilder,1,7,0,2
+HtmlTreeBuilderState,1,7,1,7
+Token,1,7,1,1
+DataUtilTest,1,7,7,0
+TextNodeTest,1,7,10,0
+HtmlParserTest,1,7,10,0

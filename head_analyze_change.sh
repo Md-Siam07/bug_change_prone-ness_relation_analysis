@@ -11,12 +11,12 @@ project_name=$1
 original_dir=$(pwd)
 project_path=$2
 output_path=$3
-csv_file="$original_dir/changes/$project_name/$output_path"
+csv_file="$original_dir/changes_with_line/$project_name/$output_path"
 
 # If the project directory doesn't exist, create it
-if [ ! -d "changes/$project_name" ]; then
+if [ ! -d "changes_with_line/$project_name" ]; then
     echo "Creating directory $project_name"
-    if ! mkdir -p "changes/$project_name"; then
+    if ! mkdir -p "changes_with_line/$project_name"; then
         echo "Error: Unable to create directory $project_name"
         exit 1
     fi
@@ -36,7 +36,7 @@ echo "start hash: $start_hash"
 changed_files=$(git log --name-only --pretty=format: $start_hash..HEAD | grep -v '^$' | sort | uniq)
 
 # Create the CSV file
-echo "ClassName,Changes,TotalCommits" >> "$csv_file"
+echo "ClassName,Changes,TotalCommits,Insertions,Deletions" >> "$csv_file"
 
 if [ $? -ne 0 ]; then
     echo "Error: Unable to create CSV file at $csv_file"
@@ -59,9 +59,23 @@ for file in $changed_files; do
         creation_hash=$(git log --find-renames --diff-filter=A -- "$file" | head -n 1 | cut -d ' ' -f 2)
         changes=$(git rev-list --count $start_hash..HEAD -- "$file")
         total=$(git rev-list --count $creation_hash..HEAD)
-        
+        showstat=$(git diff --name-status $creation_hash..HEAD -- "$file")
+        # echo $file
+        # Get the diff stat
+        stat_output=$(git diff --stat $creation_hash..HEAD -- "$file")
+        # echo "stat_output: $stat_output"
+        # Extract the number of insertions
+        insertions=$(echo "$stat_output" | grep -o '[0-9]* insertion' | awk '{print $1}')
+
+        # Extract the number of deletions
+        deletions=$(echo "$stat_output" | grep -o '[0-9]* deletion' | awk '{print $1}')
+
+        # Handle cases where no insertions or deletions were found
+        insertions=${insertions:-0}
+        deletions=${deletions:-0}
+
         # Append to CSV file
-        echo "$class_name,$changes,$total" >> "$csv_file"
+        echo "$class_name,$changes,$total,$insertions,$deletions" >> "$csv_file"
         
         # echo "$file changed $changes times in $total commits"
     fi

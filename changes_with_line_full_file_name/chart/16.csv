@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+source/org/jfree/data/category/DefaultIntervalCategoryDataset.java,1,2,3,3
+tests/org/jfree/chart/axis/junit/LogAxisTests.java,1,2,23,21
+tests/org/jfree/chart/plot/junit/CategoryPlotTests.java,1,2,6,4
+tests/org/jfree/chart/renderer/junit/AbstractRendererTests.java,1,2,99,97
+tests/org/jfree/chart/util/junit/PaintListTests.java,1,2,19,17
+tests/org/jfree/data/time/junit/WeekTests.java,1,2,90,80

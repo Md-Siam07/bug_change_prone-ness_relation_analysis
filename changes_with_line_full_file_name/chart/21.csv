@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+experimental/org/jfree/experimental/chart/demo/LogAxisDemo1.java,1,3,5,5
+source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java,1,3,0,39
+tests/org/jfree/chart/renderer/category/junit/StackedBarRenderer3DTests.java,1,3,209,175
+tests/org/jfree/data/time/junit/WeekTests.java,1,3,90,80

@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HttpConnection,1,7,1,1
+StringUtil,1,7,3,2
+Jsoup,1,7,1,1
+StringUtilTest,1,7,10,0

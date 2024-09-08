@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ConstrainableInputStream,1,6,2,2
+CharacterReader,1,6,1,1
+HtmlTreeBuilder,1,6,8,8
+TokeniserState,4,6,22,21
+ConnectTest,1,6,11,0
+UrlConnectTest,1,6,9,0
+HtmlParserTest,1,6,13,0
+TokeniserTest,3,4,157,0
+TokenisetStateTest,1,0,25,0

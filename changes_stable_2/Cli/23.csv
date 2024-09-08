@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CLI2Converter,1,24,0,191
+CLI2ConverterTest,1,24,0,133
+CommandLine,1,24,21,0
+HelpFormatter,1,24,5,0
+PatternOptionBuilder,1,24,0,1
+TypeHandler,3,24,15,15
+ApplicationTest,3,24,49,0
+BugCLI162Test,2,17,243,0
+BugsTest,1,24,0,107
+HelpFormatterExamples,1,24,0,114
+HelpFormatterTest,1,24,239,145
+PatternOptionBuilderTest,3,24,18,6

@@ -56,6 +56,15 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
         callee = format_method_name(line.split()[1][3:])[:-2]
         
         try:
+            caller_class = caller.split('.')[-2]
+        except:
+            continue
+
+        if caller.__contains__(":"):
+            caller = caller.split(":")[0]
+            caller_class = caller.split('.')[-1]
+
+        try:
             callee_class = callee.split('.')[-2]
         except:
             continue

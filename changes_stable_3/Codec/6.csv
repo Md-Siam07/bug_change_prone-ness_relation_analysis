@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Base64,1,0,4,0
+Hex,1,0,1,1
+StringUtils,1,0,30,23
+ColognePhonetic,1,0,492,0
+Base64InputStreamTest,1,0,20,0
+Base64OutputStreamTest,1,0,23,0
+Base64TestData,1,0,11,1
+ColognePhoneticTest,1,0,68,0

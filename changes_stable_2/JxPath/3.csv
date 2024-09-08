@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+EvalContext,1,6,2,9
+JXPathContextReferenceImpl,1,6,8,3
+BeanPropertyPointer,1,6,4,1
+MethodLookupUtils,1,6,3,4
+ReverseComparator,1,5,27,0
+ValueUtils,1,6,1,1
+BeanModelTestCase,1,6,26,0

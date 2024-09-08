@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonValueSerializer,1,1,134,17
+ExternalTypeIdTest,1,1,1,9
+TestDefaultWithCreators,1,1,44,7
+TestJsonValue,1,1,3,28

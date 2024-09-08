@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+source/org/jfree/chart/axis/Axis.java,1,2,0,2
+tests/org/jfree/chart/axis/junit/SegmentedTimelineTests.java,1,2,10,8
+tests/org/jfree/data/time/junit/DayTests.java,1,2,52,44
+tests/org/jfree/data/time/junit/HourTests.java,1,2,52,44
+tests/org/jfree/data/time/junit/MillisecondTests.java,1,2,52,44
+tests/org/jfree/data/time/junit/MinuteTests.java,1,2,52,44
+tests/org/jfree/data/time/junit/MonthTests.java,1,2,52,44
+tests/org/jfree/data/time/junit/QuarterTests.java,1,2,52,44
+tests/org/jfree/data/time/junit/SecondTests.java,1,2,52,44
+tests/org/jfree/data/time/junit/WeekTests.java,1,2,106,90
+tests/org/jfree/data/time/junit/YearTests.java,1,2,54,46

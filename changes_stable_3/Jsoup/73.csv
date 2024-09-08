@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Normalizer,1,9,1,1
+Document,2,9,9,2
+Entities,1,9,1,1
+FormElement,1,9,6,0
+CharacterReader,1,9,2,0
+FormElementTest,1,9,22,0
+CharacterReaderTest,1,9,12,0
+HtmlParserTest,1,9,5,0
+CleanerTest,1,9,7,0

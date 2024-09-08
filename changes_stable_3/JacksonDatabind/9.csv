@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializerBase,1,7,13,4
+CreatorCollector,1,7,23,3
+StdKeyDeserializer,1,7,11,1
+PropertyMetadata,1,7,5,1
+BeanUtil,1,7,9,7
+TestJdkTypes,1,7,6,0
+TestMapDeserialization,1,7,13,0

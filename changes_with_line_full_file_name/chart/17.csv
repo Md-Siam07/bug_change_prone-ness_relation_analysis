@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+source/org/jfree/data/time/TimeSeries.java,1,2,1,2
+tests/org/jfree/chart/plot/junit/CategoryPlotTests.java,1,2,6,4
+tests/org/jfree/data/time/junit/WeekTests.java,1,2,90,80

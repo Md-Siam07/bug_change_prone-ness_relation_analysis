@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializerBase,1,6,13,4
+StdKeyDeserializer,1,6,11,1
+PropertyMetadata,1,6,5,1
+BeanUtil,1,6,9,7
+TestMapDeserialization,1,6,13,0

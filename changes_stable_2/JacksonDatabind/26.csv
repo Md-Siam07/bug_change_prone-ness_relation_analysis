@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CompactStringObjectMap,1,8,3,0
+NumberDeserTest,1,4,132,0
+NumberSerTest,1,4,75,0
+FormatFeaturesTest,1,8,2,1
+TestJDKSerialization,3,8,45,5

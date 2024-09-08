@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+FromStringDeserializer,1,2,0,1
+EnumDeserializationTest,1,2,19,0
+ProblemHandlerTest,1,2,8,0

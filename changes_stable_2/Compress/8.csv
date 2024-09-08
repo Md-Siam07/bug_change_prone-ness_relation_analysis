@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ArchiveInputStream,1,10,1,1
+Lister,1,6,63,0
+TarUtilsTest,2,10,17,21
+TarTestCase,2,10,11,0

@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+source/org/jfree/chart/plot/XYPlot.java,1,2,0,2
+tests/org/jfree/chart/axis/junit/AxisTests.java,1,2,157,155
+tests/org/jfree/chart/axis/junit/PeriodAxisTests.java,1,2,30,28
+tests/org/jfree/chart/junit/ChartPanelTests.java,1,2,14,12
+tests/org/jfree/data/time/junit/TimeSeriesCollectionTests.java,1,2,40,38

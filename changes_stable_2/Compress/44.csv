@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+FixedLengthBlockOutputStream,5,13,255,0
+CpioUtilTest,1,23,29,2
+ArchiveUtilsTest,1,23,50,2
+ChangeTest,1,2,64,0
+XZCompressorOutputStreamTest,2,2,55,0
+ZCompressorInputStreamTest,1,2,54,0
+ChecksumCalculatingInputStreamTest,4,7,110,0
+ChecksumVerifyingInputStreamTest,3,7,86,0
+FixedLengthBlockOutputStreamTest,2,13,383,0
+ServiceLoaderIteratorTest,2,7,73,0

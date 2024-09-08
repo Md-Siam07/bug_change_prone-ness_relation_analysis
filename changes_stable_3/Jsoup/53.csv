@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DataUtil,1,2,61,43
+Document,1,2,1,1
+XmlDeclaration,1,2,24,29
+XmlTreeBuilder,1,2,6,2
+DocumentTest,1,2,4,4
+XmlTreeBuilderTest,2,2,39,2

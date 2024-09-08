@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+source/org/jfree/data/time/TimeSeries.java,1,2,0,2
+tests/org/jfree/chart/axis/junit/PeriodAxisTests.java,1,2,30,28
+tests/org/jfree/data/time/junit/TimeSeriesCollectionTests.java,1,2,40,38

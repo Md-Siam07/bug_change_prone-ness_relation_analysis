@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,1,1,1,0
+DataUtil,1,1,7,1
+UncheckedIOException,1,1,1,1
+ConnectTest,1,1,36,0
+InterruptedServlet,1,0,31,0
+CharacterReaderTest,1,1,1,0

@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+MakeDeclaredNamesUnique,1,1,122,75
+NodeUtil,1,1,8,0
+Normalize,1,1,15,1
+MakeDeclaredNamesUniqueTest,1,1,109,4
+NormalizeTest,1,1,6,1

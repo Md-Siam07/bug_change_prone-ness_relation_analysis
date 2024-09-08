@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,1,5,5,1
+W3CDom,1,5,0,3
+TokenQueue,2,5,6,2
+Elements,1,5,40,1
+QueryParser,1,5,6,2
+ParseTest,1,5,1,1
+TokenQueueTest,1,5,2,2
+ElementsTest,1,5,41,1
+QueryParserTest,1,5,6,7
+SelectorTest,1,5,14,6

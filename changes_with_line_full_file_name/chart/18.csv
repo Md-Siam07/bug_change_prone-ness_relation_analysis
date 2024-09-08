@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+source/org/jfree/data/DefaultKeyedValues2D.java,1,2,0,9
+source/org/jfree/data/DefaultKeyedValues.java,1,2,3,2
+tests/org/jfree/chart/plot/junit/CategoryPlotTests.java,1,2,6,4
+tests/org/jfree/data/time/junit/WeekTests.java,1,2,90,80

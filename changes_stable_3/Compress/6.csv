@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ZipArchiveEntry,1,5,50,0
+ZipArchiveInputStream,4,5,58,13
+ZipArchiveOutputStream,1,5,5,1
+Maven221MultiVolumeTest,1,4,129,0
+ZipTestCase,2,5,44,1
+ZipArchiveEntryTest,1,5,24,0

@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Element,1,2,2,2
+Node,1,2,3,0
+TextNode,1,2,1,1
+Tag,1,2,27,11
+ElementTest,1,2,2,2
+NodeTest,1,2,13,0
+ParserTest,1,0,1,1
+ElementsTest,1,2,1,1

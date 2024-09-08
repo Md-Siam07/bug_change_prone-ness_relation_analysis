@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ConfigFeature,1,10,7,0
+BeanDeserializer,0,10,0,0
+DeserializationFeature,1,10,1,3
+JsonNodeDeserializer,1,10,11,1
+MapperFeature,1,10,1,3
+MappingIterator,1,10,153,29
+POJONode,1,10,8,0
+SerializationFeature,1,10,1,3
+RawValue,1,10,23,0
+TokenBuffer,1,10,9,9
+TestExceptionHandlingWithDefaultDeserialization,0,10,0,0
+TestExceptionHandlingWithJsonCreatorDeserialization,3,10,2,6
+ReadRecoveryTest,1,10,65,9
+RawValueTest,1,10,16,0

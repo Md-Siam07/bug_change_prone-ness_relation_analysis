@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+experimental/org/jfree/experimental/chart/demo/LogAxisDemo1.java,1,3,5,5
+source/org/jfree/chart/plot/CategoryPlot.java,1,3,0,6
+tests/org/jfree/chart/plot/dial/junit/DialPointerTests.java,1,3,10,8
+tests/org/jfree/chart/plot/junit/CategoryPlotTests.java,1,3,6,4
+tests/org/jfree/data/time/junit/WeekTests.java,1,3,90,80

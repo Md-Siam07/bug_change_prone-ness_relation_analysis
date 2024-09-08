@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+StringUtil,1,12,5,0
+Element,1,12,1,0
+Entities,1,12,2,1
+Node,1,12,11,2
+HtmlTreeBuilderState,1,12,145,138
+Selector,1,12,12,3
+StructuralEvaluator,2,12,3,1
+EntitiesTest,1,12,16,1
+XmlTreeBuilderTest,1,12,6,4
+SelectorTest,3,12,26,5

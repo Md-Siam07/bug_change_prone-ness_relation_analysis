@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CoreOperationRelationalExpression,1,4,2,2
+JXPathContextReferenceImpl,2,4,34,53
+BeanPointerFactory,1,4,1,1
+VariablePointerFactory,1,0,99,0
+CoreOperationTest,1,4,15,0

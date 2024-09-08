@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PropertyValueBuffer,2,11,1,1
+ReferenceTypeDeserializer,1,11,7,0
+StdKeyDeserializer,1,11,2,1
+BasicBeanDescription,1,11,8,6
+MapSerializer,2,11,6,6
+ISO8601Utils,1,11,0,40
+TestCustomValueInstDefaults,1,8,555,0
+KeyDeser1429Test,1,10,48,0
+SequenceWriterTest,2,11,2,5

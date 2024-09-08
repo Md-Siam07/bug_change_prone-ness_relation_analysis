@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Document,1,4,3,2
+Element,1,4,18,0
+Parser,1,4,2,2
+Elements,2,4,13,1
+Selector,1,4,25,6
+ElementTest,1,4,12,0
+ParserTest,2,0,7,1
+ElementsTest,1,4,10,0
+SelectorTest,1,4,19,0

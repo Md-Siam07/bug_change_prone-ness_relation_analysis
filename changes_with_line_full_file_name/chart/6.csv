@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+source/org/jfree/chart/util/ShapeList.java,1,2,1,8
+tests/org/jfree/chart/labels/junit/BoxAndWhiskerToolTipGeneratorTests.java,1,2,8,6
+tests/org/jfree/chart/labels/junit/IntervalCategoryLabelGeneratorTests.java,1,2,10,8
+tests/org/jfree/chart/labels/junit/StandardCategoryItemLabelGeneratorTests.java,1,2,10,8
+tests/org/jfree/chart/labels/junit/StandardCategoryToolTipGeneratorTests.java,1,2,10,8
+tests/org/jfree/chart/labels/junit/StandardPieSectionLabelGeneratorTests.java,1,2,10,8
+tests/org/jfree/chart/labels/junit/StandardPieToolTipGeneratorTests.java,1,2,10,8
+tests/org/jfree/chart/renderer/junit/AbstractRendererTests.java,1,2,99,97
+tests/org/jfree/chart/util/junit/PaintListTests.java,1,2,19,17
+tests/org/jfree/data/xy/junit/DefaultOHLCDatasetTests.java,1,2,12,10

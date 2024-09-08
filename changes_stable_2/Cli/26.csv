@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HelpFormatter,1,8,2,2
+BugCLI162Test,1,8,38,36
+HelpFormatterTest,1,8,1,1
+OptionGroupTest,2,8,6,2

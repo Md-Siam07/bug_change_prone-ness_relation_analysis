@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializerBase,1,11,10,2
+FromStringDeserializer,2,11,4,1
+MemberKey,1,11,6,0
+ObjectMapper,4,11,16,0

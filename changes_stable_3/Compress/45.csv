@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TarUtils,3,5,7,3
+ChecksumCalculatingInputStream,1,5,9,0
+ChecksumCalculatingInputStreamTest,1,5,26,0

@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CharacterReader,1,3,3,1
+TokeniserState,2,3,70,82
+TreeBuilder,1,3,1,1
+TreeBuilderState,1,3,1,1
+CharacterReaderTest,1,0,63,0
+ParserTest,3,0,33,2

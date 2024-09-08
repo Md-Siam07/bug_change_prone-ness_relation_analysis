@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+LineItem,1,24,1,1
+RuntimeTypeAdapterFactory,1,24,4,4
+FieldAttributes,1,24,1,1
+GsonBuilder,1,24,1,1
+Gson,1,24,1,1
+ISO8601Utils,1,24,5,1
+DefaultDateTypeAdapterTest,1,24,1,0
+SerializedNameTest,1,24,1,1
+ParameterizedTypeTest,1,24,1,1

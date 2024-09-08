@@ -23,4 +23,5 @@ for project in os.listdir(projects_path):
         
         command = f"bash head_analyze_change.sh {project} {version_path} {version_number}.csv"
         os.system(command)
+        # input()
 

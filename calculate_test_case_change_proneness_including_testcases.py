@@ -3,10 +3,10 @@ import numpy as np
 import os
 import re
 
-change_dir = "accumulated_changes_stable"
+change_dir = "accumulated_changes_stable_with_previous_stable"
 function_call_path = "/home/mdsiam/Desktop/extension/Callgraph/callgraphs"
 all_test_cases_path = "/home/mdsiam/Desktop/extension/ATM_artifacts_(1)/Data/unique_test_cases.csv"
-output_dir = "testcase_change_proneness_stable"
+output_dir = F"testcase_change_proneness_{change_dir.replace('accumulated_changes_', '')}"
 
 test_cases = pd.read_csv(all_test_cases_path)
 
@@ -48,7 +48,7 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
     with open(f"{function_call_path}/{project.lower()}_{version}_buggy.txt", "r") as file:
         lines = file.readlines()
         lines = remove_duplicates(lines)
-    
+
     methods = {}
 
     for line in lines:
@@ -90,11 +90,13 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
 
     # Prepare a DataFrame to store the results
     results = []
-
+    # print(methods)
     for tc in tcs:
+        # print(tc)
         if tc not in methods:
             continue
         used_classes = methods[tc]
+        # print(tc, used_classes)
         change_proneness_values = change_proneness_df[change_proneness_df['ClassName'].isin(used_classes)]
         
         # Calculate change proneness metrics
@@ -102,6 +104,11 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
         avg_cp = change_proneness_values['Ratio'].mean()
         min_cp = change_proneness_values['Ratio'].min()
         sum_cp = change_proneness_values['Ratio'].sum()
+        # Calculate the sum of the lines ratio
+        sum_lines_ratio = change_proneness_values['LinesRatio'].sum()
+        avg_lines_ratio = change_proneness_values['LinesRatio'].mean()
+        max_lines_ratio = change_proneness_values['LinesRatio'].max()
+        min_lines_ratio = change_proneness_values['LinesRatio'].min()
 
         # Store the results in a list
         results.append({
@@ -109,7 +116,11 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
             'MaxChangeProneness': max_cp,
             'AvgChangeProneness': avg_cp,
             'MinChangeProneness': min_cp,
-            'SumChangeProneness': sum_cp
+            'SumChangeProneness': sum_cp,
+            'MaxLinesRatio': max_lines_ratio,
+            'AvgLinesRatio': avg_lines_ratio,
+            'MinLinesRatio': min_lines_ratio,
+            'SumLinesRatio': sum_lines_ratio
         })
 
     # Convert the list to a DataFrame
@@ -134,6 +145,9 @@ if __name__ == "__main__":
         versions.sort()
         
         for version in versions:
+            # if not (project == "math" and version == 1):
+            #     continue
             change_proneness_df = pd.read_csv(f"{project_path}/{version}.csv")
             change_proneness_df['Ratio']=change_proneness_df['Changes']/change_proneness_df['TotalCommits']
+            change_proneness_df['LinesRatio'] = (change_proneness_df['Insertions'] + change_proneness_df['Deletions'])/change_proneness_df['TotalCommits']
             calculate_testcase_change_proneness(change_proneness_df, version, project)

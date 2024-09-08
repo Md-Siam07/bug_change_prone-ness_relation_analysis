@@ -63,18 +63,18 @@ project_dirs = [
     #     "project": "Lang",
     #     "dir": "commons-lang"
     # },
-    # {
-    #     "project": "Math",
-    #     "dir": "commons-math"
-    # },
-    # {
-    #     "project": "Mockito",
-    #     "dir": "mockito"
-    # },
-    # {
-    #     "project": "Time",
-    #     "dir": "joda-time"
-    # }
+    {
+        "project": "Math",
+        "dir": "commons-math"
+    },
+    {
+        "project": "Mockito",
+        "dir": "mockito"
+    },
+    {
+        "project": "Time",
+        "dir": "joda-time"
+    }
 ]
 
 for project_dir in project_dirs:

@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ExtendedKeyManager,4,6,39,0
+KeyManagerUtils,2,6,67,0
+NodePointer,4,17,31,14
+CoreFunction,2,17,32,6
+CoreFunctionTest,2,17,45,2
+VariableTest,2,17,8,2
+BasicNodeSet,1,17,6,1
+BasicTypeConverter,1,17,118,107
+JXPathContext,1,17,17,0
+JXPathContextReferenceImpl,1,17,2,2
+KeyManager,1,17,1,1
+TypeUtils,1,17,24,0
+XMLModelTestCase,1,17,1,0

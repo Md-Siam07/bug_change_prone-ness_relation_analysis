@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BugCLI252Test,3,13,23,2
+BasicParserTest,1,13,26,48
+CommandLine,1,13,2,2
+GnuParserTest,1,13,23,42
+Options,1,13,2,1
+Parser,1,13,1,1
+PosixParserTest,1,13,11,18

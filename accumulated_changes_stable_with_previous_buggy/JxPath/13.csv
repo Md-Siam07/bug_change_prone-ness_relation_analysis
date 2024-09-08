@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ExternalXMLNamespaceTest,1,0,73,0
+DOMNodePointer,1,1,2,2
+JDOMNodePointer,1,1,2,2
+JXPathTestSuite,1,1,4,0

@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractRendererTests,1,3,99,97
+DefaultOHLCDatasetTests,1,3,12,10
+HighLowRendererTests,1,3,28,26
+PaintListTests,1,3,19,17
+TimePeriodValues,1,3,2,2
+UtilPackageTests,1,3,1,1
+WeekTests,1,3,50,46

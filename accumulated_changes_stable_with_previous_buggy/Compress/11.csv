@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TarArchiveInputStream,4,10,55,40
+TarArchiveOutputStream,3,10,88,2
+TarArchiveOutputStreamTest,3,10,150,0
+TarArchiveEntry,2,10,22,4
+TarArchiveEntryTest,2,10,1,5
+ZipFile,2,10,12,4
+TarArchiveInputStreamTest,1,6,43,0
+BigFilesIT,1,10,11,2
+TarUtils,1,10,40,0
+UTF8ZipFilesTest,1,10,16,3

@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BugCLI71Test,1,1,77,0
+OptionTest,1,1,35,0
+Option,1,2,11,0
+Parser,1,2,8,1
+PatternOptionBuilder,1,2,1,0

@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AttributeParseTest,1,2,2,2
+ElementsTest,1,2,15,0
+Entities,1,2,17,34
+EntitiesTest,1,2,11,7
+HtmlParserTest,1,2,16,0
+Parser,1,2,11,0
+Tokeniser,1,2,27,13

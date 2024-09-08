@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DataUtil,2,4,24,16
+CharacterReader,1,4,2,2
+DataUtilTest,1,4,8,0
+HtmlTreeBuilder,1,4,2,1
+HtmlTreeBuilderState,1,4,1,1

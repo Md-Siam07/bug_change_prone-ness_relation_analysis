@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DateSerializationTest,2,13,45,5
+AsArraySerializerBase,1,13,2,1
+MapEntrySerializer,1,13,2,1
+MapSerializer,1,13,6,2
+ObjectArraySerializer,1,13,4,1
+ReferenceTypeSerializer,1,13,2,1
+StdDateFormat,1,13,36,2

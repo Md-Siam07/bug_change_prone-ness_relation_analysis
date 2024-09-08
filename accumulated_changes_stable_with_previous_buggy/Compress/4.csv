@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ArchiveOutputStreamTest,1,0,73,0
+ArArchiveOutputStream,1,1,3,2
+ArchiveOutputStream,1,1,3,0
+CpioArchiveOutputStream,1,1,1,1
+IOMethodsTest,1,1,6,0
+TarArchiveOutputStream,1,1,8,0
+ZipArchiveOutputStream,1,1,6,5

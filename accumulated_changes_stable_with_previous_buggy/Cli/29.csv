@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ValueTest,2,2,0,102
+DefaultParser,1,2,86,2
+Parser,1,2,1,1
+ParserTestCase,1,2,117,0

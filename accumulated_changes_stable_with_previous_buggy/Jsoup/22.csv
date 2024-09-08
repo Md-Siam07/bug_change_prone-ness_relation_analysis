@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+QueryParserTest,1,0,42,0
+CombiningEvaluator,2,3,12,0
+QueryParser,2,3,39,19
+SelectorTest,2,3,13,0
+StructuralEvaluator,1,3,4,0

@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CreatorWithNamingStrategyTest,1,0,54,0
+BasicDeserializerFactory,1,1,5,1
+ImplicitParamsForCreator806Test,1,1,1,2
+POJOPropertiesCollector,1,1,6,5

@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DOMAttributeIterator,1,1,9,15
+JDOMAttributeIterator,1,1,5,6
+JXPathTestCase,1,1,7,0
+XMLModelTestCase,1,1,8,1

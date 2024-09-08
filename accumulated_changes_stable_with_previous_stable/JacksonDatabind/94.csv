@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+GrantedAuthority,1,5,0,0
+IllegalTypesCheckTest,1,5,9,9
+SubTypeValidator,1,5,1,1

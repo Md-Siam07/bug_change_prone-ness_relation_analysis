@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+MapSerializer,4,9,11,1
+ExceptionPathTest,1,8,46,0
+TestExceptionDeserialization,1,8,163,0
+TestExceptionHandling,1,8,122,0
+TestExceptionHandlingWithDefaultDeserialization,1,8,57,0
+TestExceptionHandlingWithJsonCreatorDeserialization,1,8,68,0
+TestExceptionSerialization,1,8,124,0
+TestExceptionsDuringWriting,1,8,156,0
+JDKScalarsTest,1,9,7,0
+JsonMappingException,1,9,15,6
+StdDeserializer,1,9,20,22

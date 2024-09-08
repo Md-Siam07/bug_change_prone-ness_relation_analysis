@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Gson,2,9,51,16
+DefaultDateTypeAdapter,1,9,7,2
+DefaultDateTypeAdapterTest,1,9,14,0
+GsonBuilder,1,9,28,1
+GsonTest,1,9,28,2

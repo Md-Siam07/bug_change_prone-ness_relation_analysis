@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CSVParser,3,15,11,3
+CSVFormat,2,15,13,2
+CSVFormatTest,1,15,35,0
+CSVRecord,1,15,2,2
+PerformanceTest,1,15,1,1

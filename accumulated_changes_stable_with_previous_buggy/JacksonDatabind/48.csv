@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AnnotatedMethod,2,3,33,26
+AnnotatedParameter,2,3,9,3
+Annotated,1,3,5,2
+AnnotatedClass,1,3,1,1
+AnnotatedConstructor,1,3,1,1
+AnnotatedField,1,3,6,0
+AnnotationIntrospector,1,3,23,2
+TestJsonSerialize,1,3,1,1

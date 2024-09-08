@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CollectionDeserializer,3,8,15,8
+BeanDeserializerBase,2,8,27,23
+EnumSetDeserializer,2,8,19,16
+ObjectArrayDeserializer,2,8,19,16
+StringArrayDeserializer,2,8,33,25
+StringCollectionDeserializer,2,8,13,9
+ArrayBlockingQueueDeserializer,1,8,14,10
+BeanDeserializer,1,8,2,6
+JsonMappingException,1,8,9,31
+ObjectIdReferenceProperty,1,8,1,1
+ObjectIdValueProperty,1,8,3,7
+PrimitiveArrayDeserializers,1,8,83,55
+SettableBeanProperty,1,8,1,1
+TestCollectionDeserialization,1,8,45,0
+TestCreators3,1,8,10,5
+UUIDDeserializer,1,8,1,1

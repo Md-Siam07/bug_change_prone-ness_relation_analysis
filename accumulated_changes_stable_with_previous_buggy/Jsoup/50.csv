@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ElementTest,2,8,46,17
+Node,2,8,17,21
+NodeTraversor,2,8,0,0
+W3CDom,2,8,41,3
+W3CDomTest,2,8,32,1
+DocumentTest,1,8,12,3
+Element,1,8,0,18
+TextNode,1,8,0,18

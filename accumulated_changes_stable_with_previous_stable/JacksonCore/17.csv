@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Base64Variant,1,4,12,6
+ByteQuadsCanonicalizer,1,4,1,4
+ByteSourceJsonBootstrapper,1,4,3,32
+FilteringParserDelegate,1,4,4,7
+GeneratorBase,1,4,10,22
+InternCache,1,4,2,0
+JsonEncoding,1,4,3,3
+JsonGeneratorImpl,1,4,1,1
+JsonLocation,1,4,1,1
+JsonReadContext,1,4,1,1
+ReaderBasedJsonParser,1,4,94,181
+SerializedString,1,4,2,0
+UTF8StreamJsonParser,1,4,92,158

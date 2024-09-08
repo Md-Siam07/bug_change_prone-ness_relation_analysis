@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractCommandLineRunner,1,4,2,3
+Compiler,1,4,45,13
+CompilerOptions,1,4,13,0
+CompilerTypeTestCase,1,4,1,0
+ErrorFormat,1,4,4,40
+FoldConstants,1,4,31,3
+FoldConstantsTest,1,4,23,0
+JSModuleTest,1,4,3,1
+LightweightMessageFormatter,1,4,17,2
+LoggerErrorManager,1,4,4,2
+NodeTraversalTest,1,4,1,0
+PhaseOptimizerTest,1,4,1,0
+VariableMapTest,1,4,3,2

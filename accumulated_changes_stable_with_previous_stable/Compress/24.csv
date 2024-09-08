@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+GzipCompressorInputStream,2,4,48,10
+CompressorStreamFactory,1,4,3,3
+GZipTestCase,1,4,29,0
+GzipCompressorOutputStream,1,4,3,2

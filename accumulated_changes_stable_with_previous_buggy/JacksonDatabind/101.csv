@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+SubTypeValidator,4,11,6,0
+StaticListSerializerBase,1,11,4,1
+TestConversions,1,11,13,1
+TreeTraversingParser,1,11,6,12

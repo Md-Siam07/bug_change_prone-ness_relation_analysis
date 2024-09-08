@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ConnectTest,2,12,17,0
+ElementTest,2,12,10,1
+HttpConnection,2,12,12,4
+Tag,2,12,1,1
+Attribute,1,12,3,2
+AttributeTest,1,12,10,0
+CleanerTest,1,12,8,1
+Element,1,12,1,1

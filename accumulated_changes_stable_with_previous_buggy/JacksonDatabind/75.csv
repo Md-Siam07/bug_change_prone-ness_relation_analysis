@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+EnumFormatShapeTest,1,0,113,0
+AsPropertyTypeDeserializer,2,8,9,1
+TestEnumSerialization,2,8,8,66
+TestPolymorphicWithDefaultImpl,2,8,32,0
+BasicDeserializerFactory,1,8,1,2
+POJOPropertyBuilder,1,8,1,1
+PropertyMetadata,1,8,16,1
+SettableBeanProperty,1,8,1,1

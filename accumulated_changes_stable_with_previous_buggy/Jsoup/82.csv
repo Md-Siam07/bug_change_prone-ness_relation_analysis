@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+RedirectServlet,1,0,35,0
+NodeUtils,1,1,27,0
+Comment,2,4,28,0
+DataUtil,2,4,16,22
+HttpConnection,2,4,1,27
+ConnectTest,1,4,53,5
+DataUtilTest,1,4,13,0
+Element,1,4,12,22
+HtmlTreeBuilder,1,4,0,4
+Node,1,4,15,22
+Parser,1,4,0,2
+PseudoTextElement,1,4,2,4
+SlowRider,1,4,1,3
+Whitelist,1,4,4,7
+XmlTreeBuilder,1,4,5,11

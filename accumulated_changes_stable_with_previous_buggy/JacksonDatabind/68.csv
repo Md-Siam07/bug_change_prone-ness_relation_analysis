@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+SingleValueAsArray1421Test,2,1,86,0
+BasicDeserializerFactory,1,3,5,5
+TestCustomEnumKeyDeserializer,1,3,55,0

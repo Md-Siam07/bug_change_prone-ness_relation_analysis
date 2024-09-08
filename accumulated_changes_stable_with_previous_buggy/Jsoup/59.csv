@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Cleaner,1,7,26,5
+CleanerTest,1,7,26,2
+ElementTest,1,7,29,0
+Entities,1,7,6,1
+Jsoup,1,7,8,7
+ParseErrorList,1,7,3,3
+Parser,1,7,16,0
+Whitelist,1,7,17,9

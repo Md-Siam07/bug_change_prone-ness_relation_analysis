@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DelegatingArrayCreator1804Test,1,0,41,0
+BeanDeserializerFactory,1,1,0,3
+StdValueInstantiator,1,1,15,6
+ValueInstantiator,1,1,6,5

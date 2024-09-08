@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonIgnoreProperties1595Test,1,0,43,0
+PolymorphicWithObjectId1551Test,2,3,53,0
+TestSubtypes,2,6,38,11
+AbstractDeserializer,1,6,72,19

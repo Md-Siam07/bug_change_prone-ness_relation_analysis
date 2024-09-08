@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Base64,2,0,18,6
+Base64Codec13Test,2,0,0,0
+Base64InputStreamTest,1,0,23,9
+Base64OutputStreamTest,1,0,20,6
+Base64Test,7,0,197,51
+BinaryCodecTest,1,0,42,40
+DoubleMetaphoneTest,1,0,4,0
+HexTest,1,0,4,4
+QuotedPrintableCodecTest,1,0,3,3
+URLCodecTest,1,0,3,3

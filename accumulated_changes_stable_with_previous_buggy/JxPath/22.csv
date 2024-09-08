@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JDOMNodePointer,2,11,1,2
+ServletContextHandler,2,11,6,2
+JXPath151Test,1,10,63,0
+BeanPropertyPointer,1,11,1,1
+ClassLoaderUtil,1,11,0,6
+JXPathBasicBeanInfo,1,11,1,0
+JXPathContextReferenceImpl,1,11,2,15
+MixedModelTest,1,11,1,1
+NodePointer,1,11,25,0
+PropertyPointer,1,11,2,1
+XMLDocumentContainer,1,11,1,1

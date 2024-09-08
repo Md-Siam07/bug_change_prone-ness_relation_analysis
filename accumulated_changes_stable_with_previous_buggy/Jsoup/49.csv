@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HttpConnection,7,19,77,19
+Connection,4,19,34,1
+UrlConnectTest,3,19,68,4
+CharacterReader,2,19,4,3
+Element,1,19,2,0
+ElementTest,1,19,12,0
+ElementsTest,1,19,7,0
+Evaluator,1,19,2,1
+HtmlParserTest,1,19,7,0
+HttpConnectionTest,1,19,11,0
+Token,1,19,15,2
+TokeniserState,1,19,5,3

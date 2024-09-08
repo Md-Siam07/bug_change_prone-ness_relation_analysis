@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HtmlParserTest,3,9,14,2
+CharacterReader,1,9,11,2
+CharacterReaderTest,1,9,26,4
+Element,1,9,3,3
+HtmlTreeBuilderState,1,9,1,1
+Node,1,9,2,2
+Parser,1,9,1,1
+Tokeniser,1,9,1,1

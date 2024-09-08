@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Lexer,1,0,1,1
+CSVFormat,7,18,664,634
+CSVLexerTest,6,18,20,6
+CSVPrinter,3,18,10,11
+CSVFormatBuilderTest,1,18,1,1
+CSVParser,1,18,1,1
+CSVParserTest,1,18,1,1
+CSVPrinterTest,1,18,9,0

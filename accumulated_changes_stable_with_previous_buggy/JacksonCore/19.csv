@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+GeneratorBase,1,5,31,0
+TestJsonGeneratorFeatures,1,5,61,6
+UTF8JsonGenerator,1,5,3,7
+WriterBasedJsonGenerator,1,5,4,7

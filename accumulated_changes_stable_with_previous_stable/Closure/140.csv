@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractCommandLineRunner,1,1,2,2
+AbstractCompiler,1,1,1,1
+Compiler,1,1,1,1
+DiagnosticGroups,1,1,1,1
+Normalize,1,1,114,45
+NormalizeTest,1,1,74,4

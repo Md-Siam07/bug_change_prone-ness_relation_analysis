@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CSVRecord,7,19,37,2
+CSVRecordTest,5,19,61,11
+CSVParser,3,19,8,6
+CSVPrinter,2,19,104,95
+Assertions,1,19,1,1
+CSVFileParserTest,1,19,1,1
+CSVFormat,1,19,1,1
+CSVFormatTest,1,19,4,4
+CSVParserTest,1,19,5,5
+FercGovTest,1,19,2,2

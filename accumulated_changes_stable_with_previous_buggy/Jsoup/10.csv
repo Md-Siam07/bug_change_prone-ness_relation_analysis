@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DocumentTest,2,4,20,0
+Attribute,1,4,10,1
+Attributes,1,4,15,1
+Document,1,4,22,1
+Element,1,4,7,0
+ElementTest,1,4,20,0
+Entities,1,4,2,2
+EntitiesTest,1,4,7,7
+HttpConnection,1,4,2,1
+Node,1,4,33,1

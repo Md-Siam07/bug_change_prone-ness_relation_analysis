@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BasicBeanDescription,1,2,5,1
+BeanDeserializerBase,1,2,9,0
+ExternalTypeHandler,1,2,5,5
+TestCustomTypeIdResolver,1,2,88,4
+TypeDeserializerBase,1,2,7,1

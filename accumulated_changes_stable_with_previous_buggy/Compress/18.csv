@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TarArchiveOutputStreamTest,4,13,38,3
+TarUtils,2,13,5,4
+ZipMethod,2,13,19,17
+ArchiveStreamFactoryTest,1,13,16,0
+ExtraFieldUtils,1,13,2,2
+TarArchiveInputStreamTest,1,13,23,1
+TarArchiveOutputStream,1,13,6,4
+UTF8ZipFilesTest,1,13,8,4
+ZipArchiveOutputStream,1,13,12,6
+ZipEncodingHelper,1,13,14,11

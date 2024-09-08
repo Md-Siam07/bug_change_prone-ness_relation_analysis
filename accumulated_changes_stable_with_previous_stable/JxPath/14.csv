@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+EmptyCollectionTest,1,3,80,0
+DynaBeanPointerFactory,2,26,2,2
+CoreFunctionTest,1,26,1,1
+JXPathContext,1,26,1,1
+JXPathTestSuite,1,26,2,0
+XMLPreserveSpaceTest,1,26,1,1

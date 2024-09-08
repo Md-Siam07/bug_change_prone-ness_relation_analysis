@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Element,3,15,60,16
+ElementTest,3,15,89,2
+DataUtilTest,2,15,24,0
+HttpConnection,2,15,2,1
+Node,2,15,32,2
+UrlConnectTest,2,15,25,0
+ChangeNotifyingArrayList,1,12,82,0
+DataUtil,1,15,7,2

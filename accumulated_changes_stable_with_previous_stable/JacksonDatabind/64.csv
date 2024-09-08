@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+MapSerializer,4,8,11,1
+JDKScalarsTest,1,8,7,0
+StdDeserializer,1,8,20,22

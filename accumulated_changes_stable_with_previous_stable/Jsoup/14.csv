@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ParserTest,1,0,10,0
+HttpConnection,4,5,64,24
+Connection,2,5,45,3
+HttpConnectionTest,1,5,31,2
+TokeniserState,1,5,10,9
+UrlConnectTest,1,5,18,3

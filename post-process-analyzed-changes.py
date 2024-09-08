@@ -6,7 +6,7 @@ def post_process(file_path, output_path):
     df['Changes'] = df['Changes'].astype(int)
     df['TotalCommits'] = df['TotalCommits'].astype(int)
     # sum the Changes for each ClassName and max the TotalCommits
-    df = df.groupby('ClassName').agg({'Changes': 'sum', 'TotalCommits': 'max'}).reset_index()
+    df = df.groupby('ClassName').agg({'Changes': 'sum', 'TotalCommits': 'max', 'Insertions': 'sum', 'Deletions': 'sum'}).reset_index()
 
     # if total commits is less than or equal to 5, remove the row
     # df = df[df['TotalCommits'] > 5]
@@ -20,7 +20,8 @@ def post_process(file_path, output_path):
     df.drop(columns=['Ratio'], inplace=True)
     df.to_csv(output_path, index=False)
 
-changes_dir = "changes_stable"
+changes_dir = "changes_with_line"
+output_dir = f"accumulated_{changes_dir}"
 
 for project in os.listdir(changes_dir):
     project_path = os.path.join(changes_dir, project)
@@ -30,10 +31,10 @@ for project in os.listdir(changes_dir):
     versions.sort()
 
     # if project path doesnt exist, create it
-    if not os.path.exists(f"accumulated_changes_stable/{project}"):
-        os.makedirs(f"accumulated_changes_stable/{project}")
+    if not os.path.exists(f"{output_dir}/{project}"):
+        os.makedirs(f"{output_dir}/{project}")
 
     for version in versions:
-        post_process(f"{project_path}/{version}.csv", f"accumulated_changes_stable/{project}/{version}.csv")
+        post_process(f"{project_path}/{version}.csv", f"{output_dir}/{project}/{version}.csv")
 
 # post_process('commons-csv/2.csv', "commons-csv/2.csv")

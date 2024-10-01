@@ -58,7 +58,7 @@ calculate_insertions_deletions() {
     
     # Loop through each line in the output to accumulate insertions and deletions
     while IFS= read -r line; do
-        if [[ $line =~ ^[0-9]+[[:space:]]+[0-9]+ ]]; then
+        if [[ $line =~ ^[0-9]+[[:space:]]+[0-9]+[[:space:]]+$file ]]; then
             insertions=$(echo $line | awk '{print $1}')
             deletions=$(echo $line | awk '{print $2}')
             total_insertions=$((total_insertions + insertions))

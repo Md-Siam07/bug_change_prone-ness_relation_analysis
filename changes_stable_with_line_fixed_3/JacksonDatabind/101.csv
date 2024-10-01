@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializerFactory,0,10,1667,2157
+SubTypeValidator,4,10,63,13
+StaticListSerializerBase,1,10,188,101
+IllegalTypesCheckTest,0,10,251,29

@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,1,34,969,293
+DataUtil,1,34,537,261
+Attribute,1,34,255,83
+Document,15,34,812,218
+Element,3,34,2149,711
+Entities,1,34,2942,2592
+FormElement,2,34,33,12
+XmlDeclaration,2,34,146,76
+Parser,1,34,842,694
+Tag,1,34,705,638
+Token,1,34,630,244
+TokenQueue,1,34,471,210
+NodeVisitor,1,34,24,4
+Selector,1,34,703,647
+DocumentTest,13,34,631,180

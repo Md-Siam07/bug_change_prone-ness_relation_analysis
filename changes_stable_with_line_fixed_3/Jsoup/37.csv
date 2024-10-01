@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,1,15,969,293
+StringUtil,1,15,254,350
+Document,3,15,812,218
+Element,1,15,2149,711
+Entities,1,15,2942,2592
+TextNode,1,15,292,166
+Whitelist,2,15,678,152
+StringUtilTest,1,15,79,123
+ParseTest,1,15,266,114
+DocumentTest,1,15,631,180

@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BasicDeserializerFactory,0,14,3936,2629
+BeanDeserializerFactory,2,14,1667,2157
+AnnotatedClass,1,14,1422,1956
+SingleArgCreatorTest,0,14,197,234
+TestNullHandling,1,14,102,156
+IllegalTypesCheckTest,1,3,251,29

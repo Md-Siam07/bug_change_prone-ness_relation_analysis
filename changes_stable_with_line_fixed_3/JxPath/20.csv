@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ExceptionHandler,1,29,30,0
+FunctionLibrary,2,29,139,166
+JXPathContext,1,29,991,532
+JXPathContextReferenceImpl,1,29,1423,902
+PropertyIterator,1,29,560,234
+StrictLazyDynaBeanPointerFactory,2,3,19,1
+DynamicPointer,1,29,298,154
+NodePointer,2,29,1660,718
+NamespaceResolver,1,29,183,99
+MethodLookupUtils,1,29,191,175
+ExceptionHandlerTest,1,25,0,0
+AliasedNamespaceIterationTest,1,29,1,1
+LazyDynaBeanTest,2,3,20,0
+XMLUpperCaseElementsTest,2,29,66,1

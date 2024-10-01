@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DataUtil,1,9,537,261
+HttpConnection,2,9,1601,670
+DataNode,1,9,65,30
+Entities,2,9,2942,2592
+Node,1,9,1117,429
+DataUtilTest,1,9,226,46
+UrlConnectTest,1,9,1039,443
+DocumentTest,2,9,631,180
+EntitiesTest,1,9,188,62

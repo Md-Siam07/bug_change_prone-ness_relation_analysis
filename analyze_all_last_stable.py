@@ -3,7 +3,7 @@ import pandas as pd
 import time
 # test change
 defects4j_projects_path = "/home/mdsiam/Desktop/extension/defects4j/framework/projects"
-time_path = "time_analysis/changes_last_stable_with_line_fixed_2"
+time_path = "time_analysis/changes_last_stable_with_line_fixed_3"
 project_dirs = [
     # {
     #     "project": "Chart",
@@ -86,7 +86,7 @@ for project_dir in project_dirs:
     # sort the dataframe by commit_number and then commit_number_fixed
     df_enumerated = df_enumerated.sort_values(by=["commit_number", "commit_number_fixed"])
 
-    output_dir = f"/home/mdsiam/Desktop/extension/change-defect-relation-analysis/Code/changes_stable_with_line_fixed_2/{project}"
+    output_dir = f"/home/mdsiam/Desktop/extension/change-defect-relation-analysis/Code/changes_stable_with_line_fixed_3/{project}"
     print(f"Analyzing {project}...")
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -97,8 +97,12 @@ for project_dir in project_dirs:
             f.close()
     for index, row in df_enumerated.iterrows():
         current_version = row["current_version"]
-        print(f"Analyzing \t - {current_version}...")
         bug_id = row["bug_id"]
+        
+        # if project != 'Lang' or bug_id != 4:
+        #     continue
+        # input()
+        print(f"Analyzing \t - {current_version}...")
         output_file = f"{output_dir}/{bug_id}.csv"
         start_time = time.time()
         if index == 0:

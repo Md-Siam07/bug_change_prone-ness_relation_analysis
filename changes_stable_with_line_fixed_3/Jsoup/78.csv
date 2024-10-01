@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CharacterReader,1,5,613,272
+XmlTreeBuilder,1,5,115,73
+ConnectTest,1,5,580,126
+CharacterReaderTest,1,5,261,13
+XmlTreeBuilderTest,1,5,252,17

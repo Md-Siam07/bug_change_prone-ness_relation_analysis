@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonAdapterAnnotationTypeAdapterFactory,1,7,241,209
+TreeTypeAdapter,1,7,166,1
+UnsafeAllocator,1,7,247,124
+JsonObject,1,7,213,151
+JsonReader,2,7,2453,1961
+JsonAdapterAnnotationOnClassesTest,1,7,457,194
+StreamingTypeAdaptersTest,1,7,326,82

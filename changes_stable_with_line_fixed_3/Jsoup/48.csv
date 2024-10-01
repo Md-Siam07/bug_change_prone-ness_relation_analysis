@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+StringUtil,1,11,254,350
+Element,1,11,2149,711
+Node,1,11,1117,429
+HtmlTreeBuilderState,1,11,2005,478
+Selector,1,11,703,647
+StructuralEvaluator,2,11,16,4
+XmlTreeBuilderTest,1,11,252,17
+SelectorTest,3,11,915,153

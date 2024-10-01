@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,2,5,969,293
+HttpConnection,4,5,1601,670
+TokeniserState,1,5,370,405
+HttpConnectionTest,1,5,256,24
+UrlConnectTest,1,5,1039,443
+ParserTest,1,5,784,778

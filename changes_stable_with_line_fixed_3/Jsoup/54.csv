@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,1,13,969,293
+package-info,1,13,1,1
+HttpConnection,1,13,1601,670
+TokenQueue,2,13,471,210
+CombiningEvaluator,1,13,45,13
+Evaluator,1,13,848,70
+QueryParser,1,13,170,61
+Selector,1,13,703,647
+HttpConnectionTest,1,13,256,24
+UrlConnectTest,1,13,1039,443
+NodeTest,1,13,316,28
+ElementsTest,1,13,1082,692
+SelectorTest,2,13,915,153

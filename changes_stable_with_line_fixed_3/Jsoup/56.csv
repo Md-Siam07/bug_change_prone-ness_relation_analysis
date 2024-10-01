@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DataUtil,1,21,537,261
+HttpConnection,1,21,1601,670
+Attributes,2,21,760,286
+Document,1,21,812,218
+Element,2,21,2149,711
+Entities,1,21,2942,2592
+CharacterReader,1,21,613,272
+UrlConnectTest,1,21,1039,443
+AttributesTest,2,21,149,28
+ElementTest,1,21,1580,142

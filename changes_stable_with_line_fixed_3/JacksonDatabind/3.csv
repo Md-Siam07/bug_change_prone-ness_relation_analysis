@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AnnotatedMethod,1,13,267,158
+POJOPropertiesCollector,1,13,1090,671
+POJOPropertyBuilder,2,13,1541,792
+ObjectMapper,2,13,3713,2350
+StdJdkSerializers,2,13,220,278
+BeanUtil,1,13,283,253
+ClassUtil,1,13,1561,882
+TestNameConflicts,1,13,132,6
+TestPropertyConflicts,3,13,127,47
+TestPropertyRename,1,13,76,1

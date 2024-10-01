@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CreatorCollector,1,8,817,442
+PropertyValueBuffer,1,8,355,161
+ObjectWriter,1,8,1905,1049
+MapSerializer,3,8,1534,807
+TypeFactory,1,8,1895,1555
+Creator1476Test,1,0,0,43
+PolymorphicList1451SerTest,1,1,0,0
+DeprecatedConstructType1456Test,1,4,49,0
+GenericParameterTypeFactory1456Test,2,4,45,45

@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonAdapter,1,10,139,115
+Gson,1,10,1810,1190
+TypeAdapters,1,10,1521,614
+JsonElement,1,10,118,79
+JsonObject,1,10,213,151
+PrimitiveTest,1,10,887,374
+JsonObjectTest,1,10,212,65

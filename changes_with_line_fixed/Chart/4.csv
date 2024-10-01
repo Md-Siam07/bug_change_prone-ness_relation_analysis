@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+XYPlot,1,2,0,2
+AxisTests,1,2,157,155
+PeriodAxisTests,1,2,30,28
+ChartPanelTests,1,2,14,12
+TimeSeriesCollectionTests,1,2,40,38

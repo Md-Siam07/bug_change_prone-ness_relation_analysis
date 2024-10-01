@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+EvalContext,1,6,1430,2271
+JXPathContextReferenceImpl,1,6,1423,902
+BeanPropertyPointer,1,6,670,358
+MethodLookupUtils,1,6,191,175
+ReverseComparator,1,5,25,6
+ValueUtils,1,6,1169,508
+BeanModelTestCase,1,6,1019,901

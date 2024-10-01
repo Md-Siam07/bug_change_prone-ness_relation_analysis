@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,1,1,969,293
+DataUtil,1,1,537,261
+UncheckedIOException,1,1,5,1
+ConnectTest,1,1,580,126
+InterruptedServlet,1,0,0,0
+CharacterReaderTest,1,1,261,13

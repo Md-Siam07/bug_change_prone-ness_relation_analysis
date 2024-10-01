@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonNaming,1,4,29,1
+UntypedObjectDeserializer,1,4,1035,395
+AnnotatedClass,1,4,1422,1956
+POJOPropertiesCollector,1,4,1090,671
+TokenBuffer,1,4,1294,453
+TestUntypedDeserialization,1,4,312,312
+TestNamingStrategyStd,1,4,535,124
+TestAnnotatedClass,1,4,53,16
+TestTokenBuffer,1,4,668,165

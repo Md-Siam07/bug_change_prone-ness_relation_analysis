@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ArchiveStreamFactory,1,10,962,539
+TarArchiveEntry,3,10,3780,3063
+TarConstants,1,10,292,79
+TarUtils,1,10,838,461
+TarUtilsTest,2,10,448,163

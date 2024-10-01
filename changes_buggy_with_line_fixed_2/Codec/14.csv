@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CharSequenceUtils,2,10,27,11
+StringUtils,1,11,618,197
+BeiderMorseEncoder,1,11,278,94
+DoubleMetaphone,1,11,1439,430
+PhoneticEngineRegressionTest,4,11,53,34
+DoubleMetaphoneTest,1,11,1352,101

@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ArchiveInputStream,1,10,175,52
+Lister,1,6,36,30
+TarUtilsTest,2,10,448,163
+TarTestCase,2,10,376,111

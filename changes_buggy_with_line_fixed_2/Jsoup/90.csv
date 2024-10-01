@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HttpConnection,2,12,1601,670
+Attribute,1,12,255,83
+Element,1,12,2149,711
+Tag,2,12,705,638
+ConnectTest,2,12,580,126
+AttributeTest,1,12,39,2
+ElementTest,2,12,1580,142
+CleanerTest,1,12,339,24

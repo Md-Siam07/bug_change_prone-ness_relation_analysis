@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractCommandLineRunner,1,1,3207,1159
+AbstractCompiler,1,1,282,74
+Compiler,1,1,1957,1347
+DiagnosticGroups,1,1,441,238
+Normalize,1,1,800,442
+NormalizeTest,1,1,371,79

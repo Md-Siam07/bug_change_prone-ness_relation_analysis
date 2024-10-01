@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+SubTypeValidator,0,12,63,13
+MapEntrySerializer,1,12,258,139
+AsArraySerializerBase,1,12,443,306
+MapSerializer,1,12,1534,807
+ObjectArraySerializer,1,12,363,288
+ReferenceTypeSerializer,1,12,549,70
+DateSerializationTest,1,12,408,41

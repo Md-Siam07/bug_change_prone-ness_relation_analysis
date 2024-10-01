@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ObjectWriter,1,3,1905,1049
+TypeFactory,1,3,1895,1555
+PolymorphicList1451SerTest,1,0,0,0
+DeprecatedConstructType1456Test,1,3,49,0
+GenericParameterTypeFactory1456Test,2,3,45,45

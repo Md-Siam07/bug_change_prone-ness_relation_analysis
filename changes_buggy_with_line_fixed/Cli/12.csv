@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HelpFormatter,1,13,1675,2012
+Options,1,13,449,1134
+BuildTest,1,13,23,189
+GnuParserTest,1,2,192,390
+GnuParseTest,2,13,284,284
+HelpFormatterTest,5,13,712,712
+OptionGroupTest,1,13,222,464
+OptionsTest,2,13,308,308
+OptionTest,1,13,212,247
+ParseTest,1,13,63,370
+PosixParserTest,1,13,415,415
+ValuesTest,1,13,285,415
+ValueTest,1,13,518,650

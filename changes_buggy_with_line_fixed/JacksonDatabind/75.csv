@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BasicDeserializerFactory,1,8,3936,2629
+SettableBeanProperty,1,8,884,930
+POJOPropertyBuilder,1,8,1541,792
+AsPropertyTypeDeserializer,2,8,262,201
+PropertyMetadata,1,8,274,96
+TestPolymorphicWithDefaultImpl,2,8,303,26
+TestEnumSerialization,2,8,389,231
+EnumFormatShapeTest,1,0,5,118

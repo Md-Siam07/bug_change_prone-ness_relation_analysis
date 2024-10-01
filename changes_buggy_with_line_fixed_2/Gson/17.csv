@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+GsonBuilder,1,7,1210,940
+$Gson$Types,1,7,681,71
+ConstructorConstructor,1,7,137,74
+RecursiveTypesResolveTest,1,7,25,0
+ProtoTypeAdapter,1,7,474,132
+ProtosWithComplexAndRepeatedFieldsTest,1,7,39,2

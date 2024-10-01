@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Attribute,1,3,255,83
+Document,1,3,812,218
+DocumentType,1,3,105,35
+Element,1,3,2149,711
+Entities,1,3,2942,2592
+TextNode,1,3,292,166
+HtmlTreeBuilderState,1,3,2005,478
+Tag,2,3,705,638
+XmlTreeBuilder,1,3,115,73
+DocumentTest,1,3,631,180
+ElementTest,1,3,1580,142
+EntitiesTest,1,3,188,62
+HtmlParserTest,2,3,1385,132
+XmlTreeBuilderTest,1,3,252,17
+CleanerTest,1,3,339,24

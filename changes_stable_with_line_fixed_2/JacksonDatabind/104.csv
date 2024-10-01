@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+NioPathDeserializer,1,15,92,37
+JsonNode,1,15,552,306
+SubTypeValidator,2,15,63,13
+ByteBufferSerializer,1,15,18,31
+TypeFactory,1,15,1895,1555
+HugeIntegerCoerceTest,1,7,0,0
+JDKScalarsTest,1,15,1562,660
+JDKTypeSerializationTest,1,15,205,3
+EnumAsIndexMapKey1877Test,1,13,0,0

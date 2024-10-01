@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DeserializationContext,1,11,3120,1611
+DateDeserializers,1,11,438,257
+NullifyingDeserializer,1,11,28,14
+SimpleMixInResolver,1,11,15,6
+TypeDeserializerBase,1,11,321,174
+ArrayNode,1,11,1432,553
+ObjectNode,1,11,1568,683
+ExceptionFromCustomEnumKeyDeserializerTest,1,5,0,99
+TestPolymorphicWithDefaultImpl,1,11,303,26

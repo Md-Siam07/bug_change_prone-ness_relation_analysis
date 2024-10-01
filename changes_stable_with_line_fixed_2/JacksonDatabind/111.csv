@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BasicDeserializerFactory,1,12,3936,2629
+JavaUtilCollectionsDeserializers,1,12,44,31
+TypeDeserializerBase,1,12,321,174
+WritableObjectId,2,12,88,27
+ProblemHandlerUnknownTypeId2221Test,1,10,0,0
+GenericContent,2,11,0,23
+HandleUnknowTypeIdTest,2,11,0,78
+CollectionDeserTest,1,12,310,0
+MapDeserializationTest,1,12,555,8
+UtilCollectionsTypesTest,1,12,133,0
+TestNamingStrategyStd,1,12,535,124
+DelegatingCreatorWithAbstractProp2252Test,1,5,0,0

@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Gson,2,16,1810,1190
+JsonTreeWriter,1,16,208,0
+ReflectiveTypeAdapterFactory,1,16,236,203
+TypeAdapters,2,16,1521,614
+ConstructorConstructor,1,16,137,74
+JsonWriter,1,16,340,176
+GsonTest,1,11,28,2
+JsonWriterTest,1,16,196,6

@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonGenerator,1,8,1682,811
+JsonParser,1,8,1260,752
+JsonStreamContext,1,8,188,23
+ByteQuadsCanonicalizer,2,8,917,570
+SymbolsViaParserTest,2,2,44,13
+SymbolTableMergingTest,1,8,114,0
+TestHashCollisionChars,1,8,188,11
+TestSymbolTables,2,8,640,348

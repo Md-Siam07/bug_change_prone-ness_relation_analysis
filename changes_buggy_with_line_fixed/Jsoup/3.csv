@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Document,1,4,812,218
+Element,1,4,2149,711
+Parser,1,4,842,694
+Elements,2,4,820,177
+Selector,1,4,703,647
+ElementTest,1,4,1580,142
+ParserTest,2,4,784,778
+ElementsTest,1,4,1082,692
+SelectorTest,1,4,915,153

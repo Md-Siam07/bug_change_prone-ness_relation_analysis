@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+W3CDom,2,8,84,35
+Element,1,8,2149,711
+Node,2,8,1117,429
+TextNode,1,8,292,166
+NodeTraversor,2,8,116,14
+W3CDomTest,2,8,157,49
+DocumentTest,1,8,631,180
+ElementTest,2,8,1580,142

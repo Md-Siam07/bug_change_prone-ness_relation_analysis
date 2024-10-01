@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ArArchiveOutputStream,1,1,268,208
+ArchiveOutputStream,1,1,215,75
+CpioArchiveOutputStream,1,1,560,430
+TarArchiveOutputStream,1,1,1760,1134
+ZipArchiveOutputStream,1,1,3413,1796
+ArchiveOutputStreamTest,1,0,174,54
+IOMethodsTest,1,1,78,44

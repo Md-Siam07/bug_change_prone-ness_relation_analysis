@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PeepholeOptimizationsPass,1,4,219,198
+TypeCheck,1,4,1440,1047
+TypeInference,1,4,1405,908
+JSType,1,4,1286,732
+PrototypeObjectType,1,4,491,453
+ProxyObjectType,1,4,326,223
+UnionType,1,4,321,165
+IntegrationTestCase,1,4,17,10
+IntegrationTest,1,4,1255,433
+TypeCheckTest,1,4,7910,1742
+TypeInferenceTest,1,4,602,62

@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HttpConnection,1,18,1601,670
+Document,1,18,812,218
+FormElement,1,18,33,12
+Node,2,18,1117,429
+HtmlTreeBuilder,1,18,995,254
+HtmlTreeBuilderState,2,18,2005,478
+TokenQueue,1,18,471,210
+Whitelist,1,18,678,152
+CombiningEvaluator,1,18,45,13
+Elements,1,18,820,177
+NodeTraversor,1,18,116,14
+QueryParser,1,18,170,61
+UrlConnectTest,1,18,1039,443
+DocumentTest,1,18,631,180
+HtmlParserTest,1,18,1385,132

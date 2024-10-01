@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DefaultDateTypeAdapter,1,4,64,44
+GsonBuilder,1,4,1210,940
+$Gson$Types,1,4,681,71
+DefaultDateTypeAdapterTest,1,4,168,38
+RecursiveTypesResolveTest,1,3,25,0

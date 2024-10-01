@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CLI2Converter,1,25,196,196
+CLI2ConverterTest,1,25,138,138
+CommandLine,1,25,544,769
+HelpFormatter,1,25,1675,2012
+PatternOptionBuilder,1,25,267,436
+PosixParser,1,25,859,1052
+TypeHandler,3,25,301,497
+ApplicationTest,3,25,316,377
+BugCLI162Test,2,25,374,374
+BugsTest,1,25,694,760
+HelpFormatterExamples,1,25,36,142
+HelpFormatterTest,1,25,712,712
+PatternOptionBuilderTest,3,25,282,345

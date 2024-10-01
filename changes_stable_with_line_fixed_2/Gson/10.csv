@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Gson,2,14,1810,1190
+ReflectiveTypeAdapterFactory,1,14,236,203
+TypeAdapters,1,14,1521,614
+ConstructorConstructor,1,14,137,74
+GsonTest,1,11,28,2

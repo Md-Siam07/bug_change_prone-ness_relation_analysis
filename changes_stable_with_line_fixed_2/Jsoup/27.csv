@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HttpConnection,1,7,1601,670
+StringUtil,1,7,254,350
+Jsoup,1,7,352,114
+StringUtilTest,1,7,79,123

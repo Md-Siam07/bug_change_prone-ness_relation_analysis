@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+SubTypeValidator,2,5,63,13
+TypeSerializer,1,5,598,240
+POJONode,1,5,195,23
+ArrayNodeTest,1,5,355,14
+POJONodeTest,1,4,0,0
+CreatorAnySetter1401Test,1,5,43,0
+ImplicitParamsForCreator806Test,1,5,65,11
+NodeContext2049Test,2,3,3,1

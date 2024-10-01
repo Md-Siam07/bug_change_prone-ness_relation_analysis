@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BasicDeserializerFactory,1,6,3936,2629
+POJOPropertiesCollector,1,6,1090,671
+SubTypeValidator,2,6,63,13
+TypeSerializer,1,6,598,240
+POJONode,1,6,195,23
+CreatorWithNamingStrategyTest,1,6,54,0
+ArrayNodeTest,1,6,355,14
+POJONodeTest,1,4,0,0
+CreatorAnySetter1401Test,1,6,43,0
+ImplicitParamsForCreator806Test,2,6,65,11
+NodeContext2049Test,2,3,3,1

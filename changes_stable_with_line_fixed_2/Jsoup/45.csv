@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,1,10,969,293
+HttpConnection,2,10,1601,670
+Attribute,1,10,255,83
+Attributes,1,10,760,286
+BooleanAttribute,1,10,2,1
+Element,2,10,2149,711
+HtmlTreeBuilder,1,10,995,254
+TokeniserState,3,10,370,405
+Token,1,10,630,244
+UrlConnectTest,2,10,1039,443
+ElementTest,3,10,1580,142
+AttributeParseTest,2,10,123,20
+HtmlParserTest,2,10,1385,132
+XmlTreeBuilderTest,1,10,252,17

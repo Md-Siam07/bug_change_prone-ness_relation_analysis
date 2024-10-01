@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ZipArchiveEntry,1,5,1384,858
+ZipArchiveInputStream,4,5,2097,1003
+ZipArchiveOutputStream,1,5,3413,1796
+Maven221MultiVolumeTest,1,4,94,102
+ZipTestCase,2,5,936,405
+ZipArchiveEntryTest,1,5,297,122

@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonAdapter,1,9,139,115
+Gson,1,9,1810,1190
+JsonElement,1,9,118,79
+JsonObject,1,9,213,151
+JsonObjectTest,1,9,212,65

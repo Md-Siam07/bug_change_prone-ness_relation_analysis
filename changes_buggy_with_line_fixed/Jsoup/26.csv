@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HttpConnection,1,12,1601,670
+Jsoup,1,12,352,114
+Document,1,12,812,218
+Node,1,12,1117,429
+CharacterReader,3,12,613,272
+Tag,1,12,705,638
+Tokeniser,2,12,192,127
+TokeniserState,1,12,370,405
+Token,3,12,630,244
+CombiningEvaluator,1,12,45,13
+AttributeParseTest,1,12,123,20
+CharacterReaderTest,2,12,261,13
+HtmlParserTest,2,12,1385,132
+CleanerTest,1,12,339,24

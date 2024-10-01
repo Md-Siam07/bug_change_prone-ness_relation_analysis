@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DefaultDeserializationContext,1,2,421,161
+ObjectIdValueProperty,1,2,189,63
+PropertyBasedObjectIdGenerator,1,2,5,0
+PropertyBasedObjectIdGenerator,1,2,30,3
+TestObjectIdDeserialization,1,2,609,609

@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Base64Variant,1,4,301,52
+GeneratorBase,1,4,478,483
+FilteringParserDelegate,1,4,842,219
+SerializedString,1,4,236,78
+ByteSourceJsonBootstrapper,1,4,89,75
+JsonEncoding,1,4,19,9
+JsonGeneratorImpl,1,4,97,19
+JsonReadContext,1,4,181,161
+JsonLocation,1,4,146,64
+ReaderBasedJsonParser,1,4,2314,1233
+UTF8StreamJsonParser,1,4,2620,1792
+ByteQuadsCanonicalizer,1,4,917,570
+InternCache,1,4,49,33

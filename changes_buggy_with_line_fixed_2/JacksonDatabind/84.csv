@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+FactoryBasedEnumDeserializer,1,6,57,51
+FromStringDeserializer,1,6,392,303
+OptionalHandlerFactory,1,6,151,185
+ProblemHandlerTest,1,6,242,316
+TestTypeFactoryWithRecursiveTypes,1,0,0,0

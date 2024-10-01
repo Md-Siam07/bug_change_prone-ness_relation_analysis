@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,3,10,969,293
+DataUtil,2,10,537,261
+HttpConnection,1,10,1601,670
+Element,2,10,2149,711
+Node,3,10,1117,429
+HtmlTreeBuilderState,1,10,2005,478
+TokeniserState,1,10,370,405
+Whitelist,1,10,678,152
+Elements,2,10,820,177
+NodeTraversor,1,10,116,14
+Selector,1,10,703,647
+UrlConnectTest,2,10,1039,443
+ElementTest,2,10,1580,142
+NodeTest,2,10,316,28
+HtmlParserTest,2,10,1385,132
+CleanerTest,1,10,339,24

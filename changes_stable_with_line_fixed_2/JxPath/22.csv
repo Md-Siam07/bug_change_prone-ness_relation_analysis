@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JXPathBasicBeanInfo,1,10,200,187
+JXPathContextReferenceImpl,1,10,1423,902
+JDOMNodePointer,2,10,1130,959
+NodePointer,1,10,1660,718
+ServletContextHandler,2,10,159,93
+ClassLoaderUtil,1,10,0,6
+XMLDocumentContainer,1,10,293,182

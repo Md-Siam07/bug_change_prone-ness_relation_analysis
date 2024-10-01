@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DateTimeSerializerBase,1,1,446,215
+SqlDateSerializationTest,1,1,16,1
+NodeContext2049Test,1,1,3,1

@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TypeWrappedDeserializer,1,8,60,19
+DateDeserializers,1,8,438,257
+StdKeySerializers,1,8,326,148
+ResolvedRecursiveType,1,8,129,27
+TestJDKAtomicTypes,1,8,284,284
+ExternalTypeIdTest1288,1,8,521,8
+TestEnumSerialization,1,8,389,231
+JavaType76Test,1,8,22,22
+LocalTypeTest,1,8,35,0
+RecursiveTypeTest,1,8,116,1
+EnumSerialization1322Test,1,0,0,26
+JavaTypeDesc1301Test,2,7,0,33

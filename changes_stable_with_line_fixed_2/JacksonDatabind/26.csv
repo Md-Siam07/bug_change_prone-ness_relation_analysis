@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BasicDeserializerFactory,1,9,3936,2629
+DeserializerCache,1,9,1608,1009
+EnumSetDeserializer,1,9,227,97
+JavaType,1,9,326,170
+TypeDeserializerBase,1,9,321,174
+SimpleAbstractTypeResolver,1,9,24,15
+CompactStringObjectMap,1,9,223,270
+NumberDeserTest,1,9,132,132
+TestArrayDeserialization,1,9,105,66
+NumberSerTest,1,9,112,112
+FormatFeaturesTest,1,9,367,416
+TestJDKSerialization,3,9,202,34

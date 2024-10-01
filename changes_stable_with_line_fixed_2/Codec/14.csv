@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CharSequenceUtils,1,10,27,11
+BeiderMorseEncoder,1,10,278,94
+PhoneticEngineRegressionTest,4,10,53,34

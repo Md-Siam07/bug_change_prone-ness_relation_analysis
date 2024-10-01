@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Constants,2,27,133,51
+CSVParser,7,27,2276,1647
+CSVPrinter,2,27,1176,820
+CSVRecord,1,27,465,276
+Lexer,1,27,903,442
+CSVFileParserTest,1,27,169,107
+CSVFormatTest,1,27,2375,1276
+CSVParserTest,12,27,3228,2085
+CSVPrinterTest,1,27,2771,1386
+CSVRecordTest,1,27,139,48
+ExtendedBufferedReaderTest,1,27,670,460
+FercGovTest,1,27,10,97
+PerformanceTest,2,27,347,190
+PerformanceTest,2,27,117,69

@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DeserializationFeature,1,17,423,129
+MapDeserializer,1,17,1069,630
+AnnotatedClass,1,17,1422,1956
+ObjectIdInfo,1,17,93,39
+POJOPropertyBuilder,1,17,1541,792
+TypeDeserializerBase,1,17,321,174
+TextNode,1,17,352,166
+BeanPropertyWriter,1,17,1394,934
+AsArraySerializerBase,1,17,443,306
+TypeBindings,1,17,519,381
+TestMixinMerging,1,17,52,52
+TestPropertyConflicts,1,17,127,47
+TestTypedDeserializationWithDefault,1,17,145,224
+TestWithGenerics,1,17,44,24
+TestJsonNode,1,17,149,221
+TestObjectIdDeserialization,1,17,609,609

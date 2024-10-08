@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BasicDeserializerFactory,1,13,3936,2629
+BeanDeserializerFactory,2,13,1667,2157
+JsonMappingException,1,13,355,149
+TypeSerializer,1,13,598,240
+BeanSerializerFactory,1,13,843,830
+ClassUtil,3,13,1561,882
+SingleArgCreatorTest,1,13,197,234
+TestExceptionDeserialization,1,13,116,183
+TestDefaultForObject,1,13,43,403
+TypeRefinementForMap1215Test,1,13,74,74
+TypeRefinementForMapTest,1,5,2,1
+AccessFixTest,1,12,6,6
+TestJsonValue,1,13,375,375
+UnmodifiableSetTyping1392Test,1,0,0,31

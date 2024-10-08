@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Complex,1,8,0,0
+LocalizedFormats,2,8,0,0
+Rotation,1,8,0,0
+NonPositiveDefiniteLinearOperatorException,1,8,0,0
+NonSelfAdjointLinearOperatorException,1,8,0,0
+NonSquareLinearOperatorException,1,8,0,0
+NonSquareMatrixException,1,8,0,0
+BOBYQAOptimizer,2,8,0,0
+MathUtils,3,8,0,0
+ComplexTest,1,8,0,0
+RotationTest,1,8,0,0
+BOBYQAOptimizerTest,2,8,0,0
+MathUtilsTest,2,8,0,0

@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializerFactory,2,6,1667,2157
+OptionalHandlerFactory,1,6,151,185
+JacksonAnnotationIntrospector,1,6,1935,1230
+ObjectIdInfo,1,6,93,39
+BeanSerializerBase,1,6,1510,983
+JsonIgnoreProperties1595Test,1,2,0,0
+TestSubtypes,1,6,234,53
+AlwaysAsReferenceFirstTest,1,6,52,3

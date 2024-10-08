@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+FunctionInjector,1,5,390,334
+FunctionTypeBuilder,1,5,969,550
+IRFactory,1,5,1268,837
+JsDocInfoParser,1,5,1877,1368
+ProcessClosurePrimitives,1,5,1361,766
+TypedScopeCreator,1,5,3300,2384
+FunctionInjectorTest,1,5,555,311
+InlineFunctionsTest,1,5,1559,674
+ParserTest,1,5,687,166
+TypeCheckTest,2,5,7910,1742

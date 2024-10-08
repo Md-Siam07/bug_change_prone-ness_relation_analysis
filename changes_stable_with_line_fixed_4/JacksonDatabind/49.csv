@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+SettableAnyProperty,1,5,251,183
+ReferenceType,1,5,187,97
+TestNullHandling,1,5,102,156
+TestJavaType,1,5,189,119

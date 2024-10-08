@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BooleanUtils,1,6,672,1224
+EqualsBuilder,1,6,642,1263
+NumberUtils,1,6,442,978
+FieldUtils,1,6,751,1243
+StrMatcher,1,6,47,452
+DateUtils,1,6,2451,2451
+NumberUtilsTest,1,6,357,665
+DateUtilsRoundingTest,1,4,664,1377
+TimeTestSuite,1,6,131,131

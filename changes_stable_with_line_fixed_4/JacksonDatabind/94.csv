@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializerFactory,3,11,1667,2157
+SubTypeValidator,3,7,63,13
+IllegalTypesCheckTest,4,11,251,29
+AbstractApplicationContext,1,5,0,0
+AbstractPointcutAdvisor,1,5,0,0
+BogusApplicationContext,1,5,0,0
+BogusPointcutAdvisor,1,5,0,0
+GrantedAuthority,1,5,5,0

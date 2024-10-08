@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Mutable,1,16,56,2
+MutableObject,1,16,154,26
+SerializationUtils,2,16,424,99
+StringUtils,1,16,10612,3285
+StrBuilder,1,16,3215,232
+CharSequenceTranslator,1,16,166,41
+LookupTranslator,1,16,106,22
+DurationFormatUtils,1,16,737,73
+FastDateFormat,1,16,2065,1475
+FastDateParser,1,16,412,466
+FormatCache,1,16,43,32
+ContextedRuntimeExceptionTest,4,16,237,125
+TypeUtilsTest,1,16,899,168
+SerializationUtilsTest,1,16,507,80
+StringUtilsTest,1,16,2643,325
+LookupTranslatorTest,1,16,50,8

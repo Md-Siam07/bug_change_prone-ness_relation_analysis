@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BasicDeserializerFactory,1,15,3936,2629
+BeanDeserializerFactory,1,15,1667,2157
+ClassNameIdResolver,1,15,189,181
+SubTypeValidator,5,15,63,13
+IllegalTypesCheckTest,4,15,251,29
+TestConversions,1,15,260,139
+TestDefaultForUtilCollections1868,1,12,16,116
+ComboPooledDataSource,1,15,0,0
+GrantedAuthority,1,15,5,0

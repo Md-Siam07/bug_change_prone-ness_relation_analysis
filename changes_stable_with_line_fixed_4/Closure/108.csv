@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CheckAccessControls,1,14,261,115
+NodeUtil,1,14,2643,1214
+PeepholeRemoveDeadCode,1,14,1095,518
+TypeCheck,1,14,1440,1047
+TypeInference,3,14,1405,908
+TypeValidator,1,14,540,341
+CheckAccessControlsTest,1,14,206,21
+CompilerTypeTestCase,1,14,78,14
+LooseTypeCheckTest,1,14,7595,521
+PeepholeRemoveDeadCodeTest,1,14,707,135
+TypeCheckTest,5,14,7910,1742

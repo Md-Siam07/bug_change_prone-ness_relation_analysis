@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Base64InputStream,1,3,378,526
+Base64InputStreamTest,2,3,1145,1357
+Base64TestData,1,3,488,647

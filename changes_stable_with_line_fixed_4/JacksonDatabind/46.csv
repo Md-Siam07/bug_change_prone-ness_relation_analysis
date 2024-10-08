@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DeserializationContext,1,6,3120,1611
+FromStringDeserializer,1,6,392,303
+StdJdkSerializers,1,6,220,278
+TestJdkTypes,1,6,645,949
+ReadValuesTest,1,6,396,61
+TestJdkTypes,1,6,134,207

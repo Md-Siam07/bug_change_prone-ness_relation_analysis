@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializerBase,2,11,1802,985
+DeserializerCache,1,11,1608,1009
+CollectionDeserializer,2,11,572,357
+MapDeserializer,1,11,1069,630
+StdValueInstantiator,2,11,494,344
+ValueInstantiator,2,11,349,207
+StdTypeResolverBuilder,1,11,220,141
+ObjectMapper,1,11,3713,2350
+ArrayDelegatorCreatorForCollectionTest,2,11,32,32
+CreatorPropertiesTest,1,11,103,144
+DelegatingCreatorImplicitNames1001Test,1,11,96,96
+TestAnyGetterFiltering,1,11,79,79
+DefaultTypingWithPrimitivesTest,1,10,0,42
+JsonValueExtTypeIdTest,1,11,82,0
+CreatorProperties1401Test,1,0,2,45
+UnmodifiableSetTyping1392Test,2,11,0,31

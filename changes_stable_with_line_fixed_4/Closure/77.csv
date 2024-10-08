@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CrossModuleCodeMotion,1,4,281,179
+OptimizeParameters,2,4,891,697
+PeepholeFoldConstants,1,4,3191,1672
+SimpleDefinitionFinder,2,4,325,76
+UseSite,2,4,29,16
+CrossModuleCodeMotionTest,1,4,298,80
+OptimizeParametersTest,2,4,622,317
+PeepholeFoldConstantsTest,1,4,1019,316

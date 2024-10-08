@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+StdDeserializer,1,9,1912,1801
+JsonMappingException,1,9,355,149
+MapSerializer,4,9,1534,807
+ExceptionPathTest,1,8,0,46
+TestExceptionDeserialization,1,9,163,163
+TestExceptionHandling,1,9,122,122
+TestExceptionHandlingWithDefaultDeserialization,1,9,57,57
+TestExceptionHandlingWithJsonCreatorDeserialization,1,9,68,68
+TestExceptionsDuringWriting,1,9,156,156
+TestExceptionSerialization,1,9,124,124
+JDKScalarsTest,1,9,995,995

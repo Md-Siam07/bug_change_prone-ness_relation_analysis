@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CompileTask,1,10,466,106
+CommandLineRunner,1,10,1525,527
+CompilerOptions,1,10,1934,399
+DefaultPassConfig,1,10,2505,1260
+NameAnalyzer,1,10,745,475
+NodeUtil,1,10,2643,1214
+TypeInference,1,10,1405,908
+CommandLineRunnerTest,1,10,1702,302
+NameAnalyzerTest,1,10,837,62
+NodeUtilTest,1,10,1272,351
+TypeCheckTest,1,10,7910,1742

@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CheckGlobalThis,2,6,96,53
+CodeGenerator,1,6,951,531
+Compiler,2,6,1957,1347
+ComposeWarningsGuard,1,6,136,69
+DefaultPassConfig,2,6,2505,1260
+DiagnosticGroups,2,6,441,238
+MustBeReachingVariableDef,1,6,162,82
+TypeValidator,1,6,540,341
+CheckGlobalThisTest,2,6,111,28
+CodePrinterTest,1,6,1633,658
+CommandLineRunnerTest,2,6,1702,302
+FlowSensitiveInlineVariablesTest,1,6,365,69
+MustBeReachingVariableDefTest,1,6,46,26
+TypeCheckTest,1,6,7910,1742

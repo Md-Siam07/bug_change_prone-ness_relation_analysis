@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BaseSecantSolver,1,11,0,0
+SingularValueDecompositionImpl,8,11,0,0
+BOBYQAOptimizer,1,11,0,0
+SimpleRegression,1,11,0,0
+RegulaFalsiSolverTest,1,11,0,0
+SingularValueDecompositionImplTest,1,11,0,0

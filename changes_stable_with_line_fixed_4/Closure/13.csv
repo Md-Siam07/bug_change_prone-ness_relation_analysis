@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TypeInference,1,2,1405,908
+JSType,1,2,1286,732
+PrototypeObjectType,1,2,491,453
+ProxyObjectType,1,2,326,223
+UnionType,1,2,321,165
+TypeInferenceTest,1,2,602,62

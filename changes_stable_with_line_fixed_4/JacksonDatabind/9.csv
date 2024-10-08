@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializerBase,1,7,1802,985
+CreatorCollector,1,7,817,442
+StdKeyDeserializer,1,7,503,340
+PropertyMetadata,1,7,274,96
+BeanUtil,1,7,283,253
+TestJdkTypes,1,7,645,949
+TestMapDeserialization,1,7,289,714

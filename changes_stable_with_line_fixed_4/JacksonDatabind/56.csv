@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+EnumDeserializer,1,3,699,552
+StdKeySerializers,1,3,326,148
+JsonIncludeTest,1,3,395,341
+TestEnumSerialization,1,3,389,231
+EnumSerialization1322Test,1,3,0,26

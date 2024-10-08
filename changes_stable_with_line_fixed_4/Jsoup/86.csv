@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Attribute,1,2,255,83
+AttributeTest,1,2,39,2
+EntitiesTest,1,2,188,62
+ParserTest,1,2,784,778

@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CodeConsumer,1,2,98,57
+CodeGenerator,1,2,951,531
+InlineCostEstimator,1,2,17,24
+InlineCostEstimatorTest,1,2,12,8
+InlineFunctionsTest,1,2,1559,674

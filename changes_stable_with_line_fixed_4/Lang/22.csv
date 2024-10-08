@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Fraction,1,7,1026,66
+StringUtils,2,7,10612,3285
+ExtendedMessageFormat,1,7,619,84
+CalendarUtils,1,7,17,484
+CalendarUtilsTest,1,7,20,360
+DateFormatter,1,7,18,175
+DateFormatterTest,1,7,18,270
+ExtendedMessageFormatTest,1,7,546,93

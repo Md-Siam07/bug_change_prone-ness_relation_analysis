@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BaseSingleFieldPeriod,1,4,0,0
+DateTimeFormatter,1,4,0,0
+Period,1,4,0,0
+TestDays,1,4,0,0
+TestMonths,1,4,0,0
+TestPeriod_Constructors,1,4,0,0

@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TarArchiveInputStream,1,4,1815,1174
+TarBuffer,1,4,360,869
+TarTestCase,1,4,376,111
+BZip2TestCase,1,4,152,89

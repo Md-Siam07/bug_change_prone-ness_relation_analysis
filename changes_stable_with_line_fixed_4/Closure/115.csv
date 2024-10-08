@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Compiler,1,5,1957,1347
+FunctionInjector,1,5,390,334
+FunctionInjectorTest,1,5,555,311
+InlineFunctionsTest,1,5,1559,674

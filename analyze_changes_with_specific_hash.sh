@@ -16,6 +16,7 @@ if [ "$#" -eq 4 ]; then
     output_path=$4
 else
     start_hash=$(git -C "../Projects/$project_dir" rev-list --max-parents=0 HEAD) # First commit
+    echo "Start hash: $start_hash"
     end_hash=$2
     output_path=$3
 fi

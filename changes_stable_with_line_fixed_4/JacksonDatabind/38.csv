@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TypeDeserializerBase,1,10,321,174
+BeanPropertyWriter,1,10,1394,934
+StdSerializer,1,10,808,272
+CollectionLikeType,1,10,159,101
+CollectionType,1,10,112,70
+MapLikeType,1,10,300,257
+MapType,1,10,131,114
+SimpleType,2,10,273,197
+TypeBase,1,10,178,70
+TypeFactory,1,10,1895,1555
+Objecid1083Test,1,10,0,45
+DeprecatedTypeHandling1102Test,1,1,53,53
+DeprecatedTypeHandlingTest,2,1,0,50
+ExternalTypeId999Test,3,4,5,56

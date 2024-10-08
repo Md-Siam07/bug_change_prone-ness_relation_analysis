@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Lister,1,8,36,30
+TarArchiveEntry,2,8,3780,3063
+TarArchiveInputStream,1,8,1815,1174
+ExtraFieldUtils,1,8,382,265
+ZipArchiveEntry,1,8,1384,858
+ZipArchiveOutputStream,1,8,3413,1796
+ZipExtraField,1,8,41,36
+BZip2CompressorOutputStream,1,8,1889,2186
+FramedSnappyCompressorInputStream,2,8,186,81
+FramedSnappyDialect,1,3,2,2
+LongPathTest,1,8,278,111
+LongSymLinkTest,1,8,194,28
+TarArchiveInputStreamTest,1,8,451,94
+FramedSnappyCompressorInputStreamTest,1,8,261,57
+DetectArchiverTestCase,1,8,219,134

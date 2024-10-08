@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CharSequenceUtils,4,10,473,336
+ContextedException,1,10,366,113
+ContextedRuntimeException,1,10,370,116
+DefaultExceptionContext,1,10,275,110
+ExceptionContext,1,10,168,65
+StringUtils,5,10,10612,3285
+ContextedExceptionTest,1,10,242,132
+ContextedRuntimeExceptionTest,1,10,237,125
+DefaultExceptionContextTest,1,10,125,84
+StringUtilsEqualsIndexOfTest,1,10,1757,764
+StringUtilsTest,1,10,2643,325

@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+StringUtils,1,4,10612,3285
+SystemUtils,1,4,3015,1555
+NumericEntityEscaper,1,4,207,88
+StringUtilsEqualsIndexOfTest,1,4,1757,764
+SystemUtilsTest,1,4,956,580
+NumericEntityEscaperTest,1,4,92,23
+UnicodeEscaperTest,1,4,84,28

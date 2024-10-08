@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DiagnosticGroup,1,8,35,9
+FunctionInjector,1,8,390,334
+Fuzzer,2,8,710,217
+StringGenerator,1,8,17,3
+SymbolTable,1,8,60,144
+FunctionInjectorTest,1,8,555,311
+InlineFunctionsTest,1,8,1559,674

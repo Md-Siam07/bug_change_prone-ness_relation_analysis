@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DeadAssignmentsElimination,1,2,352,113
+JsDocInfoParser,1,2,1877,1368
+TypedScopeCreator,1,2,3300,2384
+FunctionBuilder,1,2,44,21
+FunctionType,1,2,1367,899
+JSTypeRegistry,1,2,1108,591
+CommandLineRunnerTest,1,2,1702,302
+DeadAssignmentsEliminationTest,1,2,416,61
+DevirtualizePrototypeMethodsTest,1,2,169,34
+DisambiguatePropertiesTest,1,2,656,136
+FunctionTypeBuilderTest,1,2,49,28
+LooseTypeCheckTest,1,2,7595,521
+JsDocInfoParserTest,1,2,1368,419
+TypeCheckTest,1,2,7910,1742
+TypedScopeCreatorTest,1,2,1550,238
+JSTypeTest,1,2,2816,1873

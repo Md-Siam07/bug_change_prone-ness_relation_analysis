@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+GeneratorBase,1,5,478,483
+UTF8JsonGenerator,1,5,1121,783
+WriterBasedJsonGenerator,1,5,769,612
+TestJsonGeneratorFeatures,1,5,271,271

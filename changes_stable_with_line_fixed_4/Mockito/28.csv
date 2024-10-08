@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AnnotationEngine,1,11,34,0
+ClassPathLoader,1,11,43,7
+DefaultAnnotationEngine,1,11,34,1
+DefaultInjectionEngine,1,11,0,0
+InjectingAnnotationEngine,2,11,0,0
+SpyAnnotationEngine,1,11,0,0
+Equals,1,11,129,50
+Same,2,11,61,23
+MockitoAnnotations,1,11,86,51
+Mockito,1,11,4567,3178
+MockitoJUnitRunner,1,11,100,36
+DeprecatedMockAnnotationTest,1,11,0,0
+DeepStubGenericTypesIssueTest,1,11,0,0
+InjectionByTypeShouldFirstLookForExactTypeThenAncestorTest,1,11,0,0
+NPEWithCertainMatchersTest,1,11,0,0
+ParentTestMockInjectionTest,2,11,0,0

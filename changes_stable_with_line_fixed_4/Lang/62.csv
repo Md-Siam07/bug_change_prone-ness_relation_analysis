@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Entities,1,9,1449,1866
+Enum,1,9,740,740
+ValuedEnum,1,9,254,254
+NumberUtils,2,9,2037,2037
+DurationFormatUtils,2,9,1229,1396
+NumberUtilsTest,2,9,1784,1784
+DurationFormatUtilsTest,2,9,825,987

@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+FunctionTypeBuilder,1,7,969,550
+PeepholeSubstituteAlternateSyntax,1,7,1822,1909
+TypeInference,1,7,1405,908
+TypeValidator,1,7,540,341
+FunctionBuilder,1,7,44,21
+JSType,1,7,1286,732
+JSTypeRegistry,1,7,1108,591
+TemplateTypeMap,1,7,207,65
+TemplatizedType,1,7,220,42
+JsDocInfoParserTest,1,7,1368,419
+PeepholeSubstituteAlternateSyntaxTest,1,7,1121,1017
+TypedScopeCreatorTest,1,7,1550,238
+FunctionTypeTest,1,7,450,57
+JSTypeTest,1,7,2816,1873

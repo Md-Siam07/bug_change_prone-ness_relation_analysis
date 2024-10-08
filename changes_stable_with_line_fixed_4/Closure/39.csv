@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+NameAnalyzer,1,2,745,475
+ParameterizedType,1,2,126,192
+CodePrinterTest,1,2,1633,658
+IntegrationTest,1,2,1255,433
+LooseTypeCheckTest,1,2,7595,521
+NameAnalyzerTest,1,2,837,62
+TypeCheckTest,1,2,7910,1742

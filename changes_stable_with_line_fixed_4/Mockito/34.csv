@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+MockitoCore,2,14,186,168
+HandyReturnValues,1,14,89,41
+ReturnsMocks,2,14,35,0
+Matchers,1,14,1597,1833
+Mockito,2,14,4567,3178
+MockitoCoreTest,2,14,0,0
+HandyReturnValuesTest,1,14,0,0
+LenientCopyToolTest,1,14,0,0
+StubbingMocksThatAreConfiguredToReturnMocksTest,1,14,0,0
+JUnitRunnerTestCase,1,14,29,1
+MatchersTest,2,14,876,378
+CleaningUpPotentialStubbingTest,1,14,12,0
+BasicStubbingTest,1,14,261,166

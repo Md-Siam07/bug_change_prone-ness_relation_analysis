@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PseudoTextElement,1,1,2,4
+Evaluator,1,2,848,70
+QueryParser,1,2,170,61
+Selector,1,2,703,647
+SelectorTest,2,2,915,153

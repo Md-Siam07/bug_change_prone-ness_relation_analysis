@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+MockSettingsImpl,1,5,32,15
+ArrayUtils,1,5,0,0
+MockUtil,1,5,263,172
+Mockito,1,5,4567,3178
+MockSettingsImplTest,1,5,43,45
+ArrayUtilsTest,1,5,0,0
+MocksSerializationTest,1,5,0,0

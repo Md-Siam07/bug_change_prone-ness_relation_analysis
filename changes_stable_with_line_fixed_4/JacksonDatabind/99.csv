@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+SubTypeValidator,5,15,63,13
+TypeFactory,1,15,1895,1555
+TypeParser,1,15,39,36
+TestTypeFactory,1,15,346,236

@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,1,5,969,293
+W3CDom,1,5,84,35
+TokenQueue,2,5,471,210
+Elements,1,5,820,177
+QueryParser,1,5,170,61
+ParseTest,1,5,266,114
+TokenQueueTest,1,5,110,40
+ElementsTest,1,5,1082,692
+QueryParserTest,1,5,15,7
+SelectorTest,1,5,915,153

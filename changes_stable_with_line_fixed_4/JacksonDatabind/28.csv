@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializer,1,11,1648,2115
+JacksonAnnotationIntrospector,1,11,1935,1230
+TypeFactory,1,11,1895,1555
+ISO8601Utils,1,11,377,287
+TestBasicAnnotations,1,11,135,73
+TestDateDeserialization,1,11,359,620
+TestExternalId,1,11,494,663
+RecursiveType938Test,2,2,3,60
+EnumCreatorTest929,1,9,35,64
+ReadWriteOnlyProp935Test,1,4,1,79

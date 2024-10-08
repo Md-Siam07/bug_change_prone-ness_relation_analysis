@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CoalesceVariableNames,1,8,363,338
+Compiler,1,8,1957,1347
+PeepholeFoldConstants,2,8,3191,1672
+CoalesceVariableNamesTest,1,8,162,56
+CommandLineRunnerTest,1,8,1702,302
+PeepholeFoldConstantsTest,2,8,1019,316

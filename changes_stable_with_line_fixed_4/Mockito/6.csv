@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+GenericMetadataSupport,2,15,0,0
+GenericMetadataSupportTest,5,15,0,0
+AnyXMatchersAcceptNullsTest,1,15,102,85

@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DefaultPassConfig,1,5,2505,1260
+NodeTraversal,1,5,236,115
+OptimizeReturns,1,5,72,159
+PeepholeSubstituteAlternateSyntax,1,5,1822,1909
+RemoveUnusedClassProperties,1,2,200,178
+TypedScopeCreator,2,5,3300,2384
+TypeInference,1,5,1405,908
+LooseTypeCheckTest,1,5,7595,521
+PeepholeIntegrationTest,1,5,167,74
+PeepholeSubstituteAlternateSyntaxTest,1,5,1121,1017
+RemoveUnusedClassPropertiesTest,1,2,236,190
+SymbolTableTest,1,5,1167,240
+TypeCheckTest,2,5,7910,1742
+TypedScopeCreatorTest,1,5,1550,238
+TypeInferenceTest,1,5,602,62

@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AnnotationUtils,1,13,434,220
+MemberUtils,1,13,270,85
+StringUtils,1,13,10612,3285
+EntityArrays,1,13,466,41
+ConcurrentUtilsTest,1,13,627,72
+ConstantInitializerTest,2,13,16,17
+EventListenerSupportTest,1,13,348,201
+EventUtilsTest,1,13,334,176
+MethodUtilsTest,1,13,535,119
+TypeUtilsTest,1,13,899,168
+SerializationUtilsTest,1,13,507,80
+StringUtilsTest,2,13,2643,325

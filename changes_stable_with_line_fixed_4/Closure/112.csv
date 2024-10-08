@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ProcessClosurePrimitives,1,4,1361,766
+TypeInference,1,4,1405,908
+VarCheck,1,4,329,164
+TypeCheckTest,1,4,7910,1742
+VarCheckTest,1,4,240,146

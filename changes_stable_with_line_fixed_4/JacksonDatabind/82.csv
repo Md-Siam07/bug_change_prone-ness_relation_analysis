@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractDeserializer,1,20,443,213
+BeanDeserializerFactory,5,20,1667,2157
+JacksonAnnotationIntrospector,2,20,1935,1230
+ObjectIdInfo,1,20,93,39
+BeanSerializerBase,2,20,1510,983
+JSONPObject,1,20,36,35
+JsonIgnoreProperties1595Test,1,20,0,0
+IllegalTypesCheckTest,1,20,251,29
+TestSubtypes,2,20,234,53
+AlwaysAsReferenceFirstTest,1,20,52,3
+JSONPObjectTest,1,20,4,0
+EnumAsExternalPropertyId1328Test,1,6,0,54
+PolymorphicWithObjectId1551Test,2,3,62,109

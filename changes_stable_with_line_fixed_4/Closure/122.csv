@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BitField,1,10,0,0
+CheckRegExp,1,15,51,12
+CodeGenerator,1,15,951,531
+CompilerOptions,1,15,1934,399
+CoverageInstrumentationCallback,1,10,0,0
+CoverageInstrumentationPass,1,10,0,0
+CoverageUtil,1,15,40,1
+DefaultPassConfig,1,15,2505,1260
+FileInstrumentationData,1,10,1,1
+TypedCodeGenerator,1,15,236,126
+TypeInference,1,15,1405,908
+CheckRegExpTest,1,15,46,13
+CodePrinterTest,2,15,1633,658
+ExternExportsPassTest,1,15,713,217
+TypeCheckTest,1,15,7910,1742

@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DataUtil,1,2,537,261
+Document,1,2,812,218
+XmlDeclaration,1,2,146,76
+XmlTreeBuilder,1,2,115,73
+DocumentTest,1,2,631,180
+XmlTreeBuilderTest,2,2,252,17

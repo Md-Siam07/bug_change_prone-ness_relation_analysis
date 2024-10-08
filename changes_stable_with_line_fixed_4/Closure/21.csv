@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CheckSideEffects,2,4,224,135
+DefaultPassConfig,1,4,2505,1260
+NodeUtil,2,4,2643,1214
+CheckSideEffectsTest,2,4,71,30

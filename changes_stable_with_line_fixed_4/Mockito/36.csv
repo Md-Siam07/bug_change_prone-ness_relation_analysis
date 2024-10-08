@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Reporter,2,3,1072,608
+AbstractMockitoMethodProxy,1,3,0,0
+MockitoMethod,1,3,0,0
+SerializableMockitoMethod,1,3,0,0
+AnswersValidator,1,3,63,0
+BaseStubbing,1,3,75,66
+AnswersValidatorTest,1,3,91,5
+SpyingOnInterfacesTest,1,3,0,0

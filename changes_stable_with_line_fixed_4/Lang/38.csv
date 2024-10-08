@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ArrayUtils,2,13,4499,4499
+StringUtils,4,13,6058,6058
+StrBuilder,1,13,2858,2858
+StrLookup,1,13,174,174
+Validate,1,13,801,801
+ArrayUtilsAddTest,1,13,600,600
+ClassUtilsTest,1,13,863,863
+StringUtilsEqualsIndexOfTest,2,13,671,671
+StringUtilsTest,1,13,1764,1764
+StrSubstitutorTest,1,13,523,523

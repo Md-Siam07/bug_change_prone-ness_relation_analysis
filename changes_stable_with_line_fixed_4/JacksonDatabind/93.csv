@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializerFactory,5,17,1667,2157
+DeserializerCache,1,17,1608,1009
+SubTypeValidator,2,17,63,13
+BaseMapTest,1,17,224,80
+MapDeserializerCachingTest,1,16,0,0
+IllegalTypesCheckTest,5,17,251,29
+TestNamingStrategyStd,1,17,535,124
+TestViewSerialization,1,17,226,38
+AbstractApplicationContext,1,17,0,0
+AbstractPointcutAdvisor,1,17,0,0
+BogusApplicationContext,1,17,0,0
+BogusPointcutAdvisor,1,17,0,0

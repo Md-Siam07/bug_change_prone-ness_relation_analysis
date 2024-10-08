@@ -3,7 +3,7 @@ import pandas as pd
 import time
 # test change
 defects4j_projects_path = "/home/mdsiam/Desktop/extension/defects4j/framework/projects"
-time_path = "time_analysis/changes_last_stable_with_line_fixed_3"
+time_path = "time_analysis/changes_last_stable_with_line_fixed_4"
 project_dirs = [
     # {
     #     "project": "Chart",
@@ -63,7 +63,7 @@ project_dirs = [
     },
     {
         "project": "Math",
-        "dir": "lang-d"
+        "dir": "math-d"
     },
     {
         "project": "Mockito",
@@ -86,7 +86,7 @@ for project_dir in project_dirs:
     # sort the dataframe by commit_number and then commit_number_fixed
     df_enumerated = df_enumerated.sort_values(by=["commit_number", "commit_number_fixed"])
 
-    output_dir = f"/home/mdsiam/Desktop/extension/change-defect-relation-analysis/Code/changes_stable_with_line_fixed_3/{project}"
+    output_dir = f"/home/mdsiam/Desktop/extension/change-defect-relation-analysis/Code/changes_stable_with_line_fixed_4/{project}"
     print(f"Analyzing {project}...")
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -95,23 +95,29 @@ for project_dir in project_dirs:
         with open(time_file, "w") as f:
             f.write("version, time\n")
             f.close()
-    for index, row in df_enumerated.iterrows():
+    for i, (index, row) in enumerate(df_enumerated.iterrows()):
+    # for index, row in df_enumerated.iterrows():
         current_version = row["current_version"]
         bug_id = row["bug_id"]
         
-        # if project != 'Lang' or bug_id != 4:
-        #     continue
+        if project != 'Math':
+            continue
         # input()
-        print(f"Analyzing \t - {current_version}...")
+        # print(i,index, row)
+            
+        print(f"Analyzing \t - {project}-{bug_id}...")
         output_file = f"{output_dir}/{bug_id}.csv"
         start_time = time.time()
-        if index == 0:
+        if i == 0:
             os.system(f"bash analyze_changes_with_specific_hash.sh {dir} {current_version} {output_file}")
             
         else:
-            last_stable_version = df_enumerated.iloc[index - 1]["fixed_version"]
-            if last_stable_version == current_version:
-                last_stable_version = df_enumerated.iloc[index - 1]["current_version"]
+            last_stable_version = df_enumerated.iloc[i - 1]["current_version"]
+            # current_version_number = row["commit_number"]
+            # last_stable_version_fixed_number = df_enumerated.iloc[i - 1]["commit_number_fixed"]
+        
+            # if current_version_number <= last_stable_version_fixed_number:
+            #     last_stable_version = df_enumerated.iloc[i - 1]["current_version"]
             os.system(f"bash analyze_changes_with_specific_hash.sh {dir} {last_stable_version} {current_version} {output_file}")
         end_time = time.time()
         total_time = end_time - start_time

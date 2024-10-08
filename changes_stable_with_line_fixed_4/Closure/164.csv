@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CodePrinter,1,5,413,309
+Compiler,1,5,1957,1347
+CompilerOptions,2,5,1934,399
+ProcessCommonJSModules,2,5,46,29
+PrototypeObjectType,1,5,491,453
+CodePrinterTest,1,5,1633,658
+ExternExportsPassTest,1,5,713,217
+ProcessCommonJSModulesTest,1,5,66,21
+RecordTypeTest,1,5,181,0

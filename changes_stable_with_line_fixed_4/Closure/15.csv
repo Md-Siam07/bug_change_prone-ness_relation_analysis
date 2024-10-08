@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CompilerOptions,1,2,1934,399
+DefaultPassConfig,1,2,2505,1260
+ProcessClosurePrimitives,1,2,1361,766
+ScopedAliases,1,2,640,250
+CompilerTestCase,1,2,503,160
+IntegrationTest,1,2,1255,433
+LooseTypeCheckTest,1,2,7595,521
+ProcessClosurePrimitivesTest,1,2,561,116
+RenameVarsTest,1,2,254,59
+ScopedAliasesTest,1,2,714,38
+TypeCheckTest,1,2,7910,1742

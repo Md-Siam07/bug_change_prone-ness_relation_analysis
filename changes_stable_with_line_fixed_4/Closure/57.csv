@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+SourceMapConsumerV3,2,8,321,48
+SourceMapGeneratorV3,1,8,999,47
+SourceMapSection,1,8,121,16
+AbstractCommandLineRunner,2,8,3207,1159
+CodingConvention,1,8,206,82
+DefaultCodingConvention,1,8,97,279
+JSError,1,8,76,59
+LiveVariablesAnalysis,1,8,32,22
+TypedScopeCreator,1,8,3300,2384
+SourceMapGeneratorV3Test,1,8,324,35
+CommandLineRunnerTest,1,8,1702,302
+LiveVariableAnalysisTest,1,8,26,10

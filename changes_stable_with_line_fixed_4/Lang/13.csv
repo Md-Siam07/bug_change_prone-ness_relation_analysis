@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+StringUtils,2,11,10612,3285
+DateParser,1,9,21,17
+DatePrinter,2,9,10,10
+FastDateFormat,2,11,2065,1475
+FastDateParser,3,9,412,466
+FastDatePrinter,2,11,1361,100
+FormatCache,1,11,43,32
+StringUtilsEqualsIndexOfTest,1,11,1757,764
+StrSubstitutorTest,1,11,697,90
+FastDateFormat_ParserTest,1,11,34,1
+FastDateFormat_PrinterTest,1,11,34,1
+FastDateFormatTest,1,11,539,226
+FastDateParserTest,2,9,488,329
+FastDatePrinterTest,1,9,72,47

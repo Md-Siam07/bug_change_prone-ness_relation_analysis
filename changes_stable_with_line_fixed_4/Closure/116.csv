@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsAst,1,3,50,48
+NodeUtil,1,3,2643,1214
+ReplaceMessagesForChrome,1,3,4,11
+ScopedAliases,1,3,640,250
+ReplaceMessagesForChromeTest,1,3,29,0
+ScopedAliasesTest,1,3,714,38

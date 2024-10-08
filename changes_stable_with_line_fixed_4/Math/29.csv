@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+RealVector,2,8,0,0
+CurveFitter,1,8,0,0
+GaussianFitter,1,8,0,0
+HarmonicFitter,1,8,0,0
+PolynomialFitter,1,8,0,0
+MannWhitneyUTest,1,8,0,0
+RealVectorAbstractTest,4,8,0,0
+RealVectorTest,4,8,0,0
+PolynomialFitterTest,1,8,0,0
+MannWhitneyUTestTest,1,8,0,0

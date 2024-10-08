@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DeserializationConfig,1,14,1777,1894
+DeserializationContext,1,14,3120,1611
+JsonNodeDeserializer,1,14,657,336
+DOMDeserializer,1,14,37,11
+AnnotatedConstructor,1,14,134,53
+AnnotatedMethod,1,14,267,158
+AnnotatedWithParams,1,14,42,102
+ClassNameIdResolver,1,14,189,181
+MinimalClassNameIdResolver,1,14,9,9
+SerializationConfig,1,14,1828,2067
+WritableObjectId,1,14,88,27
+TokenBuffer,1,14,1294,453
+AlwaysAsReferenceFirstTest,1,14,52,3
+TestFeatures,1,14,84,311
+FailingSubTypeUnknownClass1098Test,1,12,0,0

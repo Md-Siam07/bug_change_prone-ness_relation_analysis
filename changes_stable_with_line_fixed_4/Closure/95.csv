@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PrepareAst,1,5,236,245
+TypedScopeCreator,2,5,3300,2384
+TypeInference,1,5,1405,908
+TypeCheckTest,1,5,7910,1742
+TypedScopeCreatorTest,1,5,1550,238

@@ -2,11 +2,12 @@ import pandas as pd
 import numpy as np
 import os
 import re
+import json
 
-change_dir = "accumulated_changes_stable"
-function_call_path = "/home/mdsiam/Desktop/extension/Callgraph/callgraphs"
+change_dir = "accumulated_changes_stable_with_line_fixed_4"
+function_call_path = "/home/mdsiam/Desktop/extension/Callgraph/cg2"
 all_test_cases_path = "/home/mdsiam/Desktop/extension/ATM_artifacts_(1)/Data/unique_test_cases.csv"
-output_dir = "testcase_change_proneness_stable"
+output_dir = "test_case_change_proneness_stable_with_line_fixed_4"
 
 test_cases = pd.read_csv(all_test_cases_path)
 
@@ -83,18 +84,20 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
         if caller in methods:
             methods[caller].append(callee_class)
         else:
-            methods[caller] = [callee_class]
-
+            methods[caller] = [caller_class, callee_class]
+    print(methods)
     # Get test cases for the given project and version
     tcs = get_test_cases(project, version)
 
     # Prepare a DataFrame to store the results
     results = []
-
+    # print(tcs)
     for tc in tcs:
         if tc not in methods:
             continue
         used_classes = methods[tc]
+        print(f"Test case: {tc}")
+        print(f"Used classes: {used_classes}")
         change_proneness_values = change_proneness_df[change_proneness_df['ClassName'].isin(used_classes)]
         
         # Calculate change proneness metrics
@@ -106,6 +109,9 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
         # Store the results in a list
         results.append({
             'TestCase': tc,
+            'UsedClasses': json.dumps(used_classes),
+            # change proneness values as a JSON string
+            'ChangePronenessValues': change_proneness_values.to_json(orient='records'),
             'MaxChangeProneness': max_cp,
             'AvgChangeProneness': avg_cp,
             'MinChangeProneness': min_cp,
@@ -114,7 +120,7 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
 
     # Convert the list to a DataFrame
     results_df = pd.DataFrame(results)
-
+    print(results_df)
     if results_df.empty:
         return
     # Sort the DataFrame by 'SumChangeProneness'
@@ -137,3 +143,4 @@ if __name__ == "__main__":
             change_proneness_df = pd.read_csv(f"{project_path}/{version}.csv")
             change_proneness_df['Ratio']=change_proneness_df['Changes']/change_proneness_df['TotalCommits']
             calculate_testcase_change_proneness(change_proneness_df, version, project)
+            input("Press Enter to continue...")

@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractRendererTests,1,2,99,97
+CategoryPlotTests,1,2,6,4
+DefaultIntervalCategoryDataset,1,2,3,3
+LogAxisTests,1,2,23,21
+PaintListTests,1,2,19,17
+WeekTests,1,2,90,80

@@ -20,7 +20,7 @@ def post_process(file_path, output_path):
     df.drop(columns=['Ratio'], inplace=True)
     df.to_csv(output_path, index=False)
 
-changes_dir = "changes_stable_with_line_fixed_4"
+changes_dir = "changes_with_line_fixed_3"
 output_dir = f"accumulated_{changes_dir}"
 
 for project in os.listdir(changes_dir):

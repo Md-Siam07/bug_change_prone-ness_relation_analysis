@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractRendererTests,1,3,99,97
+CandlestickRendererTests,1,3,28,26
+CategoryPlot,1,3,0,6
+DatasetUtilitiesTests,1,3,9,9
+DefaultOHLCDatasetTests,1,3,12,10
+HighLowRendererTests,1,3,28,26
+LogAxisTests,1,3,23,21
+PaintListTests,1,3,19,17
+WeekTests,1,3,90,80
+XYPlot,1,3,0,6

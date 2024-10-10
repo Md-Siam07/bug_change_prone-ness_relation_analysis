@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+EnumDeserializationTest,1,2,583,583
+FromStringDeserializer,1,2,392,303
+ProblemHandlerTest,1,2,242,316

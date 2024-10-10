@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ReadValuesTest,2,4,396,61
+BeanDeserializerFactory,1,4,1667,2157
+ClassUtil,1,4,1561,882
+ObjectReader,1,4,2409,1405
+TestExceptionDeserialization,1,4,116,183
+ThrowableDeserializer,1,4,56,60

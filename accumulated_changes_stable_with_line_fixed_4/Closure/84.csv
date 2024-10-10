@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DefaultPassConfig,2,7,2505,1260
+ProcessTweaks,2,7,243,90
+ProcessTweaksTest,2,7,199,41
+CodeGenerator,1,7,951,531
+CodePrinterTest,1,7,1633,658
+Compiler,1,7,1957,1347
+CompilerOptions,1,7,1934,399
+StripCode,1,7,231,237
+TypeCheck,1,7,1440,1047
+TypeCheckTest,1,7,7910,1742
+TypeValidator,1,7,540,341
+UnreachableCodeElimination,1,7,461,346
+UnreachableCodeEliminationTest,1,7,424,152

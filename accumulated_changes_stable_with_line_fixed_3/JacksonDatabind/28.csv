@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+RecursiveType938Test,2,2,3,60
+ReadWriteOnlyProp935Test,1,4,1,79
+ObjectMapper,3,19,3713,2350
+TestExternalId,3,19,494,663
+EnumCreatorTest929,1,9,35,64
+TypeFactory,2,19,1895,1555
+BeanDeserializer,1,19,1648,2115
+ISO8601Utils,1,19,377,287
+JacksonAnnotationIntrospector,1,19,1935,1230
+MappingJsonFactory,1,19,34,26
+ObjectMapperTest,1,19,591,185
+TestBasicAnnotations,1,19,135,73
+TestDateDeserialization,1,19,359,620
+TypeParser,1,19,39,36

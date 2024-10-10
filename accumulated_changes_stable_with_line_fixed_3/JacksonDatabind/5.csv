@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CollectionDeserializer,2,7,572,357
+ArrayBlockingQueueDeserializer,1,7,79,104
+BeanDeserializer,1,7,1648,2115
+BeanDeserializerBase,1,7,1802,985
+EnumSetDeserializer,1,7,227,97
+ObjectArrayDeserializer,1,7,331,173
+ObjectIdReferenceProperty,1,7,72,60
+ObjectIdValueProperty,1,7,189,63
+PrimitiveArrayDeserializers,1,7,932,575
+SettableBeanProperty,1,7,884,930
+StringArrayDeserializer,1,7,307,152
+StringCollectionDeserializer,1,7,304,238
+TestCreators3,1,7,39,79
+UUIDDeserializer,1,7,118,97

@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PlaceholderForType,1,0,1,0
+TestTypeFactory1604,5,4,133,117
+NestedTypes1604Test,5,6,263,133
+TestTypeFactory,3,16,346,236
+ProblemHandler1767Test,1,7,0,0
+CustomAnnotationIntrospector1756Test,1,10,1,119
+BeanDeserializerFactory,1,16,1667,2157
+DeserializationContext,1,16,3120,1611
+IllegalTypesCheckTest,1,16,251,29
+ReferenceType,1,16,187,97
+SimpleType,1,16,273,197
+TestAbstractTypes,1,16,123,25
+TypeFactory,1,16,1895,1555
+TypeParser,1,16,39,36

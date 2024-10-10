@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Document,2,9,812,218
+CharacterReader,1,9,613,272
+CharacterReaderTest,1,9,261,13
+CleanerTest,1,9,339,24
+Entities,1,9,2942,2592
+FormElement,1,9,33,12
+FormElementTest,1,9,73,6
+HtmlParserTest,1,9,1385,132
+Normalizer,1,9,8,4

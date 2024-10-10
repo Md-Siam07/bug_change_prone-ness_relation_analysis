@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+FieldAttributes,1,22,263,226
+Gson,1,22,1810,1190
+GsonBuilder,1,22,1210,940
+LineItem,1,22,1,1
+ParameterizedTypeTest,1,22,64,7
+RuntimeTypeAdapterFactory,1,22,310,70
+SerializedNameTest,1,22,1,1

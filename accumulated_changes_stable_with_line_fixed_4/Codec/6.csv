@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ColognePhonetic,1,5,663,1155
+ColognePhoneticTest,1,5,430,498
+Base64,1,10,3227,3725
+Base64InputStreamTest,1,10,1145,1357
+Base64OutputStreamTest,1,10,946,1154
+Base64TestData,1,10,488,647
+Hex,1,10,948,1073
+StringUtils,1,10,622,622

@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DurationFormatUtils,3,8,1229,1396
+DurationFormatUtilsTest,3,8,825,987
+NumberUtils,2,8,2479,3015
+Fraction,1,8,607,1342
+MutableBoolean,1,8,112,277
+NumberUtilsTest,1,8,1784,1784

@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+GroupImpl,3,8,199,669
+GroupTest,2,8,124,550
+BugCLI159Test,1,6,0,0
+BugCLI123Test,1,7,0,0
+CommandLineTestCase,1,8,393,878
+DisplaySetting,1,8,1,157
+GroupBuilder,1,8,2,118
+HelpFormatter,1,8,201,805
+NestedGroupTest,1,8,2,201
+Option,1,8,18,205
+OptionImpl,1,8,121,223
+WriteableCommandLineImpl,1,8,92,307

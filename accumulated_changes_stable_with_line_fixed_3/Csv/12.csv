@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CSVFormat,14,52,5575,3540
+CSVParser,8,52,2276,1647
+CSVPrinter,8,52,1176,820
+CSVFormatTest,7,52,2375,1276
+CSVPrinterTest,6,52,2771,1386
+CSVParserTest,5,52,3228,2085
+CSVRecord,4,52,465,276
+Lexer,4,52,903,442
+LexerTest,4,52,613,223
+CSVFileParserTest,2,52,169,107
+QuoteMode,1,52,61,11

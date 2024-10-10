@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Axis,1,2,0,2
+SegmentedTimelineTests,1,2,10,8
+DayTests,1,2,52,44
+HourTests,1,2,52,44
+MillisecondTests,1,2,52,44
+MinuteTests,1,2,52,44
+MonthTests,1,2,52,44
+QuarterTests,1,2,52,44
+SecondTests,1,2,52,44
+WeekTests,1,2,106,90
+YearTests,1,2,54,46

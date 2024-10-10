@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonAdapterNullSafeTest,4,19,50,174
+Gson,2,20,1810,1190
+JsonAdapterAnnotationTypeAdapterFactory,1,20,241,209

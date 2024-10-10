@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DocumentTest,1,2,631,180
+Entities,1,2,2942,2592
+HttpConnection,1,2,1601,670
+Node,1,2,1117,429
+NodeTest,1,2,316,28
+StringUtil,1,2,254,350
+StringUtilTest,1,2,79,123
+UrlConnectTest,1,2,1039,443

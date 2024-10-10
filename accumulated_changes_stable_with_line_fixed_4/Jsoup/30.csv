@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+UrlConnectTest,2,7,1039,443
+HttpStatusException,1,4,0,0
+UnsupportedMimeTypeException,1,4,0,0
+CleanerTest,1,7,339,24
+Connection,1,7,969,293
+Document,1,7,812,218
+DocumentTest,1,7,631,180
+Element,1,7,2149,711
+HttpConnection,1,7,1601,670
+Jsoup,1,7,352,114

@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonFormatVisitorNullWrapper,1,3,0,0
+FloatNode,1,10,147,23
+TestNumberNodes,1,10,183,354
+TestObjectMapper,1,10,168,252
+UnwrappingBeanPropertyWriter,1,10,232,103

@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ReturnsEmptyValuesTest,2,4,64,0
+ShouldMocksCompareToBeConsistentWithEqualsTest,2,4,0,0
+ReturnsEmptyValues,1,4,119,0

@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+module-info,3,5,3,1
+UTF8StreamJsonParser,3,16,2620,1792
+NonStandardParserFeaturesTest,2,16,95,137
+NonStandardUnquotedNamesTest,2,16,34,10
+ReaderBasedJsonParser,2,16,2314,1233
+TestRootValues,2,16,210,7
+Base64CodecTest,1,16,145,1
+Base64Variant,1,16,301,52
+NumberInput,1,16,188,189
+NumberOutput,1,16,640,513
+UTF8JsonGenerator,1,16,1121,783
+WriterBasedJsonGenerator,1,16,769,612

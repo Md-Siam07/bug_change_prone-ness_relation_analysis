@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DocumentTest,2,4,631,180
+Attribute,1,4,255,83
+Attributes,1,4,760,286
+Document,1,4,812,218
+Element,1,4,2149,711
+ElementTest,1,4,1580,142
+Entities,1,4,2942,2592
+EntitiesTest,1,4,188,62
+HttpConnection,1,4,1601,670
+Node,1,4,1117,429

@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ChainableReverseAbstractInterpreter,1,8,771,21
+CleanupPasses,1,8,5,6
+DefaultPassConfig,1,8,2505,1260
+IntegrationTest,1,8,1255,433
+JsDocInfoParser,1,8,1877,1368
+JsDocInfoParserTest,1,8,1368,419
+PassConfig,1,8,180,160

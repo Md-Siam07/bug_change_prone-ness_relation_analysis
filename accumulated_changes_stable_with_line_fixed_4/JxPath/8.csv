@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CoreOperationRelationalExpression,2,2,74,23
+CoreOperationCompare,1,3,132,119
+CoreOperationGreaterThan,1,3,126,83
+CoreOperationGreaterThanOrEqual,1,3,127,83
+CoreOperationLessThan,1,3,126,83
+CoreOperationLessThanOrEqual,1,3,127,83
+CoreOperationTest,1,3,136,149

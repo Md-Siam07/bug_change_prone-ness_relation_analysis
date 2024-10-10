@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DescendableLinkedList,2,5,16,88
+Elements,3,16,820,177
+ParserTest,2,16,784,778
+TreeBuilder,2,16,148,738
+TreeBuilderState,2,16,8,1490
+DocumentType,1,16,105,35
+ElementsTest,1,16,1082,692
+Node,1,16,1117,429
+NodeTest,1,16,316,28
+ParseError,1,16,31,36
+Selector,1,16,703,647
+Token,1,16,630,244
+TokenQueue,1,16,471,210
+TokeniserState,1,16,370,405

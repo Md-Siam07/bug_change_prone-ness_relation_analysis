@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PolymorphicList1451SerTest,1,0,0,0
+GenericParameterTypeFactory1456Test,2,3,45,45
+MapSerializer,3,8,1534,807
+DeprecatedConstructType1456Test,1,3,49,0
+ArrayDelegatorCreatorForCollectionTest,1,8,32,32
+BeanDeserializerBase,1,8,1802,985
+CollectionDeserializer,1,8,572,357
+ObjectWriter,1,8,1905,1049
+PropertyValueBuffer,1,8,355,161
+StdValueInstantiator,1,8,494,344
+TypeFactory,1,8,1895,1555
+ValueInstantiator,1,8,349,207

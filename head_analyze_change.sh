@@ -97,7 +97,7 @@ project_name=$1
 original_dir=$(pwd)
 project_path=$2
 output_path=$3
-csv_file="$original_dir/changes_with_line_fixed/$project_name/$output_path"
+csv_file="$original_dir/changes_with_line_fixed_2/$project_name/$output_path"
 
 # If the project directory doesn't exist, create it
 if [ ! -d "changes_with_line_full_file_name/$project_name" ]; then
@@ -128,17 +128,19 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 echo "CSV file created at: $csv_file"
-
+# 
 # Function to calculate insertions and deletions using git log --numstat
 calculate_insertions_deletions() {
     local file=$1
     local start_commit=$2
     local end_commit=$3
     
+    # Use git log with --numstat to capture file-specific changes
     local output=$(git log --numstat -l0 $start_commit..$end_commit -- "$file")
     local total_insertions=0
     local total_deletions=0
     
+    # Loop through each line in the output to accumulate insertions and deletions
     while IFS= read -r line; do
         if [[ $line =~ ^[0-9]+[[:space:]]+[0-9]+[[:space:]]+$file ]]; then
             insertions=$(echo $line | awk '{print $1}')
@@ -148,6 +150,7 @@ calculate_insertions_deletions() {
         fi
     done <<< "$output"
     
+    # Return insertions and deletions
     echo "$total_insertions $total_deletions"
 }
 

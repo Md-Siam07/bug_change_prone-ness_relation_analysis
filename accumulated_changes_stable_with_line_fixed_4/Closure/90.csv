@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TypeCheckTest,6,10,7910,1742
+TypeInference,3,10,1405,908
+TypeCheck,2,10,1440,1047
+CodeGenerator,1,10,951,531
+FunctionType,1,10,1367,899
+FunctionTypeBuilder,1,10,969,550
+JSTypeRegistry,1,10,1108,591
+TypedScopeCreator,1,10,3300,2384

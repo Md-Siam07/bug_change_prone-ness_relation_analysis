@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TypeCheckTest,2,5,7910,1742
+TypedScopeCreator,2,5,3300,2384
+TypedScopeCreatorTest,2,5,1550,238
+NameAnalyzer,1,5,745,475
+NameAnalyzerTest,1,5,837,62
+PeepholeOptimizationsPass,1,5,219,198
+PeepholeOptimizationsPassTest,1,5,42,40
+TypeCheck,1,5,1440,1047
+TypeValidator,1,5,540,341

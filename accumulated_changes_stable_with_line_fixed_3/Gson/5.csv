@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonReader,1,2,2453,1961
+JsonReaderTest,1,2,1300,280
+JsonWriter,1,2,340,176
+JsonWriterTest,1,2,196,6

@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CapturingArgumentsTest,2,11,154,14
+MockBytecodeGenerator,2,11,0,0
+CachingMockBytecodeGenerator,1,11,0,0
+InvocationMatcher,1,11,260,150
+ReturnsEmptyValues,1,11,119,0
+ReturnsEmptyValuesTest,1,11,64,0

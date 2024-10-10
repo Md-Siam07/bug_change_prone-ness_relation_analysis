@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ToXmlGenerator,3,9,1536,226
+FromXmlParser,2,9,1379,349
+XmlTypeResolverBuilder,2,9,200,46
+UnwrappingXmlBeanSerializer,1,9,154,8
+XmlBeanSerializer,1,9,496,364
+XmlBeanSerializerBase,1,9,447,52
+XmlMapper,1,9,352,92
+XmlParserTest,1,9,359,82
+XmlTextTest,1,9,86,4

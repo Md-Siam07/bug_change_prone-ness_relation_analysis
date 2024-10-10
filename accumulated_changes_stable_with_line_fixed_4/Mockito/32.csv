@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Reporter,4,38,1072,608
+InvocationContainerImplTest,3,38,0,0
+MultithreadedStubbingHalfManualTest,3,38,0,0
+ParentClassNotPublicVeryWeirdBugTest,2,38,0,0
+ShouldNotDeadlockAnswerExecutionTest,2,38,0,0
+InheritedGenericsPolimorphicCallTest,1,38,0,0
+InvocationContainerImpl,1,38,0,0
+InvocationMatcher,1,38,260,150
+OnlyTest,1,38,0,0
+PlaygroundTest,1,38,229,137
+RegisteredInvocations,1,38,185,148

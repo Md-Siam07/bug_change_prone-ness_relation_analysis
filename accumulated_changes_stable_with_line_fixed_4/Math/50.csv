@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+RegulaFalsiSolverTest,2,7,0,0
+SingularValueDecompositionImpl,2,7,0,0
+BaseSecantSolver,1,7,0,0
+BitsStreamGenerator,1,7,0,0
+EmpiricalDistributionImpl,1,7,0,0
+MatrixUtils,1,7,0,0
+MatrixUtilsTest,1,7,0,0
+RandomDataImpl,1,7,0,0
+RandomGeneratorAbstractTest,1,7,0,0

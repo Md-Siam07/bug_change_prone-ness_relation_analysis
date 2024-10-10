@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Cleaner,1,8,223,53
+CleanerTest,1,8,339,24
+HttpConnection,1,8,1601,670
+Jsoup,1,8,352,114
+StringUtil,1,8,254,350
+StringUtilTest,1,8,79,123

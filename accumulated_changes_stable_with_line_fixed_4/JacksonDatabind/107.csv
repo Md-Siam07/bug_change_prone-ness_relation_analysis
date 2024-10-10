@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ProblemHandlerUnknownTypeId2221Test,1,0,0,0
+GenericContent,2,1,0,23
+HandleUnknowTypeIdTest,2,1,0,78
+JDKScalarsTest,1,8,1562,660
+JDKTypeSerializationTest,1,8,205,3
+JdkDeserializers,1,8,432,649
+StdKeyDeserializer,1,8,503,340
+TypeFactory,1,8,1895,1555

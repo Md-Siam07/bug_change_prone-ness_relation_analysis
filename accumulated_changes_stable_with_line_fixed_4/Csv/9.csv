@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CSVFormat,3,5,5575,3540
+CSVFormatTest,1,5,2375,1276
+CSVParser,1,5,2276,1647
+CSVParserTest,1,5,3228,2085

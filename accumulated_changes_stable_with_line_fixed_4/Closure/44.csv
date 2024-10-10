@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DependencyOptions,1,0,17,4
+AbstractCommandLineRunner,1,4,3207,1159
+CodePrinterTest,1,4,1633,658
+Compiler,1,4,1957,1347
+CompilerOptions,1,4,1934,399
+CompilerTest,1,4,138,48
+ConvertToDottedProperties,1,4,24,15
+ConvertToDottedPropertiesTest,1,4,19,5
+JSModuleGraph,1,4,419,177
+JSModuleGraphTest,1,4,233,57
+RemoveUnusedVars,1,4,1583,877
+RemoveUnusedVarsTest,1,4,864,312
+SortedDependencies,1,4,181,16
+TokenStream,1,4,184,1672

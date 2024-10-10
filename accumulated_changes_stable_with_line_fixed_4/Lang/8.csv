@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+FastDateParser,6,11,412,466
+FastDateParserTest,3,11,488,329
+DurationFormatUtilsTest,1,11,651,63

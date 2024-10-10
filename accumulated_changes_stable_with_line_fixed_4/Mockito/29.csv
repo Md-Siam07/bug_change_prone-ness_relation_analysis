@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Reporter,3,11,1072,608
+ReturnsSmartNulls,3,11,70,0
+ReturnsSmartNullsTest,3,11,55,5
+SmartNullsStubbingTest,2,11,86,27
+Answers,1,11,0,0
+Mockito,1,11,4567,3178
+NoMoreInteractionsExcludingStubsTest,1,11,0,0
+ShouldMocksCompareToBeConsistentWithEqualsTest,1,11,0,0
+TestBase,1,11,185,72

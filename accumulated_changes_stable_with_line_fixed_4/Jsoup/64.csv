@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HtmlParserTest,2,3,1385,132
+HtmlTreeBuilder,1,3,995,254
+HtmlTreeBuilderState,1,3,2005,478
+Tokeniser,1,3,192,127
+XmlTreeBuilder,1,3,115,73

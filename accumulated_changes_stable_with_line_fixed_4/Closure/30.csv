@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CommandLineRunnerTest,3,16,1702,302
+JsFileParser,2,16,114,53
+JsFileParserTest,2,16,121,30
+SortedDependencies,2,16,181,16
+Compiler,1,16,1957,1347
+CompilerInput,1,16,322,155
+PeepholeSubstituteAlternateSyntax,1,16,1822,1909
+PeepholeSubstituteAlternateSyntaxTest,1,16,1121,1017

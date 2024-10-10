@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AnyGetterWriter,1,4,112,54
+BeanSerializerBase,1,4,1510,983
+BeanSerializerFactory,1,4,843,830
+FloatNode,1,4,147,23
+MapDeserializer,1,4,1069,630
+MapperFeature,1,4,625,354
+StdDeserializer,1,4,1912,1801
+TestAnyGetter,1,4,154,150
+TestValueInstantiator,1,4,649,649

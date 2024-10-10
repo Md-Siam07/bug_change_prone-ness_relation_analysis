@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+StringUtilsTest,5,12,2643,325
+JavaUnicodeEscaper,2,7,26,8
+StrBuilder,2,12,3215,232
+StringEscapeUtils,2,12,770,107
+CharSequenceTranslator,1,12,166,41
+EventListenerSupportTest,1,12,348,201
+StrBuilderAppendInsertTest,1,12,1703,121
+StringEscapeUtilsTest,1,12,688,129
+UnicodeEscaper,1,12,242,103

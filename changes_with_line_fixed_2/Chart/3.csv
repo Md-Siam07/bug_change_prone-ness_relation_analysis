@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TimeSeries,1,2,0,2
+PeriodAxisTests,1,2,30,28
+TimeSeriesCollectionTests,1,2,40,38

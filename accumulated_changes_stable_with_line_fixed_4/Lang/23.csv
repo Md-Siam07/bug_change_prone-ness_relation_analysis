@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ObjectUtils,6,11,1079,231
+ObjectUtilsTest,3,11,680,82
+ExtendedMessageFormat,2,11,619,84
+Fraction,1,11,1026,66
+NumberUtils,1,11,1705,284
+NumberUtilsTest,1,11,1652,299
+StringUtilsTest,1,11,2643,325

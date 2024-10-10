@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ChiSquareTest,2,10,8,9
+TestUtils,2,10,1,0
+Beta,1,10,654,456
+BetaTest,1,10,348,230
+ChiSquareTestImpl,1,10,64,103
+ChiSquareTestTest,1,10,83,18
+CorrelatedRandomVectorGenerator,1,10,0,0
+Gamma,1,10,662,586
+GammaTest,1,10,293,199
+MathUtils,1,10,1986,1246
+MathUtilsTest,1,10,1200,519
+RandomDataImpl,1,10,1462,865
+RandomDataTest,1,10,1387,794

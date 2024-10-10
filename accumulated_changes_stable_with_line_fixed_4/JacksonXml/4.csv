@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+FromXmlParser,2,48,1379,349
+ToXmlGenerator,2,48,1536,226
+XmlParserTest,2,48,359,82
+SupportDTDDefaultsTest,1,42,0,23
+EmptyListDeser124Test,1,46,0,0
+JacksonXmlModule,1,48,147,19
+TestUnwrappedDeserIssue86,1,48,154,70
+UnwrappingWithXMLTest,1,48,143,11
+XmlFactory,1,48,1104,281
+XmlParserNextXxxTest,1,48,0,0
+XmlTextTest,1,48,86,4
+XmlTokenStream,1,48,721,141

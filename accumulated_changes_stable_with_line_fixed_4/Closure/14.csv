@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+FlowSensitiveInlineVariables,2,17,313,127
+FlowSensitiveInlineVariablesTest,2,17,365,69
+CodeGenerator,1,17,951,531
+CodePrinterTest,1,17,1633,658
+CommandLineRunner,1,17,1525,527
+IRFactory,1,17,1268,837
+IRFactoryTest,1,17,959,962
+IntegrationTest,1,17,1255,433
+MustBeReachingVariableDef,1,17,162,82
+MustBeReachingVariableDefTest,1,17,46,26
+NodeUtil,1,17,2643,1214
+NodeUtilTest,1,17,1272,351

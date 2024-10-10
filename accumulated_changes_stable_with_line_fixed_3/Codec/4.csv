@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Base64Codec13Test,3,2,557,1090
+Hex,6,33,948,1073
+DigestUtils,4,33,1349,1535
+HexTest,4,33,989,1122
+Base64,2,33,3227,3725
+DoubleMetaphone2Test,2,33,2564,3872
+StringUtilsTest,2,33,401,401
+AllTests,1,33,84,116
+Base64Test,1,33,3866,4309
+CaverphoneTest,1,33,436,498
+DigestUtilsTest,1,33,682,682
+DoubleMetaphoneTest,1,33,2773,2932
+MetaphoneTest,1,33,1243,1365
+RefinedSoundexTest,1,33,387,500
+SoundexTest,1,33,1318,1436
+StringUtils,1,33,622,622

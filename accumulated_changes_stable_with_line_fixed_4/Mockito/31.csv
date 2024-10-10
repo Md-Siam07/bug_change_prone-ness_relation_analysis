@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanPropertySetter,1,1,0,0
+BeanPropertySetterTest,1,1,0,0
+DefaultInjectionEngine,1,1,0,0
+FinalMockCandidateFilter,1,1,0,0
+InjectMocksShouldTryPropertySettersFirstBeforeFieldAccessTest,1,1,0,0
+Injecter,1,1,0,0
+MockCandidateFilter,1,1,0,0
+NameBasedCandidateFilter,1,1,0,0
+OngoingInjecter,1,1,0,0
+TypeBasedCandidateFilter,1,1,0,0

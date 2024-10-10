@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PeepholeCollectPropertyAssignmentsTest,2,4,233,106
+AbstractCommandLineRunner,1,4,3207,1159
+CommandLineRunner,1,4,1525,527
+CommandLineRunnerTest,1,4,1702,302
+CompilerTestCase,1,4,503,160
+DiagnosticGroups,1,4,441,238
+Node,1,4,3393,2882
+PeepholeCollectPropertyAssignments,1,4,325,291
+ProcessClosurePrimitives,1,4,1361,766
+ProcessClosurePrimitivesTest,1,4,561,116

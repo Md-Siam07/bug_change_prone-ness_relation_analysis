@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+MutableTripleTest,2,9,13,13
+TripleTest,2,9,19,19
+ImmutableTripleTest,1,9,9,9
+ArrayUtilsTest,1,13,3919,842
+BasicThreadFactoryTest,1,13,44,44
+CompareToBuilderTest,1,13,1377,210
+ConstantInitializerTest,1,13,16,17
+DateUtils,1,13,2208,320
+EventListenerSupport,1,13,463,288
+ImmutableTriple,1,13,106,2
+MutableTriple,1,13,138,5
+ObjectUtilsTest,1,13,680,82
+StrBuilder,1,13,3215,232
+StringUtils,1,13,10612,3285
+Triple,1,13,165,5
+TypeUtils,1,13,1318,217

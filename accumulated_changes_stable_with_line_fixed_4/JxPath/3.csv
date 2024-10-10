@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ReverseComparator,1,5,25,6
+BeanModelTestCase,1,7,1019,901
+BeanPropertyPointer,1,7,670,358
+EvalContext,1,7,1430,2271
+Expression,1,7,272,314
+ExtensionFunctionTest,1,7,414,315
+JXPathContextReferenceImpl,1,7,1423,902
+MethodLookupUtils,1,7,191,175
+ValueUtils,1,7,1169,508

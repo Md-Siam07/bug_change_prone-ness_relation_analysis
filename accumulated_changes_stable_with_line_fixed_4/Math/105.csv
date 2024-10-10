@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+MathUtils,2,8,1986,1246
+FastCosineTransformer,1,7,0,0
+FastCosineTransformerTest,1,7,0,0
+FastFourierTransformer,1,7,0,0
+FastFourierTransformerTest,1,7,0,0
+FastSineTransformer,1,7,0,0
+FastSineTransformerTest,1,7,0,0
+FractionFormatTest,1,8,130,15
+MathUtilsTest,1,8,1200,519
+ProperFractionFormat,1,8,24,3
+QRDecomposition,1,8,37,0
+QRDecompositionImpl,1,8,1,1
+RandomDataTest,1,8,1387,794

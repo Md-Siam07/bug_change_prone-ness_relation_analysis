@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HttpConnection,2,13,1601,670
+ParserTest,2,13,784,778
+UrlConnectTest,2,13,1039,443
+AttributeParseTest,1,13,123,20
+CharacterReader,1,13,613,272
+CharacterReaderTest,1,13,261,13
+CleanerTest,1,13,339,24
+Connection,1,13,969,293
+DataUtil,1,13,537,261
+Parser,1,13,842,694
+Tokeniser,1,13,192,127
+TokeniserState,1,13,370,405
+Whitelist,1,13,678,152

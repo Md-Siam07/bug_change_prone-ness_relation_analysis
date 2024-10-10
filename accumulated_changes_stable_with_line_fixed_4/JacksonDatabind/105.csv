@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DateSerializationTest,2,13,408,41
+AsArraySerializerBase,1,13,443,306
+MapEntrySerializer,1,13,258,139
+MapSerializer,1,13,1534,807
+ObjectArraySerializer,1,13,363,288
+ReferenceTypeSerializer,1,13,549,70
+StdDateFormat,1,13,991,536

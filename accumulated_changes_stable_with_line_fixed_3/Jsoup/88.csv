@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+HtmlParserTest,3,9,1385,132
+CharacterReader,1,9,613,272
+CharacterReaderTest,1,9,261,13
+Element,1,9,2149,711
+HtmlTreeBuilderState,1,9,2005,478
+Node,1,9,1117,429
+Parser,1,9,842,694
+Tokeniser,1,9,192,127

@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PolyMapWriterTest,2,9,0,61
+ISO8601Utils,2,18,377,287
+PolyMapWriter827Test,1,9,50,50
+BeanDeserializer,1,18,1648,2115
+BeanSerializerBase,1,18,1510,983
+ISO8601DateFormatTest,1,18,29,7
+ISO8601UtilsTest,1,18,181,41
+NumberDeserializers,1,18,1240,721
+ObjectNode,1,18,1568,683
+StdDeserializer,1,18,1912,1801
+TestConfig,1,18,144,49
+TestJDKSerialization,1,18,202,34
+TestNamingStrategyStd,1,18,535,124
+TestNumbers,1,18,40,161

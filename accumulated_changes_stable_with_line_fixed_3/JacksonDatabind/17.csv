@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AnnotatedClass,2,8,1422,1956
+DeserializerCache,1,8,1608,1009
+TestJDKSerialization,1,8,202,34

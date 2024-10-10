@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+StringUtils,6,17,10612,3285
+LocaleUtils,2,17,444,122
+StrBuilder,2,17,3215,232
+StrSubstitutor,2,17,1054,128
+StringUtilsEqualsIndexOfTest,2,17,1757,764
+BooleanUtils,1,17,1523,441
+BooleanUtilsTest,1,17,1192,208
+CharSetUtils,1,17,403,153
+LocaleUtilsTest,1,17,626,81
+NumberUtils,1,17,1705,284
+NumberUtilsTest,1,17,1652,299
+ObjectUtils,1,17,1079,231
+ObjectUtilsTest,1,17,680,82
+StrSubstitutorTest,1,17,697,90
+StringUtilsTest,1,17,2643,325

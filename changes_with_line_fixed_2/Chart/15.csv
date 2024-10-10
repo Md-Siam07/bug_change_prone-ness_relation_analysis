@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PiePlot,1,2,0,5
+LogAxisTests,1,2,23,21
+CategoryPlotTests,1,2,6,4
+AbstractRendererTests,1,2,99,97
+PaintListTests,1,2,19,17
+WeekTests,1,2,90,80

@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AsArrayTypeDeserializer,1,7,142,93
+AsPropertyTypeDeserializer,1,7,262,201
+BeanDeserializer,1,7,1648,2115
+BeanDeserializerBase,1,7,1802,985
+BuilderBasedDeserializer,1,7,561,819
+DeserializationContext,1,7,3120,1611
+DeserializationProblemHandler,1,7,449,49
+ExternalTypeHandler,1,7,492,170
+ObjectMapper,1,7,3713,2350
+TestExternalId,1,7,494,663
+TestUnknownPropertyDeserialization,1,7,308,308
+TokenBuffer,1,7,1294,453
+TokenBufferDeserializer,1,7,58,58

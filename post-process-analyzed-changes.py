@@ -20,7 +20,7 @@ def post_process(file_path, output_path):
     df.drop(columns=['Ratio'], inplace=True)
     df.to_csv(output_path, index=False)
 
-changes_dir = "changes_with_line"
+changes_dir = "changes_stable_with_line_fixed_4"
 output_dir = f"accumulated_{changes_dir}"
 
 for project in os.listdir(changes_dir):
@@ -35,6 +35,7 @@ for project in os.listdir(changes_dir):
         os.makedirs(f"{output_dir}/{project}")
 
     for version in versions:
+        print(f"Post processing {project} {version}...")
         post_process(f"{project_path}/{version}.csv", f"{output_dir}/{project}/{version}.csv")
 
 # post_process('commons-csv/2.csv', "commons-csv/2.csv")

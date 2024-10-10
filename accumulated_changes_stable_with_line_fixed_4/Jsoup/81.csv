@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Connection,4,12,969,293
+HttpConnection,2,12,1601,670
+Tokeniser,2,12,192,127
+XmlTreeBuilder,2,12,115,73
+XmlTreeBuilderTest,2,12,252,17
+Document,1,12,812,218
+Element,1,12,2149,711
+ElementTest,1,12,1580,142
+HtmlParserTest,1,12,1385,132
+HtmlTreeBuilder,1,12,995,254
+Node,1,12,1117,429
+ParseSettings,1,12,28,9
+Parser,1,12,842,694
+TokeniserTest,1,12,148,2
+TreeBuilder,1,12,148,738
+UrlConnectTest,1,12,1039,443

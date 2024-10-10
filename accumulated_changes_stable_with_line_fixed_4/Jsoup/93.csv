@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Attributes,1,2,760,286
+FormElementTest,1,2,73,6
+HtmlParserTest,1,2,1385,132
+HtmlTreeBuilder,1,2,995,254
+ParseSettings,1,2,28,9
+Token,1,2,630,244
+TreeBuilder,1,2,148,738
+XmlTreeBuilder,1,2,115,73
+XmlTreeBuilderTest,1,2,252,17

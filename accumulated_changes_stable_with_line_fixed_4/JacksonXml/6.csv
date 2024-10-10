@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+MapperCopyTest,2,13,94,38
+ListDeser294Test,1,9,0,1
+BuilderWithJAXB291Test,1,10,0,0
+BuilderSimpleTest,1,11,0,2
+XmlMapper,1,13,352,92
+XmlSerializerProvider,1,13,461,207

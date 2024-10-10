@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+LocalDate,2,10,0,0
+TestPeriodType,2,10,0,0
+CachedDateTimeZone,1,10,0,0
+DateTimeFieldType,1,10,0,0
+DurationFieldType,1,10,0,0
+GJChronology,1,10,0,0
+LocalDateTime,1,10,0,0
+LocalTime,1,10,0,0
+PeriodType,1,10,0,0
+TestAll,1,10,0,0
+TestCachedDateTimeZone,1,10,0,0
+TestGJChronology,1,10,0,0
+TestPeriodFormat,1,10,0,0

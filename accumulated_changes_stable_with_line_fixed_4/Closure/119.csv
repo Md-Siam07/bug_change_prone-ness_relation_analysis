@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CodeGenerator,1,3,951,531
+CodePrinterTest,1,3,1633,658
+CommandLineRunnerTest,1,3,1702,302
+IntegrationTest,1,3,1255,433
+NamespaceType,1,3,89,7
+ParserTest,1,3,687,166
+PeepholeSubstituteAlternateSyntax,1,3,1822,1909
+PeepholeSubstituteAlternateSyntaxTest,1,3,1121,1017

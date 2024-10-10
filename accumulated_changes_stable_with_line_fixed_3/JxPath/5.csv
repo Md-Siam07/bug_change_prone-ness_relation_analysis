@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JXPathContext,4,14,991,532
+NamespaceResolver,4,14,183,99
+JXPathContextReferenceImpl,3,14,1423,902
+XMLDocumentContainer,2,14,293,182
+AncestorContext,1,14,169,246
+AttributeContext,1,14,319,214
+ClassFunctions,1,14,126,131
+Compiler,1,14,134,132
+DOMNodePointer,1,14,1677,885
+DocumentContainer,1,14,339,146
+JDOMNodePointer,1,14,1130,959
+Path,1,14,550,336
+ReverseComparator,1,14,25,6
+SimplePathInterpreter,1,14,1215,595
+XMLModelTestCase,1,14,1886,1030
+XMLPreserveSpaceTest,1,14,98,10

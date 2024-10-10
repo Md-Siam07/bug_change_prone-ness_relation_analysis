@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BaseMapTest,1,1,224,80
+StdSubtypeResolver,1,1,274,119
+TestDefaultForMaps,1,1,63,163
+TestTypeNames,1,1,61,13

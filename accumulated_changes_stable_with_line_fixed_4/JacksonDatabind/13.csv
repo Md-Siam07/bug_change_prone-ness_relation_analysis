@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+RaceCondition738Test,3,7,13,149
+TestCustomDeserializers,6,19,548,89
+ReadRecoveryTest,2,17,66,10
+DeserializerCache,2,19,1608,1009
+MapDeserializer,2,19,1069,630
+EnumDeserializer,1,19,699,552
+MappingIterator,1,19,344,115
+SerializerProvider,1,19,2172,1276
+TestCachingOfDeser,1,19,0,0
+TestEnumDeserialization,1,19,530,731
+TestJavaType,1,19,189,119
+TestLocalType609,1,19,36,36
+TestMapJsonValueKey47,1,19,49,49
+TestMapSerialization,1,19,401,263
+TypeBindings,1,19,519,381
+TypeFactory,1,19,1895,1555

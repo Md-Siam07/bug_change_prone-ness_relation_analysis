@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractMultiValuedMapTest,1,9,798,145
+CloneTransformer,1,9,89,16
+FactoryUtilsTest,1,9,353,77
+ForClosure,1,9,118,12
+InstantiateFactory,1,9,153,13
+InstantiateTransformer,1,9,149,18
+InvokerTransformer,1,9,170,23
+MultiKey,1,9,303,22
+MultiKeyTest,1,9,318,23
+PatriciaTrieTest,1,9,1441,993
+PrototypeFactory,1,9,223,16
+TransformerUtilsTest,1,9,565,68
+WhileClosure,1,9,140,16
+package-info,1,9,44,1

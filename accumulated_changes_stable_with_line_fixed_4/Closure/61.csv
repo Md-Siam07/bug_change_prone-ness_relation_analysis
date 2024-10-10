@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractCommandLineRunner,1,5,3207,1159
+CompilerOptions,1,5,1934,399
+DefaultPassConfig,1,5,2505,1260
+LightweightMessageFormatter,1,5,35,16
+LightweightMessageFormatterTest,1,5,39,19
+NodeUtil,1,5,2643,1214
+PeepholeRemoveDeadCodeTest,1,5,707,135

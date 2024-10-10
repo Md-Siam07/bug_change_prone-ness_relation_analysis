@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+RawValueWithSurrogatesTest,1,1,0,0
+UTF8JsonGenerator,2,2,1121,783
+ArrayGenerationTest,1,2,128,0

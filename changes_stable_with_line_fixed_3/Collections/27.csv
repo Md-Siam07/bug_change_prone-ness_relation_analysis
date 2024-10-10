@@ -224,4 +224,3 @@ TransformerUtilsTest,2,42,565,68
 PatriciaTrieTest,1,42,1441,993
 UnmodifiableTrieTest,1,42,137,14
 TrieUtilsTest,1,42,67,16
-ClassName,Changes,TotalCommits,Insertions,Deletions

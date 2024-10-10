@@ -1,0 +1,4 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+SettableBeanProperty,1,2,884,930
+StdKeyDeserializer,1,2,503,340
+TestMapDeserialization,1,2,289,714

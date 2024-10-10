@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+KeySerializers1679Test,3,6,25,25
+DateDeserializationTest,5,15,170,682
+RecursiveType1658Test,1,7,0,0
+BeanDeserializerFactory,2,16,1667,2157
+BeanDeserializerBase,1,16,1802,985
+JsonNode,1,16,552,306
+ResolvedRecursiveType,1,16,129,27
+StackTraceElementDeserializer,1,16,76,34
+StdKeySerializers,1,16,326,148
+TestExceptionDeserialization,1,16,163,163
+TestNumberNodes,1,16,183,354
+TestTreeDeserialization,1,16,145,85
+TextNode,1,16,352,166

@@ -1,0 +1,17 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+RemoveUnusedClassProperties,2,10,200,178
+StripCode,2,10,231,237
+StripCodeTest,2,10,257,90
+BaseJSTypeTestCase,1,10,696,86
+DefaultPassConfig,1,10,2505,1260
+JSTypeNative,1,10,7,3
+JSTypeRegistry,1,10,1108,591
+MakeDeclaredNamesUnique,1,10,382,199
+PeepholeSubstituteAlternateSyntax,1,10,1822,1909
+PeepholeSubstituteAlternateSyntaxTest,1,10,1121,1017
+ScopedAliases,1,10,640,250
+ScopedAliasesTest,1,10,714,38
+TypeCheckTest,1,10,7910,1742
+TypeInference,1,10,1405,908
+TypeInferenceTest,1,10,602,62
+TypedScopeCreator,1,10,3300,2384

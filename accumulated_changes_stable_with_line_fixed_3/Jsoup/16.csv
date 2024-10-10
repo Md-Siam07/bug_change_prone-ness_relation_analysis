@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CharacterReaderTest,1,0,261,13
+ParserTest,2,2,784,778
+TokeniserState,2,2,370,405
+CharacterReader,1,2,613,272

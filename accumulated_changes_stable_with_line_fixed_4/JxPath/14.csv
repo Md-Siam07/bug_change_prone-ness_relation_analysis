@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+EmptyCollectionTest,1,3,0,7
+DynaBeanPointerFactory,2,27,169,117
+CoreFunctionTest,1,27,243,185
+DOMAttributeIterator,1,27,376,203
+DOMNodePointer,1,27,1677,885
+ExternalXMLNamespaceTest,1,27,18,14
+JDOMAttributeIterator,1,27,366,245
+JDOMNodePointer,1,27,1130,959
+JXPathContext,1,27,991,532
+JXPathTestSuite,1,27,201,201
+NamespaceResolver,1,27,183,99
+XMLPreserveSpaceTest,1,27,98,10

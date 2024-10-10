@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+DefaultPassConfig,2,15,2505,1260
+PeepholeSubstituteAlternateSyntaxTest,2,15,1121,1017
+TypeCheckTest,2,15,7910,1742
+AbstractPeepholeOptimization,1,15,145,67
+CommandLineRunner,1,15,1525,527
+NamedType,1,15,323,233
+ObjectType,1,15,434,229
+ParserRunner,1,15,156,115
+PeepholeFoldConstants,1,15,3191,1672
+PeepholeFoldConstantsTest,1,15,1019,316
+PeepholeOptimizationsPass,1,15,219,198
+PeepholeSubstituteAlternateSyntax,1,15,1822,1909
+RenameVars,1,15,305,137
+ShadowVariables,1,15,28,15
+TypeCheck,1,15,1440,1047

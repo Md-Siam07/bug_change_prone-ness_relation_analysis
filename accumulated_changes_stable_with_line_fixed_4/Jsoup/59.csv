@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Cleaner,1,7,223,53
+CleanerTest,1,7,339,24
+ElementTest,1,7,1580,142
+Entities,1,7,2942,2592
+Jsoup,1,7,352,114
+ParseErrorList,1,7,3,3
+Parser,1,7,842,694
+Whitelist,1,7,678,152

@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ArjArchiveInputStream,2,9,236,204
+IOUtils,2,9,231,45
+AbstractUnicodeExtraField,1,9,104,59
+ArjArchiveEntry,1,9,122,24
+BZip2CompressorInputStreamTest,1,9,82,12
+ChangeSet,1,9,365,250
+CpioArchiveEntry,1,9,615,340
+DumpArchiveInputStream,1,9,238,157
+ExtraFieldUtils,1,9,382,265
+SevenZFile,1,9,760,702
+SevenZOutputFile,1,9,581,298
+TarArchiveInputStream,1,9,1815,1174
+TarArchiveOutputStream,1,9,1760,1134
+UnrecognizedExtraField,1,9,118,122
+ZipArchiveOutputStream,1,9,3413,1796

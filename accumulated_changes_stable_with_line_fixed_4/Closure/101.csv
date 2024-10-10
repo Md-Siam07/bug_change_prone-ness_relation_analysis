@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractCommandLineRunner,1,3,3207,1159
+Compiler,1,3,1957,1347
+CompilerTypeTestCase,1,3,78,14
+CrossModuleCodeMotionTest,1,3,298,80
+IRFactory,1,3,1268,837
+NodeTypeNormalizerTest,1,3,5,57
+NodeUtil,1,3,2643,1214
+Normalize,1,3,800,442
+NormalizeTest,1,3,371,79
+PrepareAst,1,3,236,245
+TypeCheckTest,1,3,7910,1742

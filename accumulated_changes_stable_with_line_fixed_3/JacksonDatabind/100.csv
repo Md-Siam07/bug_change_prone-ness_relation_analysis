@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ExternalTypeIdWithEnum1328Test,4,22,182,182
+ExternalTypeIdWithUnwrapped2039Test,3,20,58,58
+SubTypeValidator,3,22,63,13
+ReferenceType,2,22,187,97
+TestTypeFactory,2,22,346,236
+UnwrappingBeanPropertyWriter,2,22,232,103
+RecursiveIgnoreProperties1755Test,1,21,0,0
+FactoryBasedEnumDeserializer,1,22,57,51
+RecursiveIgnorePropertiesTest,1,22,79,9

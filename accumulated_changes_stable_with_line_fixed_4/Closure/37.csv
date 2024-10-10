@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CleanupPasses,1,3,5,6
+CleanupPassesTest,1,3,0,0
+WhitelistWarningsGuard,1,3,219,68
+TypeCheckTest,2,9,7910,1742
+CodeConsumer,1,9,98,57
+CodePrinterTest,1,9,1633,658
+Compiler,1,9,1957,1347
+FunctionParamBuilder,1,9,19,6
+FunctionTypeBuilder,1,9,969,550
+PeepholeFoldConstants,1,9,3191,1672
+PeepholeFoldConstantsTest,1,9,1019,316
+TypeCheck,1,9,1440,1047

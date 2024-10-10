@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+NonStandardUnquotedNamesTest,1,0,34,10
+ByteOutputStreamForTesting,1,1,0,0
+StringWriterForTesting,1,1,0,0
+NonStandardParserFeaturesTest,1,5,95,137
+TestGeneratorClosing,1,5,52,108

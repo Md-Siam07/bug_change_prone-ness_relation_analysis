@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+RecursiveTypeTest,1,10,116,1
+ResolvedRecursiveType,1,10,129,27
+StdDateFormat,1,10,991,536
+TestAnyGetterFiltering,1,10,79,79
+TestTypeFactoryWithRecursiveTypes,1,10,32,0

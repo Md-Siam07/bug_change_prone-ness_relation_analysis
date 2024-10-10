@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+RaceCondition738Test,3,9,13,149
+TestCustomDeserializers,6,20,548,89
+ReadRecoveryTest,2,19,66,10
+DeserializerCache,2,20,1608,1009
+MapDeserializer,2,20,1069,630
+PropertyBasedObjectIdGenerator,2,20,35,3
+DefaultDeserializationContext,1,20,421,161
+EnumDeserializer,1,20,699,552
+MappingIterator,1,20,344,115
+ObjectIdValueProperty,1,20,189,63
+SerializerProvider,1,20,2172,1276
+TestCachingOfDeser,1,20,0,0
+TestEnumDeserialization,1,20,530,731
+TestObjectIdDeserialization,1,20,609,609

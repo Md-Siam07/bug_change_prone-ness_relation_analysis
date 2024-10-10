@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ObjectMapper,4,12,3713,2350
+FromStringDeserializer,2,12,392,303
+BeanDeserializerBase,1,12,1802,985
+MemberKey,1,12,15,2
+StdDateFormat,1,12,991,536
+TestDateDeserialization,1,12,359,620

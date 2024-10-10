@@ -1,0 +1,8 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PureJavaCrc32C,3,10,1193,555
+ArchiveUtils,1,10,354,105
+BZip2CompressorInputStream,1,10,1308,1173
+SevenZFile,1,10,760,702
+SevenZFileTest,1,10,459,180
+ZipArchiveInputStream,1,10,2097,1003
+ZipArchiveInputStreamTest,1,10,431,65

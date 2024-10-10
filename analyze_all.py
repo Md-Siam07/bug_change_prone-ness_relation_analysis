@@ -3,8 +3,8 @@ import pandas as pd
 import time
 
 projects_path="/home/mdsiam/Desktop/extension/defects4j-repos"
-output_path="changes_with_line_fixed"
-time_path="time_analysis/changes_with_line_fixed"
+output_path="changes_with_line_fixed_2"
+time_path="time_analysis/changes_with_line_fixed_2"
 
 for project in os.listdir(projects_path):
     
@@ -24,7 +24,7 @@ for project in os.listdir(projects_path):
     # check if the project exist already in output_path
     # if os.path.exists(os.path.join(output_path, project)):
     #     continue
-    # iterate over the versions of the project
+    # iterate over the version1s of the project
     for version in os.listdir(os.path.join(projects_path, project)):
         
         if not os.path.isdir(os.path.join(projects_path, project, version)):

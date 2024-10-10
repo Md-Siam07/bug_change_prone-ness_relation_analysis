@@ -1,0 +1,9 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+AbstractRealVector,1,10,0,0
+AbstractRealVectorTest,1,10,0,0
+BisectionSolver,1,10,0,0
+BisectionSolverTest,1,10,0,0
+MultivariateSummaryStatistics,1,10,0,0
+OpenMapRealVector,1,10,0,0
+PascalDistributionImpl,1,10,0,0
+TDistributionImpl,1,10,0,0

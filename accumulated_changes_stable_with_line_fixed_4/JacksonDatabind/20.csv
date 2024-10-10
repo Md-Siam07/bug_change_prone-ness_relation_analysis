@@ -1,0 +1,14 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TestExceptionHandlingWithDefaultDeserialization,3,4,62,62
+TestExceptionHandlingWithJsonCreatorDeserialization,2,4,71,68
+ConvertingAbstractSerializer795Test,1,5,0,83
+AnnotatedClass,4,23,1422,1956
+DeserializerCache,2,23,1608,1009
+ObjectMapper,2,23,3713,2350
+AnnotationMap,1,23,81,24
+BeanDeserializer,1,23,1648,2115
+DateSerializer,1,23,140,130
+POJOPropertiesCollector,1,23,1090,671
+SqlDateSerializer,1,23,98,77
+TestConvertingDeserializer,1,23,247,41
+TestJsonNode,1,23,149,221

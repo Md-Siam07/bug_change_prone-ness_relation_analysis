@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ConstructorConstructor,1,6,137,74
+GsonBuilder,1,6,1210,940
+ProtoTypeAdapter,1,6,474,132
+ProtosWithComplexAndRepeatedFieldsTest,1,6,39,2

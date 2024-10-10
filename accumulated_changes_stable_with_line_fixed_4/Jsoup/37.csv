@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Document,3,16,812,218
+ParseTest,2,16,266,114
+Whitelist,2,16,678,152
+Connection,1,16,969,293
+DataUtil,1,16,537,261
+DataUtilTest,1,16,226,46
+DocumentTest,1,16,631,180
+Element,1,16,2149,711
+Entities,1,16,2942,2592
+HttpConnection,1,16,1601,670
+StringUtil,1,16,254,350
+StringUtilTest,1,16,79,123
+TextNode,1,16,292,166
+UrlConnectTest,1,16,1039,443

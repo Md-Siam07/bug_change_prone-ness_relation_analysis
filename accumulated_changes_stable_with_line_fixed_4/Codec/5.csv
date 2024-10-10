@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Base64Test,7,18,3866,4309
+Base64,3,18,3227,3725
+Base64Codec13Test,2,18,557,1090
+Base64InputStream,1,18,378,526
+Base64InputStreamTest,1,18,1145,1357
+Base64OutputStream,1,18,373,544
+Base64OutputStreamTest,1,18,946,1154
+BinaryCodecTest,1,18,2507,2507
+DoubleMetaphoneTest,1,18,2773,2932
+HexTest,1,18,989,1122
+QuotedPrintableCodecTest,1,18,378,626
+URLCodecTest,1,18,794,794

@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+IDKey,1,4,1,73
+StringUtils,3,19,9763,11372
+StringEscapeUtils,2,19,1362,1862
+StringUtilsTest,2,19,2608,2950
+DateUtils,1,19,2451,2451
+DateUtilsTest,1,19,2194,2194
+HashCodeBuilder,1,19,1254,1824
+JVMRandom,1,19,296,296
+StrBuilder,1,19,1856,3302
+SystemUtilsTest,1,19,604,885
+WordUtils,1,19,594,847
+WordUtilsTest,1,19,281,479

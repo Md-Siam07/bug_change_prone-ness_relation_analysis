@@ -1,0 +1,6 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ZipArchiveInputStream,3,4,2097,1003
+ZipTestCase,2,4,936,405
+ZipArchiveEntry,1,4,1384,858
+ZipArchiveEntryTest,1,4,297,122
+ZipArchiveOutputStream,1,4,3413,1796

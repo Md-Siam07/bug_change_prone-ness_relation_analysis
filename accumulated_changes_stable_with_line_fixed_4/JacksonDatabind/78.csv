@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ReadOnly1345Test,2,20,0,29
+IgnoredCreatorProperty1572Test,2,24,33,81
+BackReference1516Test,2,25,67,44
+AnnotatedClass,2,31,1422,1956
+BeanDeserializerFactory,2,31,1667,2157
+CollectionType1415Test,1,26,0,61
+BasicBeanDescription,1,31,769,624
+BuilderBasedDeserializer,1,31,561,819
+BuilderWithUnwrappedTest,1,31,259,4
+CaseInsensitiveDeserTest,1,31,155,28
+ObjectMapper,1,31,3713,2350
+ReadOrWriteOnlyTest,1,31,104,1
+TestMultipleExternalIds291,1,31,71,71
+TestUnknownProperty426,1,31,16,12
+TypeFactory,1,31,1895,1555

@@ -1,0 +1,3 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+PythonTruncatedBzip2Test,1,0,22,15
+BZip2CompressorInputStream,1,1,1308,1173

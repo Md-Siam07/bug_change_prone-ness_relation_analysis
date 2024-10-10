@@ -1,0 +1,5 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+IllegalTypesCheckTest,1,3,251,29
+BeanDeserializerFactory,2,14,1667,2157
+AnnotatedClass,1,14,1422,1956
+TestNullHandling,1,14,102,156

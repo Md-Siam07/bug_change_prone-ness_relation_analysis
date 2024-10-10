@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+JsonReader,4,18,2453,1961
+FieldNamingPolicy,2,18,139,37
+$Gson$Types,1,18,0,0
+ArrayTypeAdapter,1,18,152,53
+DefaultDateTypeAdapter,1,18,64,44
+Gson,1,18,1810,1190
+GsonBuilder,1,18,1210,940
+JsonArray,1,18,183,90
+MapTypeAdapterFactory,1,18,298,135
+ProtoTypeAdapter,1,18,474,132
+ReflectiveTypeAdapterFactory,1,18,236,203
+TypeAdapters,1,18,1521,614

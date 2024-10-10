@@ -1,0 +1,16 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+StringUtilsTest,2,22,2608,2950
+StringUtilsStartsEndsWithTest,1,19,7,161
+CharSet,1,22,447,599
+CharSetTest,1,22,192,636
+CharSetUtils,1,22,526,755
+IntHashMap,1,22,127,546
+LangTestSuite,1,22,90,192
+LocaleUtils,1,22,222,415
+LocaleUtilsTest,1,22,87,562
+NumberUtilsTest,1,22,1784,1784
+StringUtils,1,22,9763,11372
+StringUtilsSubstringTest,1,22,326,538
+StringUtilsTrimEmptyTest,1,22,363,551
+SystemUtils,1,22,2581,2784
+SystemUtilsTest,1,22,604,885

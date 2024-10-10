@@ -1,0 +1,13 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+BeanDeserializer,2,11,1648,2115
+MapSerializer,2,11,1534,807
+TestMapSerialization,2,11,401,263
+EnumDefaultReadTest,1,9,0,229
+AnnotatedClass,1,11,1422,1956
+CreatorWithObjectIdTest,1,11,0,50
+EnumDeserializationTest,1,11,583,583
+EnumDeserializer,1,11,699,552
+ObjectIdWithCreator1367Test,1,11,49,49
+POJOPropertiesCollector,1,11,1090,671
+POJOPropertyBuilder,1,11,1541,792
+ReadOrWriteOnlyTest,1,11,104,1

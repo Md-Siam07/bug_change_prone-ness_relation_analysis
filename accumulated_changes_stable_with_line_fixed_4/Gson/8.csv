@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Gson,3,17,1810,1190
+GsonBuilder,1,17,1210,940
+JsonReader,1,17,2453,1961
+JsonReaderTest,1,17,1300,280
+MapTest,1,17,713,135
+TreeTypeAdapter,1,17,166,1

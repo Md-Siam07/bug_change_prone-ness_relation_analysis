@@ -1,0 +1,3 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+ReturnsSmartNulls,1,1,70,0
+ReturnsSmartNullsTest,1,1,55,5

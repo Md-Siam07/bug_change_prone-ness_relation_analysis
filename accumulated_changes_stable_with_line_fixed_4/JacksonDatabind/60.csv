@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TypeSerializer,2,7,598,240
+CollectionLikeType,1,7,159,101
+EnumCreatorTest,1,7,301,331
+FactoryBasedEnumDeserializer,1,7,57,51
+JavaType,1,7,326,170
+MapLikeType,1,7,300,257
+TestDefaultForObject,1,7,43,403
+TestJsonValue,1,7,375,375
+TypeFactory,1,7,1895,1555

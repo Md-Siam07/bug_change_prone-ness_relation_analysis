@@ -1,0 +1,10 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TestDateTimeZoneCutover,3,10,1078,0
+TestSerialization,3,10,444,2
+DateTimeZone,2,10,1217,2
+DateTimeFieldType,1,10,576,0
+LocalDate,1,10,1992,0
+LocalDateTime,1,10,2224,0
+LocalTime,1,10,1539,0
+MonthDay,1,10,880,2
+YearMonth,1,10,901,0

@@ -1,0 +1,15 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Tag,2,2,705,638
+Attribute,1,2,255,83
+CleanerTest,1,2,339,24
+Document,1,2,812,218
+DocumentTest,1,2,631,180
+DocumentType,1,2,105,35
+Element,1,2,2149,711
+ElementTest,1,2,1580,142
+Entities,1,2,2942,2592
+EntitiesTest,1,2,188,62
+HtmlParserTest,1,2,1385,132
+TextNode,1,2,292,166
+XmlTreeBuilder,1,2,115,73
+XmlTreeBuilderTest,1,2,252,17

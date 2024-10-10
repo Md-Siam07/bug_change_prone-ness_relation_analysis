@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+InnerClassCreatorTest,3,13,11,135
+InnerClassCreator1502Test,2,12,22,1
+BasicDeserializerFactory,2,14,3936,2629
+CreatorWithObjectIdTest,1,10,0,50
+AnnotatedClass,1,14,1422,1956
+BeanDeserializer,1,14,1648,2115
+BeanDeserializerBase,1,14,1802,985
+BeanDeserializerFactory,1,14,1667,2157
+InnerClassProperty,1,14,120,93
+TestNullHandling,1,14,102,156

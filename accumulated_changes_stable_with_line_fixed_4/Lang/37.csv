@@ -1,0 +1,7 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+Range,2,5,386,386
+DateUtils,1,5,1773,1773
+DateUtilsTest,1,5,1585,1585
+FastDateFormat,1,5,1760,1760
+FastDateFormatTest,1,5,352,352
+RangeTest,1,5,278,278

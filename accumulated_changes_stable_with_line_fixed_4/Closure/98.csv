@@ -1,0 +1,12 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+CheckGlobalThis,1,2,96,53
+CheckGlobalThisTest,1,2,111,28
+CrossModuleCodeMotion,1,2,281,179
+CrossModuleCodeMotionTest,1,2,298,80
+ExternExportsPassTest,1,2,713,217
+FunctionInformationMap,1,2,3194,2285
+Instrumentation,1,2,1233,950
+RecordType,1,2,146,152
+RecordTypeBuilder,1,2,58,23
+SourceInformationAnnotator,1,2,43,32
+TypedScopeCreatorTest,1,2,1550,238

@@ -1,0 +1,11 @@
+ClassName,Changes,TotalCommits,Insertions,Deletions
+TestCustomDeserializers,3,16,548,89
+AnnotatedClass,2,16,1422,1956
+DeserializerCache,2,16,1608,1009
+TestCachingOfDeser,1,11,0,0
+FloatNode,1,16,147,23
+MapDeserializer,1,16,1069,630
+ObjectReader,1,16,2409,1405
+TestForwardReference,1,16,13,95
+TestJDKSerialization,1,16,202,34
+TestUpdateValue,1,16,243,243

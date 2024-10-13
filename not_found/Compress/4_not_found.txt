@@ -1,0 +1,3 @@
+org.apache.commons.compress.DetectCompressorTestCase.testDetection
+org.apache.commons.compress.changes.ChangeSetTestCase.testAddMoveDelete
+org.apache.commons.compress.changes.ChangeSetTestCase.testRenameAndDelete

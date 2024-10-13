@@ -1,0 +1,13 @@
+org.jfree.chart.labels.junit.IntervalCategoryLabelGeneratorTests.testHashCode
+org.jfree.chart.util.junit.PaintListTests.testHashCode
+org.jfree.chart.labels.junit.StandardCategoryItemLabelGeneratorTests.testHashCode
+org.jfree.chart.axis.junit.CategoryLabelWidthTypeTests.testEquals
+org.jfree.chart.axis.junit.AxisLocationTests.testEquals
+org.jfree.chart.labels.junit.StandardPieToolTipGeneratorTests.testHashCode
+org.jfree.chart.labels.junit.BoxAndWhiskerToolTipGeneratorTests.testHashCode
+org.jfree.chart.labels.junit.StandardPieSectionLabelGeneratorTests.testHashCode
+org.jfree.chart.labels.junit.StandardCategoryToolTipGeneratorTests.testHashCode
+org.jfree.chart.renderer.junit.AreaRendererEndTypeTests.testEquals
+org.jfree.chart.title.junit.ImageTitleTests.testSerialization
+org.jfree.chart.renderer.junit.AbstractRendererTests.testHashCode
+org.jfree.data.xy.junit.DefaultOHLCDatasetTests.testDataRange

@@ -1,0 +1,9 @@
+org.apache.commons.compress.archivers.ZipTestCase.test
+org.apache.commons.compress.archivers.ArchiveServiceLoaderTest.testInputStream
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest.testSampleFile
+org.apache.commons.compress.changes.ChangeSetTestCase.testAddMoveDelete
+org.apache.commons.compress.compressors.CompressorServiceLoaderTest.testOutputStream
+org.apache.commons.compress.archivers.ArchiveServiceLoaderTest.testOutputStream
+org.apache.commons.compress.changes.ChangeSetTestCase.testRenameAndDelete
+org.apache.commons.compress.archivers.LongPathTest.testArchive
+org.apache.commons.compress.compressors.CompressorServiceLoaderTest.testInputStream

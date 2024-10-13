@@ -6,14 +6,15 @@ import json
 
 change_dir = "accumulated_changes_stable_with_line_fixed_4"
 function_call_path = "/home/mdsiam/Desktop/extension/Callgraph/cg2"
-all_test_cases_path = "/home/mdsiam/Desktop/extension/ATM_artifacts_(1)/Data/unique_test_cases.csv"
+all_test_cases_path = "../Data/unique_test_cases.csv"
+fault_test_cases_path = "../Data/faults_tests.csv"
 output_dir = "test_case_change_proneness_stable_with_line_fixed_4"
 
 test_cases = pd.read_csv(all_test_cases_path)
 
 def get_test_cases(project, version):
     print(project, version)
-    tcs = test_cases[(test_cases['project'] == project.capitalize()) & (test_cases['version'] == version)]
+    tcs = test_cases[(test_cases['project'] == project) & (test_cases['version'] == version)]
     return tcs['test_case'].to_list()
 
 
@@ -31,7 +32,7 @@ def format_method_name(input_string):
 def remove_duplicates(input_list):
     return list(dict.fromkeys(input_list))
 
-def calculate_testcase_change_proneness(change_proneness_df, version, project):
+def calculate_testcase_change_proneness(change_proneness_df, version, project, faulty_version):
     
     output_file_path = f"{output_dir}/{project}/{version}.csv"
     
@@ -42,11 +43,11 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
     if not os.path.exists(f"{output_dir}/{project}"):
         os.makedirs(f"{output_dir}/{project}")
 
-    if not os.path.exists(f"{function_call_path}/{project.lower()}_{version}_buggy.txt"):
-        print(f"File not found: {function_call_path}/{project.lower()}_{version}_buggy.txt")
+    if not os.path.exists(f"{function_call_path}/{project.lower()}_{faulty_version}_buggy.txt"):
+        print(f"File not found: {function_call_path}/{project.lower()}_{faulty_version}_buggy.txt")
         return
 
-    with open(f"{function_call_path}/{project.lower()}_{version}_buggy.txt", "r") as file:
+    with open(f"{function_call_path}/{project.lower()}_{faulty_version}_buggy.txt", "r") as file:
         lines = file.readlines()
         lines = remove_duplicates(lines)
     
@@ -87,7 +88,7 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
             methods[caller] = [caller_class, callee_class]
     print(methods)
     # Get test cases for the given project and version
-    tcs = get_test_cases(project, version)
+    tcs = get_test_cases(project, faulty_version)
 
     # Prepare a DataFrame to store the results
     results = []
@@ -133,12 +134,13 @@ def calculate_testcase_change_proneness(change_proneness_df, version, project):
 
 
 if __name__ == "__main__":
-    
+    fault_case_df = pd.read_csv(fault_test_cases_path)
     for project in os.listdir(change_dir):
         project_path = os.path.join(change_dir, project)
         versions = [int(file.split('.')[0]) for file in os.listdir(project_path)]
         versions.sort()
-        
+        print(project, versions)
+        input("Press Enter to continue...")
         for version in versions:
             change_proneness_df = pd.read_csv(f"{project_path}/{version}.csv")
             change_proneness_df['Ratio']=change_proneness_df['Changes']/change_proneness_df['TotalCommits']

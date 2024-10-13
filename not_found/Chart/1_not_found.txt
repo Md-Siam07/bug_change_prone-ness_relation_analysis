@@ -1,0 +1,8 @@
+org.jfree.data.time.junit.TimeSeriesCollectionTests.testFindDomainBounds
+org.jfree.chart.axis.junit.CategoryLabelWidthTypeTests.testEquals
+org.jfree.chart.axis.junit.AxisLocationTests.testEquals
+org.jfree.data.general.junit.DatasetUtilitiesTests.testIterateRangeBounds_IntervalCategoryDataset
+org.jfree.chart.renderer.junit.AreaRendererEndTypeTests.testEquals
+org.jfree.chart.title.junit.ImageTitleTests.testSerialization
+org.jfree.data.general.junit.DatasetUtilitiesTests.testBug2849731
+org.jfree.chart.axis.junit.PeriodAxisTests.test2490803

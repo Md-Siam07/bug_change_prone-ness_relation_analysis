@@ -1,0 +1,8 @@
+org.apache.commons.collections4.keyvalue.UnmodifiableMapEntryTest.testSelfReferenceHandling
+org.apache.commons.collections4.set.MapBackedSet2Test.testCanonicalEmptyCollectionExists
+org.apache.commons.collections4.map.ReferenceMapTest.testPurgeValues
+org.apache.commons.collections4.set.MapBackedSet2Test.testCanonicalFullCollectionExists
+org.apache.commons.collections4.map.ReferenceIdentityMapTest.testPurgeValues
+org.apache.commons.collections4.keyvalue.TiedMapEntryTest.testConstructors
+org.apache.commons.collections4.map.LazyMapTest.testMapGet
+org.apache.commons.collections4.map.LazySortedMapTest.testMapGet

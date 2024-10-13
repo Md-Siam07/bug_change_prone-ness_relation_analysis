@@ -1,0 +1,6 @@
+com.google.gson.stream.JsonReaderTest.testMalformedDocuments
+com.google.gson.DefaultDateTypeAdapterTest.testFormattingInFr
+com.google.gson.stream.JsonReaderTest.testMalformedNumbers
+com.google.gson.metrics.PerformanceTest.testDummy
+com.google.gson.DefaultDateTypeAdapterTest.testFormattingInEnUs
+com.google.gson.internal.LinkedHashTreeMapTest.testAvlBuilder

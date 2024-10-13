@@ -1,0 +1,5 @@
+org.jfree.chart.axis.junit.CategoryLabelWidthTypeTests.testEquals
+org.jfree.chart.axis.junit.AxisLocationTests.testEquals
+org.jfree.chart.renderer.junit.AreaRendererEndTypeTests.testEquals
+org.jfree.chart.title.junit.ImageTitleTests.testSerialization
+org.jfree.chart.plot.junit.MarkerTests.testGetSetLabelFont

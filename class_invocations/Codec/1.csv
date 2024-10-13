@@ -1,0 +1,209 @@
+Method,Used Classes
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualMary,
+org.apache.commons.codec.binary.HexTest.testDecodeStringOddCharacters,"HexTest, Hex"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualSusan,
+org.apache.commons.codec.language.MetaphoneTest.testLocaleIndependence,
+org.apache.commons.codec.binary.Base64Test.testKnownDecodings,"Base64Test, String, Base64"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualPeter,
+org.apache.commons.codec.binary.BinaryCodecTest.testDecodeObject,
+org.apache.commons.codec.digest.DigestUtilsTest.testInternalNoSuchAlgorithmException,"DigestUtils, DigestUtilsTest"
+org.apache.commons.codec.binary.Base64Test.testObjectDecodeWithValidParameter,"Base64Test, String, Base64"
+org.apache.commons.codec.net.URLCodecTest.testEncodeStringWithNull,"URLCodec, URLCodecTest"
+org.apache.commons.codec.language.CaverphoneTest.testEncodeEmpty,
+org.apache.commons.codec.language.MetaphoneTest.testTranslateToJOfDGEOrDGIOrDGY,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.language.CaverphoneTest.testEncodeNull,
+org.apache.commons.codec.net.BCodecTest.testEncodeDecodeNull,"BCodec, BCodecTest"
+org.apache.commons.codec.language.CaverphoneTest.testEncodeWithInvalidObject,
+org.apache.commons.codec.net.QCodecTest.testNullInput,"QCodecTest, QCodec"
+org.apache.commons.codec.language.SoundexTest.testEncodeIgnoreApostrophes,"Soundex, SoundexTest"
+org.apache.commons.codec.digest.DigestUtilsTest.testSha256,"ByteArrayInputStream, DigestUtils, String, DigestUtilsTest"
+org.apache.commons.codec.binary.Base64Test.testRfc2045Section6Dot8ChunkSizeDefinition,
+org.apache.commons.codec.language.SoundexTest.testEncodeNull,
+org.apache.commons.codec.language.SoundexTest.testNewInstance,"Soundex, SoundexTest"
+org.apache.commons.codec.binary.HexTest.testDecodeArrayOddCharacters,"HexTest, Hex"
+org.apache.commons.codec.binary.HexTest.testEncodeClassCastException,"HexTest, Hex"
+org.apache.commons.codec.language.DoubleMetaphoneTest.doubleMetaphoneEqualTest,"StringBuilder, DoubleMetaphone, DoubleMetaphoneTest"
+org.apache.commons.codec.binary.BinaryCodecTest.testDecodeObjectException,"BinaryCodec, Object, BinaryCodecTest"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testDecodeWithNullArray,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.StringEncoderComparatorTest.testComparatorWithSoundex,"Soundex, StringEncoderComparator, StringEncoderComparatorTest"
+org.apache.commons.codec.language.MetaphoneTest.testSetMaxLengthWithTruncation,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.net.QCodecTest.testEncodeStringWithNull,"QCodecTest, QCodec"
+org.apache.commons.codec.language.RefinedSoundexTest.testEncodeNull,
+org.apache.commons.codec.net.URLCodecTest.testEncodeDecodeNull,"URLCodec, URLCodecTest"
+org.apache.commons.codec.net.QCodecTest.testInvalidEncoding,"QCodecTest, QCodec"
+org.apache.commons.codec.language.SoundexTest.testEncodeBasic,"Soundex, SoundexTest"
+org.apache.commons.codec.binary.Base64Test.testDecodePadOnlyChunked,"Base64Test, String, Base64"
+org.apache.commons.codec.binary.HexTest.testEncodeDecodeRandom,"String, Arrays, HexTest, Random, Hex"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualAero,
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualWright,
+org.apache.commons.codec.binary.Base64Test.testObjectEncodeWithInvalidParameter,"Base64Test, String, Base64"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testSafeCharEncodeDecode,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.language.MetaphoneTest.testDiscardOfSilentHAfterG,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.net.RFC1522CodecTest.testDecodeInvalid,"RFC1522Codec, RFC1522CodecTest, RFC1522CodecTest$RFC1522TestCodec"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testEncodeUrlWithNullBitSet,"String, QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.net.BCodecTest.testInvalidEncoding,"BCodec, BCodecTest"
+org.apache.commons.codec.language.CaverphoneTest.testSpecificationExamples,"Caverphone, CaverphoneTest"
+org.apache.commons.codec.language.SoundexTest.testUsMappingOWithDiaeresis,"Soundex, Character, SoundexTest"
+org.apache.commons.codec.net.QCodecTest.testEncodeDecodeNull,"QCodecTest, QCodec"
+org.apache.commons.codec.binary.Base64Test.testCodeInteger1,"Base64Test, String, BigInteger, Base64"
+org.apache.commons.codec.net.QCodecTest.testEncodeObjects,"QCodecTest, Double, QCodec"
+org.apache.commons.codec.language.RefinedSoundexTest.testEncodeEmpty,
+org.apache.commons.codec.binary.BinaryCodecTest.testEncodeObjectNull,"BinaryCodec, BinaryCodecTest"
+org.apache.commons.codec.net.URLCodecTest.testBasicEncodeDecode,"URLCodec, URLCodecTest"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testEmpty,"DoubleMetaphoneTest, DoubleMetaphone"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualXalan,
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testEncodeNull,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.binary.Base64Test.testDiscardWhitespace,"StringBuffer, Base64Test, String, Base64"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testEncodeDecodeNull,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.language.MetaphoneTest.testExceedLength,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.binary.Base64Test.testTripletsChunked,"Base64Test, String, Base64"
+org.apache.commons.codec.binary.BinaryCodecTest.testToByteArrayFromString,"BinaryCodec, String, BinaryCodecTest"
+org.apache.commons.codec.binary.Base64Test.testCodeInteger2,"Base64Test, String, BigInteger, Base64"
+org.apache.commons.codec.net.URLCodecTest.testDecodeWithNullArray,"URLCodec, URLCodecTest"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testBasicEncodeDecode,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.binary.HexTest.testDecodeBadCharacterPos1,"HexTest, Hex"
+org.apache.commons.codec.language.MetaphoneTest.testDiscardOfSCEOrSCIOrSCY,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.binary.HexTest.testHelloWorld,"HexTest, String, Hex"
+org.apache.commons.codec.binary.HexTest.testDecodeBadCharacterPos0,"HexTest, Hex"
+org.apache.commons.codec.net.URLCodecTest.testSafeCharEncodeDecode,"URLCodec, URLCodecTest"
+org.apache.commons.codec.binary.HexTest.testEncodeZeroes,"HexTest, String, Hex"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualParis,
+org.apache.commons.codec.binary.Base64Test.testCodeInteger3,"Base64Test, String, BigInteger, Base64"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualGary,
+org.apache.commons.codec.net.QCodecTest.testUTF8RoundTrip,"QCodecTest, QCodec, StringBuffer"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testEncodeStringWithNull,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.language.SoundexTest.testHWRuleEx2,"Soundex, SoundexTest"
+org.apache.commons.codec.net.QCodecTest.testDecodeObjects,"QCodecTest, Double, QCodec"
+org.apache.commons.codec.language.MetaphoneTest.testWordsWithCIA,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testIsDoubleMetaphoneEqualExtended1,
+org.apache.commons.codec.language.MetaphoneTest.testEncodeNull,
+org.apache.commons.codec.net.QCodecTest.testUnsafeEncodeDecode,"QCodecTest, QCodec"
+org.apache.commons.codec.language.MetaphoneTest.testSHAndSIOAndSIAToX,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.language.SoundexTest.testHWRuleEx3,"Soundex, SoundexTest"
+org.apache.commons.codec.binary.HexTest.testDecodeHexOddCharacters,"HexTest, Hex"
+org.apache.commons.codec.binary.BinaryCodecTest.testToAsciiBytes,"BinaryCodec, String, BinaryCodecTest"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testEncodeNull,
+org.apache.commons.codec.digest.DigestUtilsTest.testSha384,"ByteArrayInputStream, DigestUtils, String, DigestUtilsTest"
+org.apache.commons.codec.language.SoundexTest.testMaxLength,"Soundex, SoundexTest"
+org.apache.commons.codec.language.SoundexTest.testHWRuleEx1,"Soundex, SoundexTest"
+org.apache.commons.codec.binary.Base64Test.testCodeInteger4,"Base64Test, String, BigInteger, Base64"
+org.apache.commons.codec.language.SoundexTest.testMaxLengthLessThan3Fix,"Soundex, SoundexTest"
+org.apache.commons.codec.binary.Base64Test.testEncodeDecodeRandom,"Arrays, Random, Base64Test, Base64"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testIsDoubleMetaphoneEqualExtended2,"DoubleMetaphoneTest, StringBuilder, DoubleMetaphone"
+org.apache.commons.codec.digest.DigestUtilsTest.testMd5Hex,"DigestUtils, ByteArrayInputStream, DigestUtilsTest"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testLocaleIndependence,
+org.apache.commons.codec.net.BCodecTest.testDecodeStringWithNull,"BCodec, BCodecTest"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testIsDoubleMetaphoneEqualExtended3,"StringBuilder, String, System, DoubleMetaphoneTest, DoubleMetaphone, StringBuffer"
+org.apache.commons.codec.binary.Base64Test.testDecodePadOnly,"Base64Test, String, Base64"
+org.apache.commons.codec.language.SoundexTest.testB650,"Soundex, SoundexTest"
+org.apache.commons.codec.binary.Base64Test.testKnownEncodings,"Base64Test, String, Base64"
+org.apache.commons.codec.net.QCodecTest.testBasicEncodeDecode,"QCodecTest, QCodec"
+org.apache.commons.codec.language.SoundexTest.testEncodeWithInvalidObject,
+org.apache.commons.codec.language.DoubleMetaphoneTest.doubleMetaphoneNotEqualTest,"DoubleMetaphoneTest, DoubleMetaphone"
+org.apache.commons.codec.binary.BinaryCodecTest.testToAsciiChars,"BinaryCodec, String, BinaryCodecTest"
+org.apache.commons.codec.language.SoundexTest.testEncodeEmpty,
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testDecodeObjects,"Double, String, QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.binary.Base64Test.testBase64,"Base64Test, String, Base64"
+org.apache.commons.codec.language.MetaphoneTest.testEncodeWithInvalidObject,
+org.apache.commons.codec.language.DoubleMetaphoneTest.testIsDoubleMetaphoneEqualWithMATCHES,"StringBuilder, DoubleMetaphone, DoubleMetaphoneTest"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqual2,
+org.apache.commons.codec.net.BCodecTest.testBasicEncodeDecode,"BCodec, BCodecTest"
+org.apache.commons.codec.binary.BinaryCodecTest.testToAsciiString,"BinaryCodec, BinaryCodecTest"
+org.apache.commons.codec.net.BCodecTest.testEncodeObjects,"BCodec, BCodecTest, Double"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testEncodeWithInvalidObject,
+org.apache.commons.codec.binary.Base64Test.testCodeIntegerEdgeCases,
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testDecodeInvalid,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.binary.Base64Test.testEncodeDecodeSmall,"StringBuilder, String, Arrays, StringBuffer, Random, Base64Test, Base64"
+org.apache.commons.codec.net.BCodecTest.testUTF8RoundTrip,"BCodec, BCodecTest, StringBuffer"
+org.apache.commons.codec.binary.BinaryCodecTest.testFromAsciibyteArray,"BinaryCodec, String, BinaryCodecTest"
+org.apache.commons.codec.language.MetaphoneTest.testDiscardOfSilentGN,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqual1,
+org.apache.commons.codec.language.RefinedSoundexTest.testGetMappingCodeNonLetter,"RefinedSoundex, RefinedSoundexTest"
+org.apache.commons.codec.digest.DigestUtilsTest.testMD5Length,"DigestUtils, String, DigestUtilsTest"
+org.apache.commons.codec.net.BCodecTest.testNullInput,"BCodec, BCodecTest"
+org.apache.commons.codec.language.CaverphoneTest.testLocaleIndependence,
+org.apache.commons.codec.language.DoubleMetaphoneTest.testDoubleMetaphone,
+org.apache.commons.codec.net.BCodecTest.testEncodeStringWithNull,"BCodec, BCodecTest"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testEncodeObjects,"Double, String, QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.binary.BinaryCodecTest.testEncodeObject,"BinaryCodec, String, BinaryCodecTest"
+org.apache.commons.codec.language.SoundexTest.testMsSqlServer3,"Soundex, SoundexTest"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testUnsafeEncodeDecode,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testEncodeEmpty,
+org.apache.commons.codec.binary.Base64Test.testObjectDecodeWithInvalidParameter,"Base64Test, String, Base64"
+org.apache.commons.codec.net.BCodecTest.testDecodeObjects,"BCodec, BCodecTest, Double"
+org.apache.commons.codec.language.SoundexTest.testMsSqlServer2,"Soundex, SoundexTest"
+org.apache.commons.codec.binary.HexTest.testDencodeEmpty,"Arrays, HexTest, Hex"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualKnight,
+org.apache.commons.codec.language.SoundexTest.testUsMappingEWithAcute,"Soundex, Character, SoundexTest"
+org.apache.commons.codec.language.SoundexTest.testUsEnglishStatic,"Soundex, SoundexTest"
+org.apache.commons.codec.net.URLCodecTest.testUnsafeEncodeDecode,"URLCodec, URLCodecTest"
+org.apache.commons.codec.binary.Base64Test.testDecodePadMarkerIndex2,"Base64Test, String, Base64"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testDecodeStringWithNull,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.binary.Base64Test.testDecodePadMarkerIndex3,"Base64Test, String, Base64"
+org.apache.commons.codec.language.SoundexTest.testMsSqlServer1,"Soundex, SoundexTest"
+org.apache.commons.codec.binary.Base64Test.testDecodeWithWhitespace,"StringBuffer, Base64Test, String, Base64"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testUTF8RoundTrip,"QuotedPrintableCodec, StringBuffer, QuotedPrintableCodecTest"
+org.apache.commons.codec.StringEncoderComparatorTest.testComparatorWithDoubleMetaphoneAndInvalidInput,"Double, StringEncoderComparatorTest, DoubleMetaphone, StringEncoderComparator, Long"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualWhite,
+org.apache.commons.codec.language.MetaphoneTest.testWhy,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.language.SoundexTest.testDifference,"Soundex, SoundexTest"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testIsDoubleMetaphoneEqualBasic,"DoubleMetaphoneTest, StringBuilder, DoubleMetaphone"
+org.apache.commons.codec.binary.Base64Test.testIgnoringNonBase64InDecode,"Base64Test, String, Base64"
+org.apache.commons.codec.StringEncoderComparatorTest.testComparatorWithDoubleMetaphone,"StringBuilder, Collections, Arrays, StringEncoderComparatorTest, DoubleMetaphone, StringEncoderComparator, List"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testDefaultEncoding,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.language.SoundexTest.testEncodeIgnoreHyphens,"Soundex, SoundexTest"
+org.apache.commons.codec.digest.DigestUtilsTest.testSha512,"ByteArrayInputStream, DigestUtils, String, DigestUtilsTest"
+org.apache.commons.codec.net.URLCodecTest.testEncodeNull,"URLCodec, URLCodecTest"
+org.apache.commons.codec.binary.BinaryCodecTest.testDecodebyteArray,"BinaryCodec, String, BinaryCodecTest"
+org.apache.commons.codec.net.URLCodecTest.testEncodeUrlWithNullBitSet,"String, URLCodecTest, URLCodec"
+org.apache.commons.codec.language.RefinedSoundexTest.testLocaleIndependence,
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualJohn,
+org.apache.commons.codec.net.QCodecTest.testLetUsMakeCloverHappy,"QCodecTest, QCodec"
+org.apache.commons.codec.language.MetaphoneTest.testEncodeEmpty,
+org.apache.commons.codec.net.URLCodecTest.testDecodeInvalid,"URLCodec, URLCodecTest"
+org.apache.commons.codec.binary.HexTest.testDecodeClassCastException,"HexTest, Hex"
+org.apache.commons.codec.language.SoundexTest.testEncodeBatch4,"Soundex, SoundexTest"
+org.apache.commons.codec.net.URLCodecTest.testInvalidEncoding,"URLCodec, URLCodecTest"
+org.apache.commons.codec.language.MetaphoneTest.testTCH,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.language.RefinedSoundexTest.testEncodeWithInvalidObject,
+org.apache.commons.codec.net.URLCodecTest.testDecodeStringWithNull,"URLCodec, URLCodecTest"
+org.apache.commons.codec.binary.BinaryCodecTest.testEncodeObjectException,"BinaryCodec, BinaryCodecTest"
+org.apache.commons.codec.net.URLCodecTest.testDecodeObjects,"Double, String, URLCodecTest, URLCodec"
+org.apache.commons.codec.binary.Base64Test.testRfc2045Section2Dot1CrLfDefinition,"Arrays, Base64Test"
+org.apache.commons.codec.language.MetaphoneTest.testWordEndingInMB,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.binary.Base64Test.testObjectEncodeWithValidParameter,"Base64Test, String, Base64"
+org.apache.commons.codec.language.SoundexTest.testBadCharacters,"Soundex, SoundexTest"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testCCedilla,"DoubleMetaphoneTest, DoubleMetaphone"
+org.apache.commons.codec.binary.HexTest.testEncodeEmpty,"Arrays, HexTest, Hex"
+org.apache.commons.codec.digest.DigestUtilsTest.testMD5HexLength,"DigestUtils, String, DigestUtilsTest"
+org.apache.commons.codec.language.MetaphoneTest.testTIOAndTIAToX,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.language.MetaphoneTest.testMetaphone,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.digest.DigestUtilsTest.testShaHex,"ByteArrayInputStream, DigestUtils, String, DigestUtilsTest"
+org.apache.commons.codec.language.MetaphoneTest.testPHTOF,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.net.URLCodecTest.testUTF8RoundTrip,"URLCodecTest, URLCodec, StringBuffer"
+org.apache.commons.codec.language.SoundexTest.testEncodeIgnoreTrimmable,"Soundex, SoundexTest"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualAlbert,
+org.apache.commons.codec.net.RFC1522CodecTest.testNullInput,"RFC1522Codec, RFC1522CodecTest, RFC1522CodecTest$RFC1522TestCodec"
+org.apache.commons.codec.binary.BinaryCodecTest.testFromAsciicharArray,"BinaryCodec, String, BinaryCodecTest"
+org.apache.commons.codec.binary.Base64Test.testSingletons,"Base64Test, String, Base64"
+org.apache.commons.codec.net.QuotedPrintableCodecTest.testInvalidEncoding,"QuotedPrintableCodec, QuotedPrintableCodecTest"
+org.apache.commons.codec.binary.Base64Test.testTriplets,"Base64Test, String, Base64"
+org.apache.commons.codec.language.SoundexTest.testLocaleIndependence,
+org.apache.commons.codec.language.DoubleMetaphoneTest.testIsDoubleMetaphoneNotEqual,"DoubleMetaphoneTest, DoubleMetaphone"
+org.apache.commons.codec.binary.Base64Test.testNonBase64Test,"Base64Test, Base64"
+org.apache.commons.codec.net.QCodecTest.testEncodeDecodeBlanks,"QCodecTest, QCodec"
+org.apache.commons.codec.net.URLCodecTest.testDecodeInvalidContent,"String, URLCodecTest, URLCodec, StringBuffer"
+org.apache.commons.codec.language.RefinedSoundexTest.testDifference,"RefinedSoundex, RefinedSoundexTest"
+org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualRay,
+org.apache.commons.codec.net.QCodecTest.testDecodeStringWithNull,"QCodecTest, QCodec"
+org.apache.commons.codec.language.SoundexTest.testEncodeBatch2,"Soundex, SoundexTest"
+org.apache.commons.codec.binary.Base64Test.testSingletonsChunked,"Base64Test, String, Base64"
+org.apache.commons.codec.language.RefinedSoundexTest.testEncode,"RefinedSoundex, RefinedSoundexTest"
+org.apache.commons.codec.language.MetaphoneTest.testTranslateOfSCHAndCH,"Metaphone, MetaphoneTest"
+org.apache.commons.codec.binary.Base64Test.testIsArrayByteBase64,"Base64Test, Base64"
+org.apache.commons.codec.StringEncoderComparatorTest.testComparatorNoArgCon,"StringEncoderComparator, StringEncoderComparatorTest"
+org.apache.commons.codec.net.URLCodecTest.testEncodeObjects,"Double, String, URLCodecTest, URLCodec"
+org.apache.commons.codec.language.SoundexTest.testEncodeBatch3,"Soundex, SoundexTest"
+org.apache.commons.codec.binary.BinaryCodecTest.testEncodebyteArray,"BinaryCodec, String, BinaryCodecTest"
+org.apache.commons.codec.net.URLCodecTest.testDefaultEncoding,"URLCodec, URLCodecTest"
+org.apache.commons.codec.language.DoubleMetaphoneTest.testNTilde,"DoubleMetaphoneTest, DoubleMetaphone"

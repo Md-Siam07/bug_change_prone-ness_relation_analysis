@@ -1,0 +1,6 @@
+org.apache.commons.cli2.option.SwitchTest.testProcess
+org.apache.commons.cli2.option.CommandTest.testHelpLines
+org.apache.commons.cli2.option.DefaultOptionTest.testProcess
+org.apache.commons.cli2.commandline.WriteableCommandLineImplTest.testToMakeEclipseSpotTheTestCase
+org.apache.commons.cli2.option.DefaultOptionTest.testHelpLines
+org.apache.commons.cli2.option.SwitchTest.testHelpLines

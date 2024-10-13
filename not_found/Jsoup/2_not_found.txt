@@ -1,0 +1,2 @@
+org.jsoup.parser.ParserTest.normalisesDocument
+org.jsoup.integration.UrlConnectTest.noop

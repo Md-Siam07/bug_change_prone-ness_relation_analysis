@@ -1,0 +1,13 @@
+org.jfree.chart.util.junit.PaintListTests.testHashCode
+org.jfree.chart.axis.junit.CategoryLabelWidthTypeTests.testEquals
+org.jfree.data.time.junit.WeekTests.testGetLastMillisecondWithTimeZone
+org.jfree.data.time.junit.WeekTests.testBug1498805
+org.jfree.chart.axis.junit.AxisLocationTests.testEquals
+org.jfree.data.time.junit.WeekTests.testGetFirstMillisecondWithTimeZone
+org.jfree.chart.plot.junit.CategoryPlotTests.testConstructor
+org.jfree.data.time.junit.WeekTests.testBug1448828
+org.jfree.data.time.junit.WeekTests.testConstructor
+org.jfree.chart.renderer.junit.AreaRendererEndTypeTests.testEquals
+org.jfree.chart.axis.junit.LogAxisTests.testEquals
+org.jfree.chart.title.junit.ImageTitleTests.testSerialization
+org.jfree.chart.renderer.junit.AbstractRendererTests.testHashCode

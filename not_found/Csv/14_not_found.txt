@@ -1,0 +1,5 @@
+org.apache.commons.csv.CSVFileParserTest.testCSVUrl
+org.apache.commons.csv.CSVParserTest.testBOMInputStream_parseWithReader
+org.apache.commons.csv.CSVParserTest.testBOMInputStream_ParserWithInputStream
+org.apache.commons.csv.CSVParserTest.testBOMInputStream_ParserWithReader
+org.apache.commons.csv.bugs.JiraCsv167Test.parse

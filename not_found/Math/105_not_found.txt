@@ -1,0 +1,13 @@
+org.apache.commons.math.stat.inference.TTestFactoryTest.testOneSampleTTest
+org.apache.commons.math.stat.inference.TTestFactoryTest.testSmallSamples
+org.apache.commons.math.stat.inference.TTestFactoryTest.testTwoSampleTHeterscedastic
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest.testChiSquareLargeTestStatistic
+org.apache.commons.math.distribution.WeibullDistributionTest.testSampling
+org.apache.commons.math.stat.descriptive.summary.SumTest.testWeightedConsistency
+org.apache.commons.math.stat.inference.TTestFactoryTest.testOneSampleT
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest.testChiSquare
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest.testChiSquareZeroCount
+org.apache.commons.math.stat.inference.ChiSquareFactoryTest.testChiSquareIndependence
+org.apache.commons.math.distribution.ChiSquareDistributionTest.testSampling
+org.apache.commons.math.stat.inference.TTestFactoryTest.testPaired
+org.apache.commons.math.stat.inference.TTestFactoryTest.testTwoSampleTHomoscedastic

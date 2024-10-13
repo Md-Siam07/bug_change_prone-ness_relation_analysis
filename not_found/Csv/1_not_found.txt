@@ -1,0 +1,2 @@
+org.apache.commons.csv.ExtendedBufferedReaderTest.testReadChar
+org.apache.commons.csv.ExtendedBufferedReaderTest.testReadLookahead1

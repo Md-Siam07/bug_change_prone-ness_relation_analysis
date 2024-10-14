@@ -73,6 +73,8 @@ def extract_invoked_classes():
             continue
         if project == 'Lang' and version == '65':
             continue
+        if project != 'Cli' or version != '22':
+            continue
         fault_case_df = pd.read_csv(fault_test_cases_path)
         vv = fault_case_df[(fault_case_df['project'] == project) & (fault_case_df['fault_id'] == int(version))]['version'].values[0]
         tcs = get_test_cases(project, vv)
@@ -139,6 +141,8 @@ def extract_invoked_classes():
                 # input()
                 # Add callee_class to the caller's list of used classes
                 if caller in methods:
+                    if caller == 'org.apache.commons.cli.BugsTest.test21215':
+                        print('ase to caller e')
                     methods[caller].append(callee_class)
                 else:
                     methods[caller] = [callee_class, caller_class] # Include the caller class as well, since we are considering the change proneness of the classes used by the test case as well
@@ -172,7 +176,11 @@ def extract_invoked_classes():
             #         for method in not_found:
             #             nf.write(f"{method}\n")
             #     print(f"Output saved to {out_file}")
-                    
+
+            if "org.apache.commons.cli.BugsTest.test21215" in tcs:
+                print('ase to')
+            if "org.apache.commons.cli.BugsTest.test21215" in all_method_classes:
+                print('ase to 2')      
             faulty_methods = fault_case_df[(fault_case_df['project'] == project) & (fault_case_df['fault_id'] == int(version))]['test_case'].unique()
             cc = 0
             not_found = []

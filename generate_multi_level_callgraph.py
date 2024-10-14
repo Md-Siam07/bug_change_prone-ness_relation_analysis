@@ -68,13 +68,12 @@ def extract_invoked_classes():
         # file names are of the format: {Project}_{version}_buggy.txt
         project, version, _ = file_name.split("_")
         # print(f"Processing {project}_{version}")
-        # skip the Closure project, and Lang 65 for now
+        # skip the Closure project, and Lang 65 for now (skipping closure because the list of test cases is not available in ATM)
         if project == 'Closure':
             continue
         if project == 'Lang' and version == '65':
             continue
-        if project != 'Cli' or version != '22':
-            continue
+        print(f"Processing {project}_{version}")
         fault_case_df = pd.read_csv(fault_test_cases_path)
         vv = fault_case_df[(fault_case_df['project'] == project) & (fault_case_df['fault_id'] == int(version))]['version'].values[0]
         tcs = get_test_cases(project, vv)
@@ -141,8 +140,8 @@ def extract_invoked_classes():
                 # input()
                 # Add callee_class to the caller's list of used classes
                 if caller in methods:
-                    if caller == 'org.apache.commons.cli.BugsTest.test21215':
-                        print('ase to caller e')
+                    # if caller == 'org.apache.commons.cli.BugsTest.test21215':
+                    #     print('ase to caller e')
                     methods[caller].append(callee_class)
                 else:
                     methods[caller] = [callee_class, caller_class] # Include the caller class as well, since we are considering the change proneness of the classes used by the test case as well
@@ -150,37 +149,42 @@ def extract_invoked_classes():
             # print(function_calls['org.apache.commons.lang.BooleanUtilsTest.test_isFalse_Boolean'])
             
             all_method_classes = {}
-
+            # print(methods)
+            # input()
             # Iterate through all methods
             for method in methods:
                 all_method_classes[method] = get_all_used_classes(method, function_calls, methods)
 
+            # print(all_method_classes)
+            # input()
+            if os.path.exists(out_file):
+                continue
             # save the list of all used classes for each method in a csv file
-            # with open(out_file, 'w') as file:
-            #     cc = 0
-            #     not_found = []
-            #     writer = csv.writer(file)
-            #     writer.writerow(["Method", "Used Classes"])
-            #     for method in tcs:
-            #         if method in all_method_classes:
-            #             writer.writerow([method, ", ".join(all_method_classes[method])])
-            #         else:
-            #             writer.writerow([method, ""])
-            #             not_found.append(method)
-            #             cc += 1
-            #     print(f"{cc} test cases not found in the call graph")
-            #     if not os.path.exists(f"{not_found_dir}/{project}"):
-            #         os.makedirs(f"{not_found_dir}/{project}")
-            #     # save the test cases not found in the call graph
-            #     with open(f"{not_found_dir}/{project}/{version}_not_found.txt", "w") as nf:
-            #         for method in not_found:
-            #             nf.write(f"{method}\n")
-            #     print(f"Output saved to {out_file}")
+            with open(out_file, 'w') as file:
+                cc = 0
+                not_found = []
+                writer = csv.writer(file)
+                writer.writerow(["Method", "Used Classes"])
+                for method in tcs:
+                    if method in all_method_classes:
+                        writer.writerow([method, ", ".join(all_method_classes[method])])
+                    else:
+                        writer.writerow([method, ""])
+                        not_found.append(method)
+                        cc += 1
+                print(f"{cc} test cases not found in the call graph")
+                if not os.path.exists(f"{not_found_dir}/{project}"):
+                    os.makedirs(f"{not_found_dir}/{project}")
+                # save the test cases not found in the call graph
+                with open(f"{not_found_dir}/{project}/{version}_not_found.txt", "w") as nf:
+                    for method in not_found:
+                        nf.write(f"{method}\n")
+                print(f"Output saved to {out_file}")
 
-            if "org.apache.commons.cli.BugsTest.test21215" in tcs:
-                print('ase to')
-            if "org.apache.commons.cli.BugsTest.test21215" in all_method_classes:
-                print('ase to 2')      
+            # if "org.apache.commons.cli.BugsTest.test21215" in tcs:
+            #     print('ase to')
+            # if "org.apache.commons.cli.BugsTest.test21215" in all_method_classes:
+            #     print('ase to 2')      
             faulty_methods = fault_case_df[(fault_case_df['project'] == project) & (fault_case_df['fault_id'] == int(version))]['test_case'].unique()
             cc = 0
             not_found = []

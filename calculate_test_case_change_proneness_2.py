@@ -17,6 +17,12 @@ def string_to_list(class_string):
         return []
     return [cls.strip() for cls in class_string.split(',')]
 
+# for project in os.listdir(class_invocation_path):
+#     print(project)
+#     versions = [int(file.split('.')[0]) for file in os.listdir(os.path.join(class_invocation_path, project))]
+#     versions.sort()
+#     print(versions)
+
 for project in os.listdir(class_invocation_path):
 
     if project == 'Chart':
@@ -24,6 +30,7 @@ for project in os.listdir(class_invocation_path):
 
     versions = [int(file.split('.')[0]) for file in os.listdir(os.path.join(class_invocation_path, project))]
     versions.sort()
+    print(project,versions)
     
     for version in versions:
         print(project, version)
@@ -36,6 +43,18 @@ for project in os.listdir(class_invocation_path):
         change_proneness_df['Ratio']=change_proneness_df['Changes']/change_proneness_df['TotalCommits']
         change_proneness_df['LinesRatio'] = (change_proneness_df['Insertions'] + change_proneness_df['Deletions'])/change_proneness_df['TotalCommits']
         results = []
+        output_file_path = f"{output_dir}/{project}/{version}.csv"
+        if not os.path.exists(f"{output_dir}/{project}"):
+            os.makedirs(f"{output_dir}/{project}")
+            
+        # if output file already exists, skip 
+        if os.path.exists(output_file_path):
+            print(f"File already exists: {output_file_path}")
+            continue
+            
+        if project != 'JacksonDatabind':
+            continue
+        print(tcs)
         for index, row in tcs.iterrows():
             tc = row['Method']
             used_classes = row['Used Classes']
@@ -45,13 +64,7 @@ for project in os.listdir(class_invocation_path):
             change_proneness_values = change_proneness_df[change_proneness_df['ClassName'].isin(used_classes)]
             # print(used_classes_change_proneness)
 
-            output_file_path = f"{output_dir}/{project}/{version}.csv"
-            if not os.path.exists(f"{output_dir}/{project}"):
-                os.makedirs(f"{output_dir}/{project}")
             
-            # if output file already exists, skip 
-            if os.path.exists(output_file_path):
-                continue
             # Calculate change proneness metrics
             max_cp = change_proneness_values['Ratio'].max()
             avg_cp = change_proneness_values['Ratio'].mean()

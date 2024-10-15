@@ -4,13 +4,16 @@ import os
 import re
 from scipy import stats
 import json
+import warnings
 
-change_dir = "accumulated_changes_stable_with_line_fixed_4"
-function_call_path = "/home/mdsiam/Desktop/extension/Callgraph/cg2"
+change_dir = "accumulated_changes_with_line_fixed_3"
+function_call_path = "/home/mdsiam/Desktop/extension/Callgraph/cg3"
 all_test_cases_path = "../Data/unique_test_cases.csv"
 output_dir = f"testcase_change_proneness_{change_dir.replace('accumulated_changes_', '')}"
 fault_test_cases_path = "../Data/faults_tests.csv"
 class_invocation_path = "class_invocations"
+
+warnings.filterwarnings("ignore", category=RuntimeWarning, module="numpy.core._methods")
 
 def string_to_list(class_string):
     if pd.isna(class_string):
@@ -54,7 +57,7 @@ for project in os.listdir(class_invocation_path):
             
         if project != 'JacksonDatabind':
             continue
-        print(tcs)
+        # print(tcs)
         for index, row in tcs.iterrows():
             tc = row['Method']
             used_classes = row['Used Classes']

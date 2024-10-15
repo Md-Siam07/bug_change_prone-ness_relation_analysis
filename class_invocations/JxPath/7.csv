@@ -1,0 +1,242 @@
+Method,Used Classes
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testStaticMethodCall,"StringBuilder, ExtensionFunctionTest, Class"
+org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoPredicatesStandard,"SimplePathInterpreterTest, JXPathContext"
+org.apache.commons.jxpath.ri.compiler.CoreOperationTest.testInfoSetTypes,"CoreOperationTest, Double"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreFunction,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testBeanPrimitive,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testEstablishNodeSetBaseline,
+org.apache.commons.jxpath.ri.compiler.CoreOperationTest.testNodeSetOperations,
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.testDefaultJDOM,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.testPreserveDOM,"DocumentContainer, StringBuilder, JXPathContext, XMLSpaceTest, Class"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testBeanContainer,
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testLocationPathAxisAttribute,
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testSingletonArrayToString,
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.doTest,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testMapDocument,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testID,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testVarMap,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testRemovePathCollectionElement,"Variables, VariableTest, JXPathContext"
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testCreatePath,"DynamicPropertiesModelTest, TestBean, JXPathContext"
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testStaticMethodLookupWithExpressionContext,"Integer, Locale, NodePointer, ExtensionFunctionTest, ExtensionFunctionTest$Context, Function, Object, Functions"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testNull,"TestNull, MixedModelTest, Object, JXPathContext"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testDocument,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisNamespace,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testListList,
+org.apache.commons.jxpath.ri.model.container.ContainerModelTest.testContainerVariableWithCollection,"UnsupportedOperationException, Variables, ContainerModelTest, ContainerModelTest$ArrayContainer, Object, JXPathContext"
+org.apache.commons.jxpath.ri.compiler.VariableTest.testCreatePathAndSetValueDeclareVariableSetProperty,
+org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoPredicateName,"Integer, NestedTestBean, TestBeanWithNode, SimplePathInterpreterTest, Map, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationUnion,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testBeanBean,"Integer, MixedModelTest"
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.doTest,"Class, DocumentContainer, StringBuilder, XMLSpaceTest, JXPathContext"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testIterateArray,"Map, MixedModelTest, HashMap, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationOr,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisChild,
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testBeanUtilsConverter,"BasicTypeConverterTest, BigDecimal"
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testSingletonCollectionToString,"BasicTypeConverterTest, Collections"
+org.apache.commons.jxpath.ri.compiler.VariableTest.testUnionOfVariableAndNode,"VariableTest, Double"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testLocationPathAxisChild,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisFollowing,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testCreatePathDeclareVariableSetCollectionElement,"VariableTest, JXPathContext"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisAncestorOrSelf,
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testAxisChild,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testMethodLookupWithExpressionContext,"Integer, Locale, NodePointer, ExpressionContext, String, Pointer, ExtensionFunctionTest, Number, TestFunctions, ExtensionFunctionTest$Context, Function, Object, Functions"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testElementInVariable,
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.testPreserveJDOM,"DocumentContainer, StringBuilder, JXPathContext, XMLSpaceTest, Class"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationNotEqual,
+org.apache.commons.jxpath.ri.model.beans.BeanModelTest.testIndexedProperty,"BeanModelTest, Integer, TestIndexedPropertyBean, Object, JXPathContext"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testIterateVector,"HashMap, Vector, MixedModelTest, Map, JXPathContext"
+org.apache.commons.jxpath.ri.compiler.VariableTest.testVariablesInExpressions,"VariableTest, Double"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testBooleanFunction,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testNamespaceMapping,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testCreatePathAndSetValueDeclareVariable,
+org.apache.commons.jxpath.ri.compiler.CoreFunctionTest.testExtendedKeyFunction,"Arrays, CoreFunctionTest$3, Variables, NodePointer, CoreFunctionTest, CoreFunctionTest$3$1, Object, JXPathContext"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisDescendant,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testStaticMethodLookup,"Integer, Locale, NodePointer, ExtensionFunctionTest, ExtensionFunctionTest$Context, Function, Object, Functions"
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testSetNewKey,"DynamicPropertiesModelTest, Integer"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testMapBean,"Integer, MixedModelTest"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisAncestor,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisAncestorOrSelf,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testContainer,
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testNodeSetToInteger,"Integer, Collections, BasicTypeConverterTest$3, BasicTypeConverterTest, Object"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testCreatePath,
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.testNestedWithCommentsDOM,"DocumentContainer, StringBuilder, JXPathContext, XMLSpaceTest, Class"
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.testUnspecifiedJDOM,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationDivide,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisParent,
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.testNestedWithCommentsJDOM,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testLocationPathAxisOther,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testListBean,"Integer, MixedModelTest"
+org.apache.commons.jxpath.ri.compiler.VariableTest.testCreatePathExpandCollection,"Variables, VariableTest, JXPathContext"
+org.apache.commons.jxpath.ri.compiler.VariableTest.testIterateVariable,VariableTest
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisFollowingSibling,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisChild,
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testCreatePathCreateBean,"DynamicPropertiesModelTest, Integer, TestBean, JXPathContext"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testSetValue,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testBeanList,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testVarElement,
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.testUnspecifiedDOM,"DocumentContainer, StringBuilder, JXPathContext, XMLSpaceTest, Class"
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testConstructorLookup,"Integer, Locale, NodePointer, ExtensionFunctionTest, ExtensionFunctionTest$Context, Function, Object, Functions"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationMinus,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testID,
+org.apache.commons.jxpath.ri.model.container.ContainerModelTest.testContainerPropertyWithCollection,"UnsupportedOperationException, List, ContainerModelTest$ListContainer, ContainerModelTest$Bean, ArrayList, ContainerModelTest, Object, JXPathContext"
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.testNestedDOM,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.compiler.CoreFunctionTest.testCoreFunctions,"CoreFunctionTest, Double"
+org.apache.commons.jxpath.ri.compiler.VariableTest.testRemovePathUndeclareVariable,"Variables, VariableTest, JXPathContext"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisFollowingSibling,
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationUnaryMinus,
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testRemovePath,"DynamicPropertiesModelTest, TestBean, Map, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationNameAttributeTest,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testCreatePathDeclareVariableSetCollectionElementProperty,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testExpressionContext,"Integer, ExtensionFunctionTest, Double"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testCreatePathAndSetValue,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testMapList,
+org.apache.commons.jxpath.ri.axes.RecursiveAxesTest.testInfiniteDescent,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testLang,
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationAnd,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testLang,
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.testNestedDOM,"DocumentContainer, StringBuilder, JXPathContext, XMLSpaceTest, Class"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testDocumentOrder,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testBeanDocument,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testContainer,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testRemovePath,
+org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoStepNoPredicatesPropertyOwner,"SimplePathInterpreterTest, Integer, NestedTestBean, TestBeanWithNode"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisAttribute,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testRootAsCollection,
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testExtensionFunction,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testMethodCall,"Integer, ExtensionFunctionTest"
+org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoStepNoPredicatesStandard,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testCollectionReturn,"Variables, List, ExtensionFunctionTest, ArrayList, JXPathContext"
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testCollectionOfMaps,"HashMap, DynamicPropertiesModelTest, List, ArrayList, TestBean, Map, JXPathContext"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testBooleanFunction,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisSelf,
+org.apache.commons.jxpath.ri.compiler.ContextDependencyTest.testContextDependency,"Parser, StringBuilder, TreeCompiler, ContextDependencyTest, Expression"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testNodeTypeText,
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testPointerToString,"BasicTypeConverterTest, BasicTypeConverterTest$1, Object"
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testSetPrimitiveValue,"DynamicPropertiesModelTest, Integer"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testIteratePointersArrayElementWithVariable,"Iterator, Integer, Variables, HashMap, MixedModelTest, List, Pointer, ArrayList, Map, JXPathContext"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisFollowing,
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testLocationPathAxisSelf,
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testInvalidConversion,"TypeUtils, BasicTypeConverterTest"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testVarBean,"Integer, MixedModelTest"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testCreatePathAndSetValue,
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testCreatePathAndSetValue,"DynamicPropertiesModelTest, TestBean, JXPathContext"
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testArrayToArray,"Arrays, BasicTypeConverterTest"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testSetValue,
+org.apache.commons.jxpath.ri.compiler.CoreFunctionTest.testKeyFunction,"CoreFunctionTest, CoreFunctionTest$2, NodePointer, Object, JXPathContext"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testCreatePath,
+org.apache.commons.jxpath.ri.compiler.CoreFunctionTest.testIDFunction,"CoreFunctionTest, CoreFunctionTest$1, NodePointer, Object, JXPathContext"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testErrorProperty,"Variables, ExceptionPropertyTestBean, MixedModelTest, Object, JXPathContext"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisAncestor,
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testRemovePathArrayElement,"DynamicPropertiesModelTest, TestBean, Map, JXPathContext"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testCreatePath,"Integer, NestedTestBean, AbstractFactory, HashMap, MixedModelTest, TestMixedModelFactory, TestBean, Object, JXPathContext"
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testAllocation,"Variables, StringBuilder, Class, ExtensionFunctionTest, JXPathContext"
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testPrimitiveToString,"Integer, BasicTypeConverterTest"
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testNodeSetToString,"BasicTypeConverterTest$2, Collections, ArrayList, BasicTypeConverterTest, List, Object"
+org.apache.commons.jxpath.ri.model.container.ContainerModelTest.testContainerMapWithCollection,"UnsupportedOperationException, HashMap, ContainerModelTest$ListContainer, List, ArrayList, ContainerModelTest, Object, Map, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationMultiply,
+org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoPredicateIndex,"SimplePathInterpreterTest, Integer, NestedTestBean, TestBeanWithNode"
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.testDefaultDOM,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationEqual,
+org.apache.commons.jxpath.ri.StressTest.testThreads,"StressTest$StressRunnable, Double, Math, StringBuilder, Thread, StressTest, Object, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testLocationPathAxisDescendantOrSelf,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testBeanElement,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testMethodLookup,"Locale, NodePointer, ExpressionContext, String, Pointer, ExtensionFunctionTest, Number, TestFunctions, ExtensionFunctionTest$Context, Function, Object, Functions"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testTypeConversions,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testNodeTypeProcessingInstruction,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testVar,"MixedModelTest, Variables, JXPathContext"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testNodeTypeComment,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testInvalidVariableName,"Integer, VariableTest, JXPathContext"
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.testPreserveDOM,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testGetNode,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testElementInVariable,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testMethodLookupWithExpressionContextAndArgument,"Integer, Locale, NodePointer, ExpressionContext, String, Pointer, ExtensionFunctionTest, Number, TestFunctions, ExtensionFunctionTest$Context, Function, Object, Functions"
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.testDefaultJDOM,"DocumentContainer, StringBuilder, JXPathContext, XMLSpaceTest, Class"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testVarDocument,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testNodeTypeProcessingInstruction,
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testAttributeName,"DynamicPropertiesModelTest, Map, JXPathContext"
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.testNestedWithCommentsJDOM,"DocumentContainer, StringBuilder, JXPathContext, XMLSpaceTest, Class"
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testConstructorLookupWithExpressionContext,"Integer, Locale, NodePointer, ExtensionFunctionTest, ExtensionFunctionTest$Context, Function, Object, Functions"
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.testNestedJDOM,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisDescendant,
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationMod,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testCreatePathDeclareVariable,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testIteratePointersArray,"Iterator, HashMap, MixedModelTest, List, Pointer, ArrayList, Map, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationGreaterThan,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisChildIndexPredicate,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testCreatePathAndSetValueWithMatrix,"Integer, MixedModelTest, JXPathContext"
+org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoStepPredicatesStandard,
+org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testDoStepPredicatesPropertyOwner,
+org.apache.commons.jxpath.ri.model.container.ContainerModelTest.testContainerRootWithCollection,"UnsupportedOperationException, Variables, ContainerModelTest, ContainerModelTest$ArrayContainer, Object, JXPathContext"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testBeanMap,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testListElement,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisNamespace,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testGetNode,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testVariables,"VariableTest, Double"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisSelf,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testBCNodeSetHack,"TypeUtils, JXPath11CompatibleTypeConverter, ExtensionFunctionTest"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testListDocument,
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testListToArray,"Arrays, Integer, BasicTypeConverterTest"
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testCreatePathNewCollectionElement,"Integer, DynamicPropertiesModelTest, TestBean, Map, JXPathContext"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testListMap,
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationLessThanOrEqual,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testNodeSetReturn,"TestBean, ExtensionFunctionTest"
+org.apache.commons.jxpath.ri.compiler.VariableTest.testNestedContext,"VariableTest, Double, JXPathContext"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisChildIndexPredicate,
+org.apache.commons.jxpath.ri.model.beans.BadlyImplementedFactoryTest.testBadFactoryImplementation,"JXPathException, BadlyImplementedFactoryTest, JXPathContext"
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.testNestedJDOM,"DocumentContainer, StringBuilder, JXPathContext, XMLSpaceTest, Class"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testLocationPathNodeTest,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testRemovePath,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testMatrix,"Integer, MixedModelTest, Variables, JXPathContext"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testNodeTypeText,
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testCreatePathCollectionElement,"DynamicPropertiesModelTest, TestBean, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationGreaterThanOrEqual,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testDocumentOrder,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testFunctionsLastAndPosition,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testMapPrimitive,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testMapMap,
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testTypeConversions,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testSetValue,"Integer, VariableTest"
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.testUnspecifiedJDOM,"DocumentContainer, StringBuilder, JXPathContext, XMLSpaceTest, Class"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testVarContainer,
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.testPreserveJDOM,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testCollectionMethodCall,"Integer, Variables, List, String, ExtensionFunctionTest, ArrayList, JXPathContext"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testNamespaceMapping,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testNodeTypeComment,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testVarList,
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.testNestedWithCommentsDOM,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testExpressionPath,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisAttribute,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testMapContainer,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testVarPrimitive,
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testConstant,
+org.apache.commons.jxpath.ri.model.MixedModelTest.testMapElement,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testDocument,
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testMapOfMaps,"HashMap, DynamicPropertiesModelTest, TestBean, Map, JXPathContext"
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testFunctionsLastAndPosition,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testCreateAndSetValuePathDeclareVariableSetCollectionElement,"VariableTest, JXPathContext"
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testCreatePathAndSetValueCreateBean,"DynamicPropertiesModelTest, Integer, TestBean, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationLessThan,
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testLocationPathAxisDescendant,
+org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest.testInterpretExpressionPath,"SimplePathInterpreterTest, TestNull, Variables, Object, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testCoreOperationSum,
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testCreatePathAndSetValueNewCollectionElement,"Integer, DynamicPropertiesModelTest, TestBean, Map, JXPathContext"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testVariableReference,
+org.apache.commons.jxpath.util.BasicTypeConverterTest.testArrayToList,"Arrays, Integer, BasicTypeConverterTest"
+org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest.testAxisPrecedingSibling,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisParent,
+org.apache.commons.jxpath.ri.model.dom.DOMModelTest.testAxisPrecedingSibling,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testRemovePathArrayElement,"Variables, VariableTest, JXPathContext"
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testSetCollection,"DynamicPropertiesModelTest, Integer, JXPathContext"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testCollectionPointer,"Integer, HashMap, Double, MixedModelTest, List, ArrayList, Map, JXPathContext"
+org.apache.commons.jxpath.ri.compiler.VariableTest.testCreatePathDeclareVariableSetProperty,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testCreatePathAndSetValueDeclVarSetCollectionElementProperty,
+org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest.testStaticMethodLookupWithConversion,"Integer, Locale, NodePointer, ExtensionFunctionTest, ExtensionFunctionTest$Context, Function, Object, Functions"
+org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest.testLocationPathAxisParent,
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testCreatePathAndSetValueCollectionElement,"DynamicPropertiesModelTest, TestBean, JXPathContext"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testListContainer,
+org.apache.commons.jxpath.ri.compiler.CoreFunctionTest.testFormatNumberFunction,"CoreFunctionTest, DecimalFormatSymbols, JXPathContext"
+org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest.testUnspecifiedDOM,"XMLPreserveSpaceTest, DocumentContainer, StringBuilder, Class, JXPathContext"
+org.apache.commons.jxpath.ri.model.MixedModelTest.testListPrimitive,
+org.apache.commons.jxpath.ri.model.XMLSpaceTest.testDefaultDOM,"DocumentContainer, StringBuilder, JXPathContext, XMLSpaceTest, Class"
+org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest.testAxisDescendant,
+org.apache.commons.jxpath.ri.compiler.VariableTest.testCreatePathAndSetValueExpandCollection,"Variables, VariableTest, JXPathContext"

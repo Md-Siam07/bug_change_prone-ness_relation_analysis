@@ -1,0 +1,2 @@
+com.fasterxml.jackson.databind.deser.TestExceptionDeserialization.testSingleValueArrayDeserialization
+com.fasterxml.jackson.databind.introspect.TestPropertyRename323.testCreatorPropRenameWithCleave

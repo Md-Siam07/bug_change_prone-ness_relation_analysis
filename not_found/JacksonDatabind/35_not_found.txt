@@ -1,0 +1,3 @@
+com.fasterxml.jackson.databind.deser.TestExceptionDeserialization.testSingleValueArrayDeserialization
+com.fasterxml.jackson.databind.deser.TestNoClassDefFoundDeserializer.testClassIsMissing
+com.fasterxml.jackson.databind.deser.TestNoClassDefFoundDeserializer.testUseMissingClass

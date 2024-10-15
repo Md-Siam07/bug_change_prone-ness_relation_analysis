@@ -1,0 +1,5 @@
+com.fasterxml.jackson.databind.introspect.NoClassDefFoundWorkaroundTest.testClassIsMissing
+com.fasterxml.jackson.databind.deser.TestExceptionDeserialization.testSingleValueArrayDeserialization
+com.fasterxml.jackson.databind.creators.ImplicitNameMatch792Test.testValue
+com.fasterxml.jackson.databind.introspect.NoClassDefFoundWorkaroundTest.testUseMissingClass
+com.fasterxml.jackson.databind.jsontype.TestSubtypes.testIssue1125WithDefault

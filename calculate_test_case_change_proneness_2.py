@@ -6,7 +6,7 @@ from scipy import stats
 import json
 import warnings
 
-change_dir = "accumulated_changes_with_line_fixed_3"
+change_dir = "accumulated_changes_with_line_fixed_2"
 function_call_path = "/home/mdsiam/Desktop/extension/Callgraph/cg3"
 all_test_cases_path = "../Data/unique_test_cases.csv"
 output_dir = f"testcase_change_proneness_{change_dir.replace('accumulated_changes_', '')}"
@@ -55,8 +55,6 @@ for project in os.listdir(class_invocation_path):
             print(f"File already exists: {output_file_path}")
             continue
             
-        if project != 'JacksonDatabind':
-            continue
         # print(tcs)
         for index, row in tcs.iterrows():
             tc = row['Method']
@@ -133,6 +131,7 @@ for project in os.listdir(class_invocation_path):
         results_df = pd.DataFrame(results)
 
         if results_df.empty:
+            print("Empty DataFrame")
             continue
         # Sort the DataFrame by 'SumChangeProneness'
         results_df = results_df.sort_values(by='Sum', ascending=False)
